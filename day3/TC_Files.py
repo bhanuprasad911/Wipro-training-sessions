@@ -1,0 +1,17 @@
+f = open("./day1/a.txt", "r")
+content = f.read()
+content1 = f.readline()
+content2 = f.readlines()
+print(content2)
+print(content1)
+print(content)
+f.close()
+
+f = open("./day1/a.txt", "w")
+f.write("\n New line added")
+f.close()
+
+file=open("./day1/a.txt","w")
+file.write("Hello Python\n")
+file.write("This is my write example")
+file.close()
