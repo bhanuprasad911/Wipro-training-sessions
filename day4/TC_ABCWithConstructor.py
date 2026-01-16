@@ -6,3 +6,10 @@ class Employee:
     @abstractmethod
     def salary(self):
         pass
+    
+class Manager(Employee):
+    def salary(self):
+        print(self.name, "salary is 50000")
+    
+m1=Manager("Bhanu")
+m1.salary()
