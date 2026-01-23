@@ -48,6 +48,16 @@ def patch_user(user_id):
             user["name"]=data.get("name")
             return jsonify(user)
     return jsonify({"message": "user not found"}), 404
+@app.route("/users/<int:id>", methods=["DELETE"])
+def delete_user(id):
+    try:
+        for i in users:
+            if i['id'] == id:
+                users.remove(i)
+                return jsonify({"message": f"user with ID {id} deleted successfully"}),200
+        return jsonify({"message": f"couldn't find the user with the id {id}"})
+    except Exception as e:
+        return ({"Error":str(e)})
 
 
 if __name__=="__main__":
