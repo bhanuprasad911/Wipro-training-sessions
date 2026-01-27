@@ -1,0 +1,3 @@
+Test Runner:"The engine that discovers your test files, executes the code, and determines if the actual result matches the expected result (e.g., pytest)."
+Test Reports:"The output of the run. It summarizes how many tests passed, failed, or were skipped, often providing logs or screenshots for failures."
+Configuration Files:"Centralized files (.ini, .yaml, or .env) that store environment-specific data like base_url = https://staging.example.com. This allows you to change environments without touching the code."
