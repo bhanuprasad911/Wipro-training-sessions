@@ -1,0 +1,7 @@
+5. Explain how Pytest supports scalable test automation
+
+Feature,How it handles Scale
+Fixtures (conftest.py),"Instead of copying setup code, fixtures are defined once and ""injected"" into any test that needs them."
+Modular Design,You can organize tests into hundreds of sub-folders; Pytest’s Discovery Engine finds them automatically without a central registry.
+Parallelism (xdist),"As your suite grows from 10 to 1,000 tests, you simply add more CPU cores or worker nodes to keep the execution time low."
+Plug-and-Play,"You can add functionality (like database cleanup, browser automation, or mobile testing) by installing a plugin rather than rewriting your core framework logic."
