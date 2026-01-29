@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.1 (Python 3.13.7 on linux)" generated="2026-01-29T16:14:28.076911" rpa="false" schemaversion="5">
+<suite id="s1" name="Source" source="/home/vamshi/bhanu/Wipro/day12/Assignments/Assignment1/source.robot">
+<test id="s1-t1" name="Use scalar variable and logging" line="9">
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-01-29T16:14:28.310410" level="INFO">This message will be logged into log.html file</msg>
+<arg>message=This message will be logged into log.html file</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-01-29T16:14:28.309912" elapsed="0.000595"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>message=Printing to console: ${Message}</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2026-01-29T16:14:28.310798" elapsed="0.000528"/>
+</kw>
+<kw name="Should End With" owner="BuiltIn">
+<arg>${Message}</arg>
+<arg>str2=assignment</arg>
+<doc>Fails if the string ``str1`` does not end with the string ``str2``.</doc>
+<status status="PASS" start="2026-01-29T16:14:28.311577" elapsed="0.000593"/>
+</kw>
+<status status="PASS" start="2026-01-29T16:14:28.308627" elapsed="0.003813"/>
+</test>
+<test id="s1-t2" name="Use list variables" line="14">
+<kw name="Should Contain" owner="BuiltIn">
+<msg time="2026-01-29T16:14:28.313958" level="FAIL">'['1 2 3 4 5']' does not contain '4'</msg>
+<arg>${numbers}</arg>
+<arg>4</arg>
+<doc>Fails if ``container`` does not contain ``item`` one or more times.</doc>
+<status status="FAIL" start="2026-01-29T16:14:28.313260" elapsed="0.001331">'['1 2 3 4 5']' does not contain '4'</status>
+</kw>
+<status status="FAIL" start="2026-01-29T16:14:28.312782" elapsed="0.002166">'['1 2 3 4 5']' does not contain '4'</status>
+</test>
+<status status="FAIL" start="2026-01-29T16:14:28.078408" elapsed="0.237222"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Source" id="s1" pass="1" fail="1" skip="0">Source</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

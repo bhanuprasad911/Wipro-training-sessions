@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.1 (Python 3.13.7 on linux)" generated="2026-01-29T16:38:18.652801" rpa="false" schemaversion="5">
+<suite id="s1" name="Source" source="/home/vamshi/bhanu/Wipro/day12/Assignments/Assignment2/Source.robot">
+<test id="s1-t1" name="Check Python Installation" line="8">
+<kw name="Run Process" owner="Process">
+<msg time="2026-01-29T16:38:18.889016" level="INFO">Starting process:
+python3 --version</msg>
+<msg time="2026-01-29T16:38:18.890042" level="INFO">Waiting for process to complete.</msg>
+<msg time="2026-01-29T16:38:18.892026" level="INFO">Process completed.</msg>
+<msg time="2026-01-29T16:38:18.892219" level="INFO">${result} = &lt;result object with rc 0&gt;</msg>
+<var>${result}</var>
+<arg>python3</arg>
+<arg>--version</arg>
+<doc>Runs a process and waits for it to complete.</doc>
+<status status="PASS" start="2026-01-29T16:38:18.888529" elapsed="0.003746"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-01-29T16:38:18.893664" level="INFO">output:Python 3.13.7</msg>
+<arg>output:${result.stdout}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-01-29T16:38:18.892625" elapsed="0.001132"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>OUTPUT:${result.stdout}</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2026-01-29T16:38:18.894018" elapsed="0.000823"/>
+</kw>
+<kw name="Should Be Equal As Integers" owner="BuiltIn">
+<msg time="2026-01-29T16:38:18.895878" level="INFO">Argument types are:
+&lt;class 'int'&gt;
+&lt;class 'str'&gt;</msg>
+<arg>${result.rc}</arg>
+<arg>0</arg>
+<arg>msg=Python command failed to execute</arg>
+<doc>Fails if objects are unequal after converting them to integers.</doc>
+<status status="PASS" start="2026-01-29T16:38:18.895054" elapsed="0.000957"/>
+</kw>
+<kw name="Should Contain" owner="BuiltIn">
+<arg>${result.stdout}</arg>
+<arg>Python 3</arg>
+<doc>Fails if ``container`` does not contain ``item`` one or more times.</doc>
+<status status="PASS" start="2026-01-29T16:38:18.896226" elapsed="0.000872"/>
+</kw>
+<status status="PASS" start="2026-01-29T16:38:18.887141" elapsed="0.010234"/>
+</test>
+<test id="s1-t2" name="Check Robot Framework Installation ANd Print Its Version" line="15">
+<kw name="Run Process" owner="Process">
+<msg time="2026-01-29T16:38:18.898672" level="INFO">Starting process:
+robot --version</msg>
+<msg time="2026-01-29T16:38:18.899507" level="INFO">Waiting for process to complete.</msg>
+<msg time="2026-01-29T16:38:19.174272" level="INFO">Process completed.</msg>
+<msg time="2026-01-29T16:38:19.174568" level="INFO">${result} = &lt;result object with rc 251&gt;</msg>
+<var>${result}</var>
+<arg>robot</arg>
+<arg>--version</arg>
+<doc>Runs a process and waits for it to complete.</doc>
+<status status="PASS" start="2026-01-29T16:38:18.898323" elapsed="0.276297"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-01-29T16:38:19.175805" level="INFO">output:Robot Framework 7.4.1 (Python 3.13.7 on linux)</msg>
+<arg>output:${result.stdout}</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-01-29T16:38:19.174977" elapsed="0.000896"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>OUTPUT:${result.stdout}</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2026-01-29T16:38:19.176043" elapsed="0.000714"/>
+</kw>
+<kw name="Should Be Equal As Integers" owner="BuiltIn">
+<msg time="2026-01-29T16:38:19.177679" level="INFO">Argument types are:
+&lt;class 'int'&gt;
+&lt;class 'str'&gt;</msg>
+<arg>${result.rc}</arg>
+<arg>251</arg>
+<arg>msg=Robot command failed to execute</arg>
+<doc>Fails if objects are unequal after converting them to integers.</doc>
+<status status="PASS" start="2026-01-29T16:38:19.176941" elapsed="0.000822"/>
+</kw>
+<kw name="Should Contain" owner="BuiltIn">
+<arg>${result.stdout}</arg>
+<arg>Robot Framework</arg>
+<doc>Fails if ``container`` does not contain ``item`` one or more times.</doc>
+<status status="PASS" start="2026-01-29T16:38:19.177931" elapsed="0.000738"/>
+</kw>
+<kw name="Capture Page Screenshot" owner="SeleniumLibrary">
+<msg time="2026-01-29T16:38:19.179030" level="INFO">Cannot capture screenshot because no browser is open.</msg>
+<arg>result.png</arg>
+<doc>Takes a screenshot of the current page and embeds it into a log file.</doc>
+<status status="PASS" start="2026-01-29T16:38:19.178873" elapsed="0.000252"/>
+</kw>
+<status status="PASS" start="2026-01-29T16:38:18.897735" elapsed="0.281627"/>
+</test>
+<status status="PASS" start="2026-01-29T16:38:18.654005" elapsed="0.526026"/>
+</suite>
+<statistics>
+<total>
+<stat pass="2" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Source" id="s1" pass="2" fail="0" skip="0">Source</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
