@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.1 (Python 3.13.7 on linux)" generated="2026-01-30T15:52:55.882409" rpa="false" schemaversion="5">
+<suite id="s1" name="Source" source="/home/vamshi/bhanu/Wipro/day13/Assignments/Assignment1/Source.robot">
+<test id="s1-t1" name="Open Google" line="5">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2026-01-30T15:52:56.013395" level="INFO">Opening browser 'chrome' to base url 'https://www.google.com'.</msg>
+<msg time="2026-01-30T15:53:01.072409" level="WARN">There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache</msg>
+<msg time="2026-01-30T15:53:01.072678" level="WARN">Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)</msg>
+<arg>https://www.google.com</arg>
+<arg>chrome</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2026-01-30T15:52:56.013218" elapsed="12.885267"/>
+</kw>
+<kw name="Title Should Be" owner="SeleniumLibrary">
+<msg time="2026-01-30T15:53:08.902804" level="INFO">Page title is 'Google'.</msg>
+<arg>Google</arg>
+<doc>Verifies that the current page title equals ``title``.</doc>
+<status status="PASS" start="2026-01-30T15:53:08.898974" elapsed="0.003934"/>
+</kw>
+<kw name="Capture Page Screenshot" owner="SeleniumLibrary">
+<msg time="2026-01-30T15:53:09.051586" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="google_homepage.png"&gt;&lt;img src="google_homepage.png" width="800px"&gt;&lt;/a&gt;</msg>
+<arg>google_homepage.png</arg>
+<doc>Takes a screenshot of the current page and embeds it into a log file.</doc>
+<status status="PASS" start="2026-01-30T15:53:08.903129" elapsed="0.148559"/>
+</kw>
+<kw name="Close Browser" owner="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="PASS" start="2026-01-30T15:53:09.051903" elapsed="0.066138"/>
+</kw>
+<status status="PASS" start="2026-01-30T15:52:56.012558" elapsed="13.105760"/>
+</test>
+<status status="PASS" start="2026-01-30T15:52:55.883136" elapsed="13.235670"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Source" id="s1" pass="1" fail="0" skip="0">Source</stat>
+</suite>
+</statistics>
+<errors>
+<msg time="2026-01-30T15:53:01.072409" level="WARN">There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache</msg>
+<msg time="2026-01-30T15:53:01.072678" level="WARN">Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)</msg>
+</errors>
+</robot>

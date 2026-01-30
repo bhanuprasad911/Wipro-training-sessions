@@ -1,0 +1,5 @@
+${username},${password},${expected_result}
+admin,admin123,success
+admin,wrongpass,failure
+user1,user123,success
+user2,wrong,failure

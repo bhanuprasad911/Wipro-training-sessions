@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.1 (Python 3.13.7 on linux)" generated="2026-01-30T12:35:17.391011" rpa="false" schemaversion="5">
+<suite id="s1" name="Source" source="/home/vamshi/bhanu/Wipro/day13/TC002_Excel/source.robot">
+<kw name="Open Orangehrm" type="SETUP">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2026-01-30T12:35:17.756231" level="INFO">Opening browser 'chrome' to base url 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login'.</msg>
+<arg>${url}</arg>
+<arg>${browser}</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2026-01-30T12:35:17.756023" elapsed="10.942480"/>
+</kw>
+<kw name="Maximize Browser Window" owner="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" start="2026-01-30T12:35:28.698728" elapsed="0.012798"/>
+</kw>
+<status status="PASS" start="2026-01-30T12:35:17.755467" elapsed="10.956194"/>
+</kw>
+<test id="s1-t1" name="Login with user from Excel" line="30">
+<kw name="Orangehrmlogin With Excel">
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2026-01-30T12:35:33.713239" level="INFO">Slept 5 seconds.</msg>
+<arg>5s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2026-01-30T12:35:28.712850" elapsed="5.000578"/>
+</kw>
+<kw name="Wait Until Element Is Visible" owner="SeleniumLibrary">
+<arg>name=username</arg>
+<arg>10s</arg>
+<doc>Waits until the element ``locator`` is visible.</doc>
+<status status="PASS" start="2026-01-30T12:35:33.713676" elapsed="0.020181"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-01-30T12:35:33.734328" level="INFO">Typing text 'Admin' into text field 'name=username'.</msg>
+<arg>name=username</arg>
+<arg>${username}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-01-30T12:35:33.734070" elapsed="0.054885"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-01-30T12:35:33.789410" level="INFO">Typing text 'admin123' into text field 'name=password'.</msg>
+<arg>name=password</arg>
+<arg>${password}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-01-30T12:35:33.789143" elapsed="0.054965"/>
+</kw>
+<kw name="Click Button" owner="SeleniumLibrary">
+<msg time="2026-01-30T12:35:33.844496" level="INFO">Clicking button 'xpath=//button[@type="submit"]'.</msg>
+<arg>xpath=//button[@type="submit"]</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<status status="PASS" start="2026-01-30T12:35:33.844300" elapsed="0.053716"/>
+</kw>
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2026-01-30T12:35:43.898589" level="INFO">Slept 10 seconds.</msg>
+<arg>10s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2026-01-30T12:35:33.898204" elapsed="10.000506"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-01-30T12:35:43.899076" level="INFO">Clicking element 'xpath=//*[@id="app"]/div[1]/div[1]/header/div[1]/div[3]/ul/li/span'.</msg>
+<arg>xpath=//*[@id="app"]/div[1]/div[1]/header/div[1]/div[3]/ul/li/span</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-01-30T12:35:43.898889" elapsed="0.054118"/>
+</kw>
+<kw name="Click Link" owner="SeleniumLibrary">
+<msg time="2026-01-30T12:35:43.953596" level="INFO">Clicking link 'Logout'.</msg>
+<arg>Logout</arg>
+<doc>Clicks a link identified by ``locator``.</doc>
+<status status="PASS" start="2026-01-30T12:35:43.953312" elapsed="10.041916"/>
+</kw>
+<arg>username=Admin</arg>
+<arg>password=admin123</arg>
+<status status="PASS" start="2026-01-30T12:35:28.712591" elapsed="25.282758"/>
+</kw>
+<tag>DDT</tag>
+<status status="PASS" start="2026-01-30T12:35:28.711740" elapsed="25.283781"/>
+</test>
+<test id="s1-t2" name="Login with user from Excel" line="30">
+<kw name="Orangehrmlogin With Excel">
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2026-01-30T12:35:58.997132" level="INFO">Slept 5 seconds.</msg>
+<arg>5s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2026-01-30T12:35:53.996819" elapsed="5.000460"/>
+</kw>
+<kw name="Wait Until Element Is Visible" owner="SeleniumLibrary">
+<arg>name=username</arg>
+<arg>10s</arg>
+<doc>Waits until the element ``locator`` is visible.</doc>
+<status status="PASS" start="2026-01-30T12:35:58.997488" elapsed="0.015399"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-01-30T12:35:59.013298" level="INFO">Typing text 'Kumar' into text field 'name=username'.</msg>
+<arg>name=username</arg>
+<arg>${username}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-01-30T12:35:59.013062" elapsed="0.035888"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-01-30T12:35:59.049629" level="INFO">Typing text 'admin123' into text field 'name=password'.</msg>
+<arg>name=password</arg>
+<arg>${password}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-01-30T12:35:59.049215" elapsed="0.046699"/>
+</kw>
+<kw name="Click Button" owner="SeleniumLibrary">
+<msg time="2026-01-30T12:35:59.096278" level="INFO">Clicking button 'xpath=//button[@type="submit"]'.</msg>
+<arg>xpath=//button[@type="submit"]</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<status status="PASS" start="2026-01-30T12:35:59.096105" elapsed="0.042807"/>
+</kw>
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2026-01-30T12:36:09.139826" level="INFO">Slept 10 seconds.</msg>
+<arg>10s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2026-01-30T12:35:59.139157" elapsed="10.000822"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-01-30T12:36:09.140446" level="INFO">Clicking element 'xpath=//*[@id="app"]/div[1]/div[1]/header/div[1]/div[3]/ul/li/span'.</msg>
+<msg time="2026-01-30T12:36:09.367859" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-12.png"&gt;&lt;img src="selenium-screenshot-12.png" width="800px"&gt;&lt;/a&gt;</msg>
+<msg time="2026-01-30T12:36:09.368039" level="FAIL">Element with locator 'xpath=//*[@id="app"]/div[1]/div[1]/header/div[1]/div[3]/ul/li/span' not found.</msg>
+<arg>xpath=//*[@id="app"]/div[1]/div[1]/header/div[1]/div[3]/ul/li/span</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="FAIL" start="2026-01-30T12:36:09.140191" elapsed="0.229126">Element with locator 'xpath=//*[@id="app"]/div[1]/div[1]/header/div[1]/div[3]/ul/li/span' not found.</status>
+</kw>
+<kw name="Click Link" owner="SeleniumLibrary">
+<arg>Logout</arg>
+<doc>Clicks a link identified by ``locator``.</doc>
+<status status="NOT RUN" start="2026-01-30T12:36:09.369461" elapsed="0.000033"/>
+</kw>
+<arg>username=Kumar</arg>
+<arg>password=admin123</arg>
+<status status="FAIL" start="2026-01-30T12:35:53.996605" elapsed="15.372983">Element with locator 'xpath=//*[@id="app"]/div[1]/div[1]/header/div[1]/div[3]/ul/li/span' not found.</status>
+</kw>
+<tag>DDT</tag>
+<status status="FAIL" start="2026-01-30T12:35:53.995793" elapsed="15.373981">Element with locator 'xpath=//*[@id="app"]/div[1]/div[1]/header/div[1]/div[3]/ul/li/span' not found.</status>
+</test>
+<kw name="Close All Browsers" owner="SeleniumLibrary" type="TEARDOWN">
+<doc>Closes all open browsers and resets the browser cache.</doc>
+<status status="PASS" start="2026-01-30T12:36:09.370106" elapsed="0.075236"/>
+</kw>
+<status status="FAIL" start="2026-01-30T12:35:17.391688" elapsed="52.053739"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+<stat pass="1" fail="1" skip="0">DDT</stat>
+</tag>
+<suite>
+<stat name="Source" id="s1" pass="1" fail="1" skip="0">Source</stat>
+</suite>
+</statistics>
+<errors>
+<msg time="2026-01-30T12:35:53.995856" level="WARN">Multiple tests with name 'Login with user from Excel' executed in suite 'Source'.</msg>
+</errors>
+</robot>
