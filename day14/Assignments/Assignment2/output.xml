@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.1 (Python 3.13.7 on linux)" generated="2026-02-02T16:37:39.416386" rpa="false" schemaversion="5">
+<suite id="s1" name="Source" source="/home/vamshi/bhanu/Wipro/day14/Assignments/Assignment2/Source.robot">
+<test id="s1-t1" name="Form Interaction Test" line="9">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2026-02-02T16:37:39.528942" level="INFO">Opening browser 'chrome' to base url 'https://demo.automationtesting.in/Register.html'.</msg>
+<arg>${URL}</arg>
+<arg>${BROWSER}</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2026-02-02T16:37:39.528731" elapsed="2.289654"/>
+</kw>
+<kw name="Maximize Browser Window" owner="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" start="2026-02-02T16:37:41.818924" elapsed="0.032371"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-02-02T16:37:41.851891" level="INFO">Typing text 'Bhanu' into text field 'xpath=//input[@placeholder='First Name']'.</msg>
+<arg>xpath=//input[@placeholder='First Name']</arg>
+<arg>Bhanu</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-02T16:37:41.851532" elapsed="0.090638"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-02-02T16:37:41.943182" level="INFO">Typing text 'Prasad' into text field 'xpath=//input[@placeholder='Last Name']'.</msg>
+<arg>xpath=//input[@placeholder='Last Name']</arg>
+<arg>Prasad</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-02T16:37:41.942581" elapsed="0.073224"/>
+</kw>
+<kw name="Select Radio Button" owner="SeleniumLibrary">
+<msg time="2026-02-02T16:37:42.016168" level="INFO">Selecting 'Male' from radio button 'radiooptions'.</msg>
+<arg>radiooptions</arg>
+<arg>Male</arg>
+<doc>Sets the radio button group ``group_name`` to ``value``.</doc>
+<status status="PASS" start="2026-02-02T16:37:42.016010" elapsed="0.062982"/>
+</kw>
+<kw name="Select Checkbox" owner="SeleniumLibrary">
+<msg time="2026-02-02T16:37:42.079709" level="INFO">Selecting checkbox 'id=checkbox1'.</msg>
+<arg>id=checkbox1</arg>
+<doc>Selects the checkbox identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-02T16:37:42.079347" elapsed="0.111722"/>
+</kw>
+<kw name="Run Keyword And Return Status" owner="BuiltIn">
+<kw name="Checkbox Should Be Selected" owner="SeleniumLibrary">
+<msg time="2026-02-02T16:37:42.192205" level="INFO">Verifying checkbox 'id=checkbox1' is selected.</msg>
+<arg>id=checkbox1</arg>
+<doc>Verifies checkbox ``locator`` is selected/checked.</doc>
+<status status="PASS" start="2026-02-02T16:37:42.192005" elapsed="0.016043"/>
+</kw>
+<msg time="2026-02-02T16:37:42.208190" level="INFO">${is_selected} = True</msg>
+<var>${is_selected}</var>
+<arg>Checkbox Should Be Selected</arg>
+<arg>id=checkbox1</arg>
+<doc>Runs the specified keyword and returns the status as a Boolean value.</doc>
+<status status="PASS" start="2026-02-02T16:37:42.191413" elapsed="0.016803"/>
+</kw>
+<kw name="Run Keyword If" owner="BuiltIn">
+<kw name="Log To Console" owner="BuiltIn">
+<arg>Cricket hobby selected</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2026-02-02T16:37:42.209017" elapsed="0.000207"/>
+</kw>
+<arg>'${is_selected}' == 'True'</arg>
+<arg>Log To Console</arg>
+<arg>Cricket hobby selected</arg>
+<doc>Runs the given keyword with the given arguments, if ``condition`` is true.</doc>
+<status status="PASS" start="2026-02-02T16:37:42.208378" elapsed="0.000926"/>
+</kw>
+<kw name="Select From List By Label" owner="SeleniumLibrary">
+<msg time="2026-02-02T16:37:42.209607" level="INFO">Selecting options from selection list 'id=Skills' by label Python.</msg>
+<arg>id=Skills</arg>
+<arg>Python</arg>
+<doc>Selects options from selection list ``locator`` by ``labels``.</doc>
+<status status="PASS" start="2026-02-02T16:37:42.209454" elapsed="0.069365"/>
+</kw>
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2026-02-02T16:37:45.279632" level="INFO">Slept 3 seconds.</msg>
+<arg>3s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2026-02-02T16:37:42.279111" elapsed="3.000695"/>
+</kw>
+<kw name="Close Browser" owner="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="PASS" start="2026-02-02T16:37:45.280094" elapsed="0.065928"/>
+</kw>
+<status status="PASS" start="2026-02-02T16:37:39.528070" elapsed="5.818204"/>
+</test>
+<status status="PASS" start="2026-02-02T16:37:39.417157" elapsed="5.929552"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Source" id="s1" pass="1" fail="0" skip="0">Source</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

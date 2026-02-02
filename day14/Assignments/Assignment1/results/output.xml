@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.1 (Python 3.13.7 on linux)" generated="2026-02-02T16:34:58.026423" rpa="false" schemaversion="5">
+<suite id="s1" name="Source" source="/home/vamshi/bhanu/Wipro/day14/Assignments/Assignment1/Source.robot">
+<kw name="Open Application" type="SETUP">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2026-02-02T16:34:58.135595" level="INFO">Opening browser 'chrome' to base url 'https://www.saucedemo.com/'.</msg>
+<arg>${URL}</arg>
+<arg>${BROWSER}</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2026-02-02T16:34:58.135396" elapsed="1.753225"/>
+</kw>
+<kw name="Maximize Browser Window" owner="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" start="2026-02-02T16:34:59.888902" elapsed="0.013099"/>
+</kw>
+<kw name="Wait Until Element Is Visible" owner="SeleniumLibrary">
+<arg>id=user-name</arg>
+<arg>10s</arg>
+<doc>Waits until the element ``locator`` is visible.</doc>
+<status status="PASS" start="2026-02-02T16:34:59.902191" elapsed="0.028277"/>
+</kw>
+<status status="PASS" start="2026-02-02T16:34:58.134952" elapsed="1.795668"/>
+</kw>
+<test id="s1-t1" name="Valid Login Test" line="16">
+<kw name="Start Test Case" type="SETUP">
+<kw name="Log To Console" owner="BuiltIn">
+<arg>\n=== Starting Test Case ===</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2026-02-02T16:34:59.931603" elapsed="0.000342"/>
+</kw>
+<status status="PASS" start="2026-02-02T16:34:59.931316" elapsed="0.000702"/>
+</kw>
+<kw name="Perform Login">
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-02-02T16:34:59.932685" level="INFO">Typing text 'standard_user' into text field 'id=user-name'.</msg>
+<arg>id=user-name</arg>
+<arg>${username}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-02T16:34:59.932465" elapsed="0.091719"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-02-02T16:35:00.024605" level="INFO">Typing text 'secret_sauce' into text field 'id=password'.</msg>
+<arg>id=password</arg>
+<arg>${password}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-02T16:35:00.024360" elapsed="0.056689"/>
+</kw>
+<kw name="Click Button" owner="SeleniumLibrary">
+<msg time="2026-02-02T16:35:00.081644" level="INFO">Clicking button 'id=login-button'.</msg>
+<arg>id=login-button</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-02T16:35:00.081249" elapsed="0.072525"/>
+</kw>
+<arg>standard_user</arg>
+<arg>secret_sauce</arg>
+<status status="PASS" start="2026-02-02T16:34:59.932241" elapsed="0.221650"/>
+</kw>
+<kw name="Page Should Contain" owner="SeleniumLibrary">
+<msg time="2026-02-02T16:35:00.166387" level="INFO">Current page contains text 'Products'.</msg>
+<arg>Products</arg>
+<doc>Verifies that current page contains ``text``.</doc>
+<status status="PASS" start="2026-02-02T16:35:00.154084" elapsed="0.012469"/>
+</kw>
+<kw name="End Test Case" type="TEARDOWN">
+<kw name="Log To Console" owner="BuiltIn">
+<arg>=== Test Case Finished ===\n</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2026-02-02T16:35:00.167386" elapsed="0.000330"/>
+</kw>
+<status status="PASS" start="2026-02-02T16:35:00.167044" elapsed="0.000773"/>
+</kw>
+<tag>login</tag>
+<tag>smoke</tag>
+<status status="PASS" start="2026-02-02T16:34:59.930747" elapsed="0.237161"/>
+</test>
+<kw name="Close Application" type="TEARDOWN">
+<kw name="Close All Browsers" owner="SeleniumLibrary">
+<doc>Closes all open browsers and resets the browser cache.</doc>
+<status status="PASS" start="2026-02-02T16:35:00.168812" elapsed="0.072130"/>
+</kw>
+<status status="PASS" start="2026-02-02T16:35:00.168606" elapsed="0.072475"/>
+</kw>
+<doc>Demo Suite showing Suite Setup/Teardown, Test Setup/Teardown, Tags</doc>
+<status status="PASS" start="2026-02-02T16:34:58.027233" elapsed="2.213897"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+<stat pass="1" fail="0" skip="0">login</stat>
+<stat pass="1" fail="0" skip="0">smoke</stat>
+</tag>
+<suite>
+<stat name="Source" id="s1" pass="1" fail="0" skip="0">Source</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
