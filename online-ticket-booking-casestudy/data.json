@@ -1,44 +1,44 @@
 [
-  {
-    "id": 101,
-    "movie_name": "Interstellar",
-    "language": "English",
-    "duration": "2h 49m",
-    "price": 250
-  },
-  {
-    "id": 102,
-    "movie_name": "Inception",
-    "language": "English",
-    "duration": "2h 28m",
-    "price": 220
-  },
-  {
-    "id": 103,
-    "movie_name": "Bahubali: The Beginning",
-    "language": "Telugu",
-    "duration": "2h 39m",
-    "price": 200
-  },
-  {
-    "id": 104,
-    "movie_name": "KGF Chapter 1",
-    "language": "Kannada",
-    "duration": "2h 35m",
-    "price": 180
-  },
-  {
-    "id": 105,
-    "movie_name": "Vikram",
-    "language": "Tamil",
-    "duration": "2h 53m",
-    "price": 210
-  },
-  {
-    "id": 106,
-    "movie_name": "The Dark Knight",
-    "language": "English",
-    "duration": "2h 32m",
-    "price": 230
-  }
+    {
+        "id": 101,
+        "movie_name": "Interstellar",
+        "language": "English",
+        "duration": "2h 49m",
+        "price": 250
+    },
+    {
+        "id": 102,
+        "movie_name": "Inception",
+        "language": "English",
+        "duration": "2h 28m",
+        "price": 220
+    },
+    {
+        "id": 103,
+        "movie_name": "Bahubali: The Beginning",
+        "language": "Telugu",
+        "duration": "2h 39m",
+        "price": 200
+    },
+    {
+        "id": 104,
+        "movie_name": "KGF Chapter 1",
+        "language": "Kannada",
+        "duration": "2h 35m",
+        "price": 180
+    },
+    {
+        "id": 105,
+        "movie_name": "Vikram",
+        "language": "Tamil",
+        "duration": "2h 53m",
+        "price": 210
+    },
+    {
+        "id": 106,
+        "movie_name": "The Dark Knight",
+        "language": "English",
+        "duration": "2h 32m",
+        "price": 230
+    }
 ]

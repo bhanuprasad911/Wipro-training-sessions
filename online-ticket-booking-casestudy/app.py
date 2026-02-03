@@ -35,13 +35,18 @@ def add_movie():
         data = request.get_json()
 
         if not data:
-            return jsonify({"message": "Required details not found"}), 400
+            return jsonify({"message": "Input data is empty"}), 400
 
-        if not all(k in data for k in ("movie_name", "duration", "language", "price")):
+        # Validate required fields
+        required_fields = ("movie_name", "duration", "language", "price")
+        if not all(field in data for field in required_fields):
             return jsonify({"message": "Missing required fields"}), 400
 
+        # Generate safe unique ID
+        new_id = max([m["id"] for m in movies_data], default=100) + 1
+
         new_movie = {
-            "id": 100+len(movies_data) + 1,
+            "id": new_id,
             "movie_name": data["movie_name"],
             "duration": data["duration"],
             "language": data["language"],
@@ -49,12 +54,16 @@ def add_movie():
         }
 
         movies_data.append(new_movie)
+
+        # 🔥 Persist data
+        with open('data.json', 'w') as f:
+            json.dump(movies_data, f, indent=4)
+
         return jsonify(new_movie), 201
 
     except Exception as e:
         print(e)
-        return jsonify({"message": "Error while adding the movie"}), 500
-
+        return jsonify({"message": "Error while adding movie, contact administrator"}), 500
 
 # Get Movie By ID
 @app.route("/movies/<int:id>", methods=["GET"])
@@ -93,7 +102,7 @@ def update_movie_details(id):
 
     except Exception as e:
         print(e)
-        return jsonify({"message": "Error while updating movie"}), 500
+        return jsonify({"message": "Error while updating movie, please contact administrator"}), 500
 
 
 # Delete Movie
@@ -103,6 +112,8 @@ def delete_movie(id):
         for movie in movies_data:
             if movie["id"] == id:
                 movies_data.remove(movie)
+                with open('data.json', 'w') as f:
+                    json.dump(movies_data, f, indent=4)
                 return jsonify({"message": "Movie deleted successfully"}), 200
         return jsonify({"message": "Movie not found"}), 404
     except Exception as e:
@@ -146,12 +157,12 @@ def book_ticket():
 
         return jsonify({
             "message": "Ticket booked successfully",
-            "data": new_booking
+            "data":new_booking
         }), 201
 
     except Exception as e:
         print(e)
-        return jsonify({"message": "Internal server error"}), 500
+        return jsonify({"message": "Error while booking ticket, please contact administrator"}), 500
 
 if __name__ == "__main__":
     app.run(debug=True)
