@@ -1,0 +1,881 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Rediff.com: News | Rediffmail | Stock Quotes | Rediff Gurus</title>
+<meta name="keywords" content="Latest India News, Rediffmail, Live Stock Updates, Share Market Advice, Mutual Fund Quotes, Stock Quotes, Share price, Free email, Live Cricket Score, Sports News, Bollywood News, Movie Review, Rediff Money, Wealth Management, Sensex, Moneywiz, Rediffmail Login, Videos, Business Email, Rediff, Bollywood, Bollywood Gossip, Get Ahead" />
+<meta name="description" content="&#10004;Read Latest India News &#10004;Get Realtime Stock Quotes &#10004;See Live Cricket Scores &#10004;Log in to Rediffmail &#10004;Expert advice on career, personal finance and relationships" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta property="og:title" content="Rediff.com: News | Rediffmail | Stock Quotes | Rediff Gurus" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.rediff.com" />
+<meta property="og:site_name" content="Rediff" />
+<meta property="og:description" content="&#10004;Read Latest India News &#10004;Get Realtime Stock Quotes &#10004;See Live Cricket Scores &#10004;Log in to Rediffmail &#10004;Expert advice on career, personal finance and relationships" />
+<meta property="og:image" content="https://im.rediff.com/worldrediff/pix/rediff_icon_red.png" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.rediff.com" />
+<link rel="canonical" href="https://www.rediff.com" />
+<link rel="preconnect" href="//imworld.rediff.com" >
+<link rel="preconnect" href="//im.rediff.com" >
+<link rel="preconnect" href="//datastore.rediff.com" >
+<link rel="preconnect" href="https://newads.rediff.com" >
+<link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="preconnect" href="https://indmetric.rediff.com">
+<link rel="dns-prefetch" href="//track.rediff.com/" >
+<link rel="dns-prefetch" href="//bizmail.rediff.com/" >
+<link rel="dns-prefetch" href="//businessemail.rediff.com/" >
+<link rel="dns-prefetch" href="//workmail.rediff.com/" >
+<link rel="preload" href="https://im.rediff.com/worldrediff/pix/homesprite2.webp" as="image" />
+<link rel="preload" href="//imworld.rediff.com/worldrediff/style_3_16/newhome_ind_8.css" as="style">
+<link rel="preload" href="//im.rediff.com/430-250/cricket/2026/feb/15india-pakistan.jpg" as="image"><link rel="icon" type="image/x-icon" href="https://im.rediff.com/favicon2.ico" />
+<link rel="image_src" href="https://im.rediff.com/worldrediff/pix/rediff_icon_red.png" />
+<link rel="stylesheet" href="//imworld.rediff.com/worldrediff/style_3_16/newhome_ind_8.css" />
+<style>.vdicon.center::after{left:calc(50% - 25px);top:calc(50% - 20px)}.navbar .active{margin-right:8px}.logo{width:200px}.newpay::after,.newtv::after{content:'New';font-weight:bold;color:#ff0000;font-size:0.8rem;position:absolute;top:-10px;right:-13px}.lfeedtv{margin-top:10px;padding-top:15px;padding-right:15px;position:relative;font-size:0.95rem;border-top: solid 1px #e4e4e4;}.div_livewidget{overflow:hidden}.botborder{border-bottom:solid 1px #e4e4e4}.lwidgetmore{border-bottom:none;margin-right:0}.redifftvbox{min-width:300px;padding-right:10px}.redifftvbox p{margin-bottom:5px;font-size:1.1rem;font-weight:bold}.div_pay_banner{min-width:300px;max-width:360px;height:200px;text-align:center;margin:10px auto 0 auto;overflow:hidden}.botgap{display:block;height:55px;}.div_bot_sticky{position:fixed;bottom:0;z-index:1;width:100%;display:flex;align-items:center;justify-content:center;text-align:center;}.navlink{margin-left:10px;margin-right:10px}.newbe::after{content:'*FREE 25 Emails';font-weight:bold;color:#ff0000;font-size:0.8rem;position:absolute;top:-10px;right:0;letter-spacing:0.5px;}.widgetimg.big{width:300px;height:130px;float:none;margin-bottom:5px}.div_advt_right{min-height:300px}.lfeedtvnew{width:300px;margin:0 auto}.navbarsocial{width:255px}@media only screen and (max-width:1152px){.navbar{font-size:0.8rem;font-weight:400;top:50px;}}</style>
+
+<script type="application/ld+json">
+{
+	"@context":"https://schema.org","@type":"NewsMediaOrganization","name":"Rediff.com","url":"https://www.rediff.com","logo":{
+		"@type":"ImageObject","url":"https://im.rediff.com/worldrediff/pix/rediff_newlogo.svg","width":400,"height":100
+	},
+	"address":{
+		"@type":"PostalAddress","streetAddress":" Level 9 and 10, Seasons Riddhi Siddhi, Jn of Tilak Road and 1st Gaothan Lane, Santacruz (West)","addressLocality":"Mumbai","addressRegion":"India","addressCountry":"IN","postalCode":"400054"
+	},
+	"contactPoint":{
+		"@type":"ContactPoint","telephone":"+91 - 022 - 61820000","contactType":"Customer Service","areaServed":"IN","availableLanguage":"English","hoursAvailable":{"opens":"09:00","closes":"18:00"}
+	},
+	"sameAs":[
+		"https://x.com/RediffNews",
+		"https://www.instagram.com/rediffnews/",
+		"https://www.facebook.com/people/Rediff-News/61566156876578/",
+		"https://www.youtube.com/@RediffOriginals"
+	]
+}
+</script>
+<script type="application/ld+json">
+{
+	"@context":"https://schema.org",
+	"@type":"SiteNavigationElement",
+	"name":["rediffmail","Rediff Money","Enterprise Email","Business Email","rediffGURUS","News","Business","Movies","Sports","Cricket","Get Ahead","TRUMP'S TARIFFS"],
+	"url":["https://mail.rediff.com/cgi-bin/login.cgi","https://money.rediff.com","https://workmail.rediff.com","https://businessemail.rediff.com","https://gurus.rediff.com","https://www.rediff.com/news","https://www.rediff.com/business","https://www.rediff.com/movies","https://www.rediff.com/sports","https://www.rediff.com/cricket","https://www.rediff.com/getahead","https://www.rediff.com/news/trumps-tariffs-2025"]
+}
+</script>
+
+<script type="application/ld+json">
+{
+	"@context":"https://schema.org",
+	"@type":"WebPage",
+	"name":"Rediff.com: News | Rediffmail | Stock Quotes | Rediff Gurus",
+	"description":"&#10004;Read Latest India News &#10004;Get Realtime Stock Quotes &#10004;See Live Cricket Scores &#10004;Log in to Rediffmail &#10004;Expert advice on career, personal finance and relationships",
+	"keywords":"Latest India News, Rediffmail, Live Stock Updates, Share Market Advice, Mutual Fund Quotes, Stock Quotes, Share price, Free email, Live Cricket Score, Sports News, Bollywood News, Movie Review, Rediff Money, Wealth Management, Sensex, Moneywiz, Rediffmail Login, Videos, Business Email, Rediff, Bollywood, Bollywood Gossip, Getahead",
+	"speakable":{
+		"@type":"SpeakableSpecification",
+		"cssSelector":["h1,h2.news"]
+		},
+	"url":"https://www.rediff.com",
+	"Specialty":"https://schema.org/NewsMediaOrganization",
+	"mainContentOfPage":"News",
+	"inLanguage":"en",
+	"lastReviewed":"2026-02-15"
+}
+</script>
+<script type="application/ld+json">
+{
+	"@context":"https://schema.org","@type":"ItemList","numberOfItems":"10","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.rediff.com","url":"https://www.rediff.com"},"url":"https://www.rediff.com","itemListElement":[{"@type":"ListItem","position":1,"url":"https://m.rediff.com/cricket/commentary/2026/feb/15/liveupdates.htm","name":"T20 WC Updates: Ishan's attack rallies India after early wicket"},{"@type":"ListItem","position":2,"url":"https://www.rediff.com/cricket/report/t20-world-cup-india-to-continue-no-handshake-policy-with-pakistan/20260215.htm","name":"T20 World Cup: Suryakumar, Salman avoid handshake at toss"},{"@type":"ListItem","position":3,"url":"https://www.rediff.com/cricket/report/t20-world-cup-manjrekar-slams-handshake-row/20260215.htm","name":"Manjrekar Slams Handshake Row"},{"@type":"ListItem","position":4,"url":"https://m.rediff.com/news/commentary/2026/feb/15/liveupdates.htm","name":"LIVE! Dog row: Privilege notice to Con MP Renuka Chowdhury "},{"@type":"ListItem","position":5,"url":"https://www.rediff.com/news/report/agencies-bust-8000-mule-accounts-in-j-k-warn-of-terror-funding-risk/20260215.htm","name":"J-K: Agencies bust 8K mule accounts; flag terror funding risk"},{"@type":"ListItem","position":6,"url":"https://www.rediff.com/news/report/days-after-landslide-poll-victory-bnp-office-set-ablaze-in-bangladesh/20260215.htm","name":"BNP office set ablaze in Bangladesh days after poll victory, "},{"@type":"ListItem","position":7,"url":"https://www.rediff.com/news/report/womens-cash-scheme-alone-wont-win-polls-cong-leader-takes-swipe-at-dmk/20260215.htm","name":"Cong leader questions DMK's women's welfare scheme"},{"@type":"ListItem","position":8,"url":"https://www.rediff.com/news/report/white-collar-terror-doctors-formed-ansar-interim-to-target-j-k-beyond/20260215.htm","name":"White-collar terror: Docs set up 'Ansar Interim' to target J-K"},{"@type":"ListItem","position":9,"url":"https://www.rediff.com/news/report/sabarimala-womens-entry-issue-returns-ahead-of-sc-hearing/20260215.htm","name":"Sabarimala women's entry row returns ahead of SC hearing"},{"@type":"ListItem","position":10,"url":"https://www.rediff.com/cricket/report/t20-world-cup-long-live-cricket-long-live-india-pakistan-games/20260215.htm","name":"Long Live Cricket, Long Live India-Pakistan Games"}]
+}
+</script>
+
+<script>
+document.domain = "rediff.com";
+var glb_script_load = 0;var glb_citymapped = 0;
+var endyear = "2026";var loggedin ="";var totalfeaturedpages ="11";var totsmartTrnd ="0";var totsmartBest = "0";
+var cdn_domain = "https://www.rediff.com";var org_domain = "https://mypage.rediff.com";var ishare_domain = "https://ishare.rediff.com";var track_domain ="https://track.rediff.com";var money_domain ="https://money.rediff.com";var imgpath ="//imworld.rediff.com/worldrediff/pix";
+var lwfeedcount = "12";
+var widget_permalink_url = "https://m.rediff.com/news/commentary/2026/feb/15";
+
+function trackURL(url)
+{
+	var tmpurl = url.split("___");
+	if(tmpurl[1]){url = decodeURIComponent(tmpurl[1]);}
+	if(navigator.userAgent.toLowerCase().indexOf('msie') != -1){var referLink = document.createElement('a');referLink.href = url;document.body.appendChild(referLink);referLink.click();}else{document.location.href = url;}
+}
+function clickTrack(ob){document.location.href = ob.href;}
+function trackGuruURL(url){if(navigator.userAgent.toLowerCase().indexOf('msie') != -1){var referLink = document.createElement('a');referLink.href = url;document.body.appendChild(referLink);referLink.click();}else{document.location.href = url;}}
+function getCookie(name){var dc=document.cookie;var prefix=name+"=";var begin=dc.indexOf("; "+prefix);if(begin==-1){begin=dc.indexOf(prefix);if(begin!=0)return null}else begin+=2;var end=document.cookie.indexOf(";",begin);if(end==-1)end=dc.length;return unescape(dc.substring(begin+prefix.length,end))}
+
+</script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+
+<script>
+window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+	googletag.defineSlot('/21677187305/Rediff_Home_728x90_ATF_IN', [[728, 90], [970, 90], [300, 250], [970, 250]], 'div-gpt-ad-1739424341058-0').addService(googletag.pubads());
+	googletag.defineSlot('/21677187305/Rediff_Home_300x250_ATF_IN', [[336, 280], [300, 250]], 'div-gpt-ad-1739424437306-0').addService(googletag.pubads());
+	googletag.defineSlot('/21677187305/Rediff_Home_728x90_Middle_IN', [[970, 66], [960, 90], [950, 90], [930, 180], [970, 250], [970, 90], [750, 100], [750, 200], [728, 90]], 'div-gpt-ad-1742275343016-0').addService(googletag.pubads());
+	googletag.defineSlot('/21677187305/Rediff_Home_300x250_BTF_IN', [[336, 280], [300, 250]], 'div-gpt-ad-1742276266465-0').addService(googletag.pubads());
+	googletag.defineSlot('/21677187305/Rediff_Desktop_Home_970x50_Sticky_IN', [[1, 1], [970, 66]], 'div-gpt-ad-1754644335779-0').addService(googletag.pubads());
+	googletag.defineSlot('/21677187305/Rediff_Home_Widget_ATF', [320, 200], 'div-gpt-ad-1761881845064-0').addService(googletag.pubads());
+	if(screen.width > 1600){
+	googletag.defineSlot('/21677187305/Rediff_Home_120x600_ATF_IN_Left_Margin', [120, 600], 'div-gpt-ad-1741062624084-0').addService(googletag.pubads());
+	googletag.defineSlot('/21677187305/Rediff_Home_120x600_ATF_IN_Right_Margin', [120, 600], 'div-gpt-ad-1741062688278-0').addService(googletag.pubads());
+	}
+	googletag.pubads().enableSingleRequest();
+	googletag.enableServices();
+});
+</script>
+
+<script> window._izq = window._izq || []; window._izq.push(["init"]); </script>
+<script defer src='https://cdn.izooto.com/scripts/39851dc0ca7139b97c039b38dd09bd76150834db.js'></script></head>
+<body>
+<input type="hidden" id="OAS_subsection"  name="OAS_subsection" value="home" />
+<div class="topfixedrow">
+	<div class="logobar flex maxwrap">
+		<div id="menuicon" class="homesprite menuicon"></div>
+		<div class="logo"><a href="https://www.rediff.com"><img src="//imworld.rediff.com/worldrediff/pix/rediff_newlogo.svg" width="120" height="30" alt="logo" /></a></div>
+		<div class="toplinks"><a href="https://mail.rediff.com/cgi-bin/login.cgi" class="linkcolor bold" data-secid="nav_rediffmail" data-pos="1">Rediffmail</a><a href="https://money.rediff.com/index.html" class="linkcolor bold" data-secid="nav_moneywiz" data-pos="1">Money</a>
+		<a href="https://pay.rediff.com/webapp?utm_source=rediff_home_icon&utm_medium=pc&utm_campaign=rediffpay&utm_content=rediffpay_rediff_home_icon_pc" class="linkcolor bold relative newpay" data-secid="nav_billpay" data-pos="1">Bill Payments</a><a href="https://businessemail.rediff.com/?sc_cid=inhome" class="linkcolor bold" data-secid="nav_businessmail" data-pos="1">Business Email</a><a href="https://gurus.rediff.com/" class="linkcolor bold" onclick="trackGuruURL('https://track.rediff.com/click?url=___https://gurus.rediff.com?utm_source=rediff_home_icon&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_icon_pc___&position=nav1&label=rediffgurus&property=hp_in_pc');return false;" data-secid="nav_rediffgurus" data-pos="1">rediffGURUS</a><a href="https://tv.rediff.com?utm_source=rediff_home_icon&utm_medium=pc&utm_campaign=redifftv&utm_content=redifftv_rediff_home_icon_pc" class="linkcolor bold relative newtv" data-secid="nav_redifftv" data-pos="1">rediff-TV</a></div>
+		<div class="toprightlinks">
+			<p id="username" class="username"></p>
+			<p id="signin_info"><a href="https://mail.rediff.com/cgi-bin/login.cgi" title="Already a user? Sign in" class="signin">Sign in</a><br><a href="https://register.rediff.com/register/register.php?FormName=user_details" title="Create Rediffmail Account">Create Account</a></p>
+		</div>
+	</div>
+</div>
+<div id="div_moneyframe" class="maxwrap flex flexcenter div_moneyframe"></div>
+<div id="tower_conatainer" class='tower_conatainer maxwrap'><div id="div_left_tower" class="left_tower"></div><div id="div_right_tower" class="right_tower"></div></div>
+<!-- Begin comScore Tag -->
+
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6035613" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; 
+s.async = true;
+s.src = "https://sb.scorecardresearch.com/cs/6035613/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=6035613&amp;cv=3.6.0&amp;cj=1" alt="comscore"></noscript>
+
+<!-- End comScore Tag --><script>
+
+var ck=document.cookie;
+function getcookie(n){
+	var ar=n+"=";var al=ar.length;var cl=ck.length;var i=0;while(i<cl)
+	{j=i+al;if(ck.substring(i,j)==ar)
+	{e=ck.indexOf(";",j);if(e==-1)
+	e=ck.length;return unescape(ck.substring(j,e));}
+	i=ck.indexOf(" ",i)+1;if(i==0)
+	break;}
+	return "";
+}
+var querystring = "";var path = "";var domain = "";var Rkey_data = "";var Rkey = Math.floor(Math.random() * 1000000);
+querystring = window.location.search;
+path = window.location.pathname;
+domain = window.location.host;
+var tmp_ref = encodeURIComponent(document.referrer);
+if((tmp_ref == null) || (tmp_ref.length == 0)){tmp_ref = "";}
+var resolution = screen.width+'x'+screen.height;
+if (querystring == ""){Rkey_data = "?rkey="+Rkey+"&w="+resolution;}else{Rkey_data = "&rkey="+Rkey+"&w="+resolution;}
+if(tmp_ref != ""){Rkey_data += "&ref="+tmp_ref;}
+var metriccall_img = new Image();
+metriccall_img.src ='//indmetric.rediff.com/'+domain+path+querystring+Rkey_data+'&device=pc';
+
+var Rlo="";var Rl = "";
+Rlo	= getcookie("Rlo");
+Rlo = unescape(Rlo).replace(/\+/g," ");
+Rlo = Rlo.replace("@rediffmail.com","");
+Rlo = Rlo.replace(/[^\w\d\s\-\_]/ig,'');
+Rl = getcookie("Rl");
+Rl = Rl.replace(/[^\w\d\s\-\_@\.]/ig,'');
+var tmp_rsc1 = "";
+tmp_rsc1 = getcookie("Rsc");
+
+
+</script><div class="advtcontainer maxwrap">
+	<div class="advttext"></div>
+	<div id="div_advt_x01" class="div_advt_x01 maxwrap"><div id='div-gpt-ad-1739424341058-0' style='min-width:300px;min-height:90px;'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1739424341058-0');});</script></div></div>
+</div>
+<div class="navbar maxwrap">
+	<div><span class="active">HOME</span><span class="navlink"> <a href="https://pay.rediff.com/webapp/recharge/25a140b3-52a9-42c4-a914-3e4bc088d547?utm_source=rediff_home_nav&utm_medium=pc&utm_campaign=rediffpay&utm_content=rediffpay_rediff_home_nav_pc" data-secid="nav_mobrecharge2" data-pos="1" class="relative newtv">MOBILE RECHARGE</a></span><span class="navlink"><a href="https://www.rediff.com/news" data-secid="nav_news" data-pos="1">NEWS</a></span><span class="navlink"><a href="https://www.rediff.com/business" data-secid="nav_business" data-pos="1">BUSINESS</a></span><span class="navlink"><a href="https://www.rediff.com/movies" data-secid="nav_movies" data-pos="1">MOVIES</a></span><span class="navlink"><a href="https://www.rediff.com/cricket" data-secid="nav_cricket" data-pos="1">CRICKET</a></span><span class="navlink"><a href="https://apps.rediff.com" data-secid="nav_aisitebuilder" data-pos="1" class="relative newtv">AI-WEBSITE BUILDER</a></span><span class="navlink"><a href="https://www.rediff.com/sports" data-secid="nav_sports" data-pos="1">SPORTS</a></span><span class="navlink"><a href="https://www.rediff.com/getahead" data-secid="nav_getahead" data-pos="1">GET AHEAD</a></span></div>
+	<div class="navbarsocial"><span class="followon">Follow Rediff on: </span><a href="https://x.com/RediffNews" target="_blank"><span class="homesprite socialicons twitter"></span></a><a href="https://www.instagram.com/rediffnews/" target="_blank"><span class="homesprite socialicons insta"></span></a><a href="https://www.facebook.com/people/Rediff-News/61566156876578/" target="_blank"><span class="homesprite socialicons fb"></span></a><a href="https://whatsapp.com/channel/0029Va5OV1pLtOjB8oWyne1F" target="_blank"><span class="homesprite socialicons whup"></span></a></div>
+</div>
+
+<div class="maxwrap"><h1 class="sechd">TOP STORIES</h1><i class="clear"></i></div>
+<div class="section flex maxwrap">
+		<div class="col_big" data-boxno="r1_c1_i1_1" data-track="label=edit_topstories&c_type=edit_cricket&news=https%3A%2F%2Fwww.rediff.com%2Fcricket%2Freport%2Ft20-world-cup-long-live-cricket-long-live-india-pakistan-games%2F20260215.htm">
+		<div class="bigimage rcorner relative"><a href="https://www.rediff.com/cricket/report/t20-world-cup-long-live-cricket-long-live-india-pakistan-games/20260215.htm" data-secid="sec1" data-pos="1"><img src="//im.rediff.com/430-210/cricket/2026/feb/15india-pakistan.jpg" width="430" height="210" alt="Long Live Cricket, Long Live India-Pakistan Games" class="rcorner" /></a><span class="absicon"><span class="homesprite secicons cricket"></span></span></div>
+		<h2 class="fstory"><a href="https://www.rediff.com/cricket" class="secname" data-secid="sec1" data-pos="1"><span class="homesprite secicons cricket"></span></a><a href="https://www.rediff.com/cricket/report/t20-world-cup-long-live-cricket-long-live-india-pakistan-games/20260215.htm" data-secid="sec1" data-pos="1">Long Live Cricket, Long Live India-Pakistan Games</a></h2>
+		<div class="clearfix"><p class="floatL ttoread">5 min read</p><p class="floatR updated">5 hours ago</p></div>
+		<div class="div_pay_banner"><div id='div-gpt-ad-1761881845064-0'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1761881845064-0');});</script></div></div>
+	</div>
+	<div class="col_text">
+		<p class="currdate">Feb 15, 2026 IST 19:15:09</p>
+				<h2 class="hdlines" data-boxno="r1_c2_t1_7" data-track="label=edit_topstories&c_type=edit_m&news=https%3A%2F%2Fm.rediff.com%2Fcricket%2Fcommentary%2F2026%2Ffeb%2F15%2Fliveupdates.htm"><a href="https://m.rediff.com/cricket/commentary/2026/feb/15/liveupdates.htm" data-secid="sec1" data-pos="2">T20 WC Updates: Ishan's attack rallies India after early wicket</a>
+		<p class="ttoread"></p>
+		</h2>
+				<h2 class="hdlines" data-boxno="r1_c2_t2_7" data-track="label=edit_topstories&c_type=edit_cricket&news=https%3A%2F%2Fwww.rediff.com%2Fcricket%2Freport%2Ft20-world-cup-india-to-continue-no-handshake-policy-with-pakistan%2F20260215.htm"><a href="https://www.rediff.com/cricket/report/t20-world-cup-india-to-continue-no-handshake-policy-with-pakistan/20260215.htm" data-secid="sec1" data-pos="3">T20 World Cup: Suryakumar, Salman avoid handshake at toss</a>
+		<p class="ttoread">2 min read</p>
+		</h2>
+				<h2 class="hdlines" data-boxno="r1_c2_t3_7" data-track="label=edit_topstories&c_type=edit_cricket&news=https%3A%2F%2Fwww.rediff.com%2Fcricket%2Freport%2Ft20-world-cup-manjrekar-slams-handshake-row%2F20260215.htm"><a href="https://www.rediff.com/cricket/report/t20-world-cup-manjrekar-slams-handshake-row/20260215.htm" data-secid="sec1" data-pos="4">Manjrekar Slams Handshake Row</a>
+		<p class="ttoread">2 min read</p>
+		</h2>
+				<h2 class="hdlines" data-boxno="r1_c2_t4_7" data-track="label=edit_topstories&c_type=edit_m&news=https%3A%2F%2Fm.rediff.com%2Fnews%2Fcommentary%2F2026%2Ffeb%2F15%2Fliveupdates.htm"><a href="https://m.rediff.com/news/commentary/2026/feb/15/liveupdates.htm" data-secid="sec1" data-pos="5"><span class="red bold">LIVE!</span> Dog row: Privilege notice to Con MP Renuka Chowdhury </a>
+		<p class="ttoread"></p>
+		</h2>
+				<h2 class="hdlines" data-boxno="r1_c2_t5_7" data-track="label=edit_topstories&c_type=edit_news&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fagencies-bust-8000-mule-accounts-in-j-k-warn-of-terror-funding-risk%2F20260215.htm"><a href="https://www.rediff.com/news/report/agencies-bust-8000-mule-accounts-in-j-k-warn-of-terror-funding-risk/20260215.htm" data-secid="sec1" data-pos="6">J-K: Agencies bust 8K mule accounts; flag terror funding risk</a>
+		<p class="ttoread">4 min read</p>
+		</h2>
+				<h2 class="hdlines" data-boxno="r1_c2_t6_7" data-track="label=edit_topstories&c_type=edit_news&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fdays-after-landslide-poll-victory-bnp-office-set-ablaze-in-bangladesh%2F20260215.htm"><a href="https://www.rediff.com/news/report/days-after-landslide-poll-victory-bnp-office-set-ablaze-in-bangladesh/20260215.htm" data-secid="sec1" data-pos="7">BNP office set ablaze in Bangladesh days after poll victory, </a>
+		<p class="ttoread">4 min read</p>
+		</h2>
+				<h2 class="hdlines" data-boxno="r1_c2_t7_7" data-track="label=edit_topstories&c_type=edit_news&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fwomens-cash-scheme-alone-wont-win-polls-cong-leader-takes-swipe-at-dmk%2F20260215.htm"><a href="https://www.rediff.com/news/report/womens-cash-scheme-alone-wont-win-polls-cong-leader-takes-swipe-at-dmk/20260215.htm" data-secid="sec1" data-pos="8">Cong leader questions DMK's women's welfare scheme</a>
+		<p class="ttoread">3 min read</p>
+		</h2>
+				<h2 class="hdlines" data-boxno="r1_c2_t8_7" data-track="label=edit_topstories&c_type=edit_news&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fwhite-collar-terror-doctors-formed-ansar-interim-to-target-j-k-beyond%2F20260215.htm"><a href="https://www.rediff.com/news/report/white-collar-terror-doctors-formed-ansar-interim-to-target-j-k-beyond/20260215.htm" data-secid="sec1" data-pos="9">White-collar terror: Docs set up 'Ansar Interim' to target J-K</a>
+		<p class="ttoread">4 min read</p>
+		</h2>
+				<h2 class="hdlines noborder" data-boxno="r1_c2_t9_7" data-track="label=edit_topstories&c_type=edit_news&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fsabarimala-womens-entry-issue-returns-ahead-of-sc-hearing%2F20260215.htm"><a href="https://www.rediff.com/news/report/sabarimala-womens-entry-issue-returns-ahead-of-sc-hearing/20260215.htm" data-secid="sec1" data-pos="10">Sabarimala women's entry row returns ahead of SC hearing</a>
+		<p class="ttoread">6 min read</p>
+		</h2>
+				<p class="alignR"><a href="https://www.rediff.com/news" class="seemore" data-secid="sec1" data-pos="11">See More &gt;</a></p>
+	</div>
+	<div class="col_mid negmargin">
+		<div class="advtcontainer">
+			<div class="advttext"></div>
+			<div class="div_advt_right relative"><div id="div_advt_right"><div id='div-gpt-ad-1739424437306-0' style='min-width: 300px;min-height:250px;'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1739424437306-0');});</script></div></div></div>
+		</div>
+				<div class="redifftvbox">
+			<div class="lfeedtvnew">
+							<a href="https://tv.rediff.com/hourly/18-15-hourly_news.mp4_video/1815022026" data-secid="redifftv" data-pos="1"><div class="widgetimg big relative vdicon center"><img src="https://im.rediff.com/300-130/news/2025/nov/03priyanka-gandhi1.jpg" class="rcorner" width="300" height="130"></div></a>
+				<div><a href="https://tv.rediff.com" data-secid="redifftv" data-pos="1" class="bold">Rediff-TV</a>: <a href="https://tv.rediff.com/hourly/18-15-hourly_news.mp4_video/1815022026" data-secid="redifftv" data-pos="1">7 pm News Flash â February 15, 2026</a></div>
+						</div>
+		</div>
+			</div>
+	</div>
+<div class="maxwrap flex botborder">
+	<div class="div_livewidget">
+		<div class="div_livewidget_container maxwrap clearfix"><a href="https://m.rediff.com/news/commentary/2026/feb/15/liveupdates.htm" data-secid="sec2" data-pos="1"><div class="redlive">LIVE</div></a><div id="lwidget_feed_scroller" class="lwidget_feed_scroller"><div class="lwidget_feed">18:58<div class="lfeed clearfix"><a href="https://m.rediff.com/news/commentary/2026/feb/15/dog-row-privilege-notice-to-con-mp-renuka-chowdhury/1343146b79c39b2553aefdc9dbf5af2f" data-secid="sec2" data-pos="2"><div class="widgetimg"><img src="https://im.rediff.com/120-80/news/2025/dec/03renuka-choudhary.jpg" class="rcorner" /></div><div>Dog row: Privilege notice to Con MP Renuka Chowdhury</div></a></div></div><div class="lwidget_feed">18:54<div class="lfeed clearfix"><a href="https://m.rediff.com/news/commentary/2026/feb/15/priyanka-gandhi-to-visit-assam-on-feb-18-will-meet-with-party-officials/e8f928d2562a507464bc52b075a7784e" data-secid="sec2" data-pos="3"><div class="widgetimg"><img src="https://im.rediff.com/120-80/news/2025/nov/03priyanka-gandhi1.jpg" class="rcorner" /></div><div>Priyanka Gandhi to visit Assam on Feb 18, will meet with party officials</div></a></div></div><div class="lwidget_feed">18:48<div class="lfeed clearfix"><a href="https://m.rediff.com/news/commentary/2026/feb/15/2-involved-in-shooting-at-migrant-workers-in-punjab-nabbed-after-encounter/84b83740c63ae22df3e0477025dc05c0" data-secid="sec2" data-pos="4"><div class="widgetimg"><img src="https://im.rediff.com/120-80/news/2025/dec/17punjab-police.jpg" class="rcorner" /></div><div>2 involved in shooting at migrant workers in Punjab nabbed after encounter</div></a></div></div><div class="lwidget_feed">18:04<div class="lfeed clearfix"><a href="https://m.rediff.com/news/commentary/2026/feb/15/jana-nayagan-not-likely-before-april-30-canadabased-york-cinemas/430eacdf422c35dcbda722b7063021ee" data-secid="sec2" data-pos="5"><div class="widgetimg"><img src="https://im.rediff.com/120-80/news/2026/jan/09vijay-jana-nayagan.jpg" class="rcorner" /></div><div>Jana Nayagan Not Likely Before April 30: Canada-based York Cinemas</div></a></div></div><div class="lwidget_feed">17:52<div class="lfeed clearfix"><a href="https://m.rediff.com/news/commentary/2026/feb/15/om-birla-to-represent-india-at-tarique-rahmans-oath-ceremony/6ddccce2d97ed83ca7a0f63e21e328a1" data-secid="sec2" data-pos="6"><div class="widgetimg"><img src="https://im.rediff.com/120-80/news/2026/feb/09om-birla.jpg" class="rcorner" /></div><div>Om Birla to represent India at Tarique Rahman's oath ceremony</div></a></div></div><div class="lwidget_feed">17:34<div class="lfeed clearfix"><a href="https://m.rediff.com/news/commentary/2026/feb/15/friend-of-deceased-social-media-influencer-found-hanging-in-kerala-home/cf0832036793fe3980808131ba8260b4" data-secid="sec2" data-pos="7"><div class="widgetimg"><img src="https://im.rediff.com/120-80/news/2021/jul/27suicide.jpg" class="rcorner" /></div><div>Friend of deceased social media influencer found hanging in Kerala home</div></a></div></div><div class="lwidget_feed">17:02<div class="lfeed clearfix"><a href="https://m.rediff.com/news/commentary/2026/feb/15/five-killed-in-road-accident-in-karnataka/99c153dbc1539600c30cc723ae1bafc7" data-secid="sec2" data-pos="8"><div class="widgetimg"><img src="https://im.rediff.com/120-80/news/2022/oct/27accident.jpg" class="rcorner" /></div><div>Five killed in road accident in Karnataka</div></a></div></div><div class="lwidget_feed">16:42<div class="lfeed clearfix"><a href="https://m.rediff.com/news/commentary/2026/feb/15/russias-oppn-leader-navalny-killed-by-dart-frog-poison/fd5afb9f04e6e10603ee9e63d3cb4eb3" data-secid="sec2" data-pos="9"><div class="widgetimg"><img src="https://im.rediff.com/120-80/news/2017/jun/16navalny8.jpg" class="rcorner" /></div><div>'Russia's Oppn leader Navalny killed by dart frog poison'</div></a></div></div><div class="lwidget_feed">16:38<div class="lfeed clearfix"><a href="https://m.rediff.com/news/commentary/2026/feb/15/wild-elephant-damages-car-in-keralas-munnar-two-escape-unhurt/ca10a75e6b9f11e8c2a0402375f39f38" data-secid="sec2" data-pos="10"><div class="widgetimg"><img src="https://im.rediff.com/120-80/news/2024/feb/17wild-elephant.jpg" class="rcorner" /></div><div>Wild elephant damages car in Kerala's Munnar, two escape unhurt     </div></a></div></div><div class="lwidget_feed">16:26<div class="lfeed clearfix"><a href="https://m.rediff.com/news/commentary/2026/feb/15/5-hurt-40-twowheelers-destroyed-in-fire-in-building-basement-near-mumbai/91aa4c98cd4943a89eeeb36929fca9fb" data-secid="sec2" data-pos="11"><div class="widgetimg"><img src="https://im.rediff.com/120-80/news/2018/jun/13fire-mumbai.jpg" class="rcorner" /></div><div>5 hurt, 40 two-wheelers destroyed in fire in building basement near Mumbai</div></a></div></div><div class="lwidget_feed">15:55<div class="lfeed clearfix"><a href="https://m.rediff.com/news/commentary/2026/feb/15/woman-killed-in-elephant-attack-in-ups-bahraich/16880ee4f6cf78de150dc2de7221141a" data-secid="sec2" data-pos="12"><div class="widgetimg"><img src="https://im.rediff.com/120-80/money/2016/sep/26elephant.jpg" class="rcorner" /></div><div>Woman killed in elephant attack in UP's Bahraich</div></a></div></div><div class="lwidget_feed">15:39<div class="lfeed clearfix"><a href="https://m.rediff.com/news/commentary/2026/feb/15/shooter-held-in-delhi-for-attempting-to-kill-businessman/be224ecd6113b508b7fa97de89cf4a12" data-secid="sec2" data-pos="13"><div class="widgetimg"><img src="https://im.rediff.com/120-80/news/2025/feb/07arrest.jpg" class="rcorner" /></div><div>Shooter held in Delhi for attempting to kill businessman  </div></a></div></div></div></div><div class="maxwrap relative"><span id="lwshowing" class="lwshowing"></span><button id="lwidget_next" class="lwidget_next">&gt;</button><button id="lwidget_prev" class="lwidget_prev">&lt;</button><div class="alignR lwidgetmore"><a href="https://m.rediff.com/news/commentary/2026/feb/15/liveupdates.htm" class="seemore" data-secid="sec2" data-pos="14">See More &gt;</a></div></div>
+	</div>
+</div>
+<h2 class="sechd negtop maxwrap mtop"><a href="https://www.rediff.com/news" data-secid="sec3" data-pos="1"><span class="homesprite secicons news"></span>MORE NEWS</a></h2>
+<div class="section darkbord flex maxwrap">
+	<div class="col_big relative rborder1" data-boxno="r2_c1_i1_1" data-track="label=edit_topstories&c_type=edit_cricket&news=https%3A%2F%2Fwww.rediff.com%2Fcricket%2Freport%2Fpix-fans-turn-up-heat-ahead-of-india-pakistan-clash-in-colombo%2F20260215.htm">
+		<div class="bigimage relative"><a href="https://www.rediff.com/cricket/report/pix-fans-turn-up-heat-ahead-of-india-pakistan-clash-in-colombo/20260215.htm" data-secid="sec3" data-pos="2"><img src="//im.rediff.com/430-250/cricket/2026/feb/15india-fan.jpg" width="430" height="250" class="rcorner" alt="Fans Turn Up Heat Ahead of India-Pakistan Clash in Colombo" loading="lazy" /><span class="absicon"><span class="homesprite secicons cricket"></span></span></a></div>
+		<h2 class="fstory"><a href="https://www.rediff.com/cricket" class="secname" data-secid="sec3" data-pos="2"><span class="homesprite secicons cricket"></span></a><a href="https://www.rediff.com/cricket/report/pix-fans-turn-up-heat-ahead-of-india-pakistan-clash-in-colombo/20260215.htm" data-secid="sec3" data-pos="2">Fans Turn Up Heat Ahead of India-Pakistan Clash in Colombo</a></h2>
+		<div class="clearfix"><p class="floatL ttoread">3 min read</p><p class="floatR updated">3 hours ago</p></div>
+	</div>
+	<div class="col_mid relative rborder1">
+				<div class="mnewsrow mnewsrowbm clearfix "  data-boxno="r2_c2_i1_2" data-track="label=edit_topstories&c_type=edit_movies&news=https%3A%2F%2Fwww.rediff.com%2Fmovies%2Freport%2Franbir-kapoor-to-shoot-brahmastra-animal-2-soon%2F20260215.htm">
+			<div class="mnewsimg relative"><a href="https://www.rediff.com/movies/report/ranbir-kapoor-to-shoot-brahmastra-animal-2-soon/20260215.htm" data-secid="sec3" data-pos="3"><img src="//im.rediff.com/200-120/movies/2026/feb/11spotted1.jpg" width="200" height="120" class="rcorner" alt="Ranbir To Shoot Brahmastra, Animal 2 Soon" loading="lazy"/><span class="absicon"><span class="homesprite secicons movies"></span></span></a></div>
+			<div class="mnewscopy"><h3><a href="https://www.rediff.com/movies/report/ranbir-kapoor-to-shoot-brahmastra-animal-2-soon/20260215.htm" data-secid="sec3" data-pos="3">Ranbir To Shoot Brahmastra, Animal 2 Soon</a></h3><div class="clearfix"><p class="floatL ttoread">4 min read</p><p class="floatR updated">1 hour ago</p></div></div>
+		</div>
+				<div class="mnewsrow mnewsrowbm clearfix noborder"  data-boxno="r2_c2_i2_2" data-track="label=edit_topstories&c_type=edit_getahead&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Fwhy-love-is-good-for-health-8-wonderful-benefits%2F20260213.htm">
+			<div class="mnewsimg relative"><a href="https://www.rediff.com/getahead/report/why-love-is-good-for-health-8-wonderful-benefits/20260213.htm" data-secid="sec3" data-pos="4"><img src="//im.rediff.com/200-120/getahead/2026/feb/12ga1.jpg" width="200" height="120" class="rcorner" alt="Why Love Is Good For Health: 8 Wonderful Benefits" loading="lazy"/><span class="absicon"><span class="homesprite secicons getahead"></span></span></a></div>
+			<div class="mnewscopy"><h3><a href="https://www.rediff.com/getahead/report/why-love-is-good-for-health-8-wonderful-benefits/20260213.htm" data-secid="sec3" data-pos="4">Why Love Is Good For Health: 8 Wonderful Benefits</a></h3><div class="clearfix"><p class="floatL ttoread">4 min read</p><p class="floatR updated">2 days ago</p></div></div>
+		</div>
+			</div>
+	<div class="col_text">
+						<div class="mnewsrow mnewsrowbm" data-boxno="r2__c3_t1_5" data-track="label=edit_topstories&c_type=edit_movies&news=https%3A%2F%2Fwww.rediff.com%2Fmovies%2Freport%2Fbhansali-ketan-mehta-to-make-jai-somnath%2F20260215.htm"><h3 class="rowh3"><a href="https://www.rediff.com/movies/report/bhansali-ketan-mehta-to-make-jai-somnath/20260215.htm" data-secid="sec3" data-pos="5">Bhansali, Ketan Mehta To Make Jai Somnath</a></h3><p class="ttoread">1 min read</p></div>
+								<div class="mnewsrow mnewsrowbm" data-boxno="r2__c3_t2_5" data-track="label=edit_topstories&c_type=edit_getahead&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Fserve-up-love-with-perfect-pairings-food--wine-guide-food-and-recipes-listicle%2F20260213.htm"><h3 class="rowh3"><a href="https://www.rediff.com/getahead/report/serve-up-love-with-perfect-pairings-food--wine-guide-food-and-recipes-listicle/20260213.htm" data-secid="sec3" data-pos="6">Serve Up Love With Perfect Pairings: Food &amp; Wine Guide</a></h3><p class="ttoread">4 min read</p></div>
+								<div class="mnewsrow mnewsrowbm" data-boxno="r2__c3_t3_5" data-track="label=edit_topstories&c_type=edit_movies&news=https%3A%2F%2Fwww.rediff.com%2Fmovies%2Freport%2Farundhati-roy-withdraws-from-berlinale-gaza%2F20260214.htm"><h3 class="rowh3"><a href="https://www.rediff.com/movies/report/arundhati-roy-withdraws-from-berlinale-gaza/20260214.htm" data-secid="sec3" data-pos="7">Arundhati Roy Withdraws From Berlinale</a></h3><p class="ttoread">4 min read</p></div>
+								<div class="mnewsrow mnewsrowbm" data-boxno="r2__c3_t4_5" data-track="label=edit_topstories&c_type=edit_movies&news=https%3A%2F%2Fwww.rediff.com%2Fmovies%2Freview%2Fwuthering-heights-review-margot-robbie-jacob-elordi%2F20260214.htm"><h3 class="rowh3"><a href="https://www.rediff.com/movies/review/wuthering-heights-review-margot-robbie-jacob-elordi/20260214.htm" data-secid="sec3" data-pos="8">Wuthering Heights Review</a></h3><p class="ttoread">4 min read</p></div>
+								<div class="mnewsrow " data-boxno="r2__c3_t5_5" data-track="label=edit_topstories&c_type=edit_getahead&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Fwhy-every-girl-must-have-a-bold-revenge-dress-valentines-day%2F20260212.htm"><h3 class="rowh3"><a href="https://www.rediff.com/getahead/report/why-every-girl-must-have-a-bold-revenge-dress-valentines-day/20260212.htm" data-secid="sec3" data-pos="9">Why Every Girl Must Have A Bold Revenge Dress</a></h3><p class="ttoread">2 min read</p></div>
+						<p class="alignR"><a href="https://www.rediff.com/news" class="seemore" data-secid="sec3" data-pos="10">See More &gt;</a></p>
+	</div>
+</div>
+<i class="secgap"></i>
+<div class="advtcontainer maxwrap"><div class="advttext"></div><div class="fnt0 alignC"><ins data-revive-zoneid="341" data-revive-source="_blank" data-revive-target="_blank" data-revive-id="4b71f4079fb345c8ac958d0e9f0b56dd" data-zonename="Rediff_Home_OutstreamVideo_IN"></ins></div></div></div>
+<div class="maxwrap">
+		<h2 class="sechd negtop maxwrap mtop "><span class="homesprite secicons news"></span><a href="https://www.rediff.com/news" data-secid="sec4" data-pos="1">NEWS</a></h2>
+	<div class="section darkbord flex maxwrap">
+		<div class="col_big relative rborder1" data-boxno="r3_c1_i1_1" data-track="label=edit_news&c_type=edit_news&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fkashmiri-pandits-celebrate-mahashivratri%2F20260215.htm">
+			<div class="bigimage"><a href="https://www.rediff.com/news/report/kashmiri-pandits-celebrate-mahashivratri/20260215.htm" data-secid="sec4" data-pos="2"><img src="//im.rediff.com/430-250/news/2026/feb/15hearth-1.jpg" width="430" height="250" class="rcorner" alt="Kashmiri Pandits Celebrate Mahashivratri" loading="lazy" /></a></div>
+			<h2 class="fstory"><a href="https://www.rediff.com/news" class="secname" data-secid="sec4" data-pos="2"><span class="homesprite secicons news"></span></a><a href="https://www.rediff.com/news/report/kashmiri-pandits-celebrate-mahashivratri/20260215.htm" data-secid="sec4" data-pos="2">Kashmiri Pandits Celebrate Mahashivratri</a></h2>
+			<p class="ttoread">1 min read</p>		</div>
+		<div class="col_mid relative rborder1">
+						<div class="mnewsrow mnewsrowbm clearfix " data-boxno="r3_c2_i1_2" data-track="label=edit_news&c_type=edit_news&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Findia-faces-russian-oil-squeeze-after-us-deal%2F20260212.htm">
+				<div class="mnewsimg"><a href="https://www.rediff.com/news/report/india-faces-russian-oil-squeeze-after-us-deal/20260212.htm" data-secid="sec4" data-pos="3"><img src="//im.rediff.com/200-120/news/2026/feb/12russian-oil1.jpg" width="200" height="120" class="rcorner" alt="India Faces Russian Oil Squeeze After US Deal" loading="lazy"/></a></div>
+				<div class="mnewscopy"><h3><a href="https://www.rediff.com/news/report/india-faces-russian-oil-squeeze-after-us-deal/20260212.htm" data-secid="sec4" data-pos="3">India Faces Russian Oil Squeeze After US Deal</a></h3><div class="clearfix"><p class="floatL ttoread">5 min read</p><p class="floatR updated">3 days ago</p></div></div>
+			</div>
+						<div class="mnewsrow mnewsrowbm clearfix noborder" data-boxno="r3_c2_i2_2" data-track="label=edit_news&c_type=edit_news&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Fspecial%2Fsupriya-sahu-champion-of-the-earth%2F20260211.htm">
+				<div class="mnewsimg"><a href="https://www.rediff.com/news/special/supriya-sahu-champion-of-the-earth/20260211.htm" data-secid="sec4" data-pos="4"><img src="//im.rediff.com/200-120/getahead/2026/jan/08supriya-sahu1.jpg" width="200" height="120" class="rcorner" alt="Supriya Sahu, Champion of the Earth" loading="lazy"/></a></div>
+				<div class="mnewscopy"><h3><a href="https://www.rediff.com/news/special/supriya-sahu-champion-of-the-earth/20260211.htm" data-secid="sec4" data-pos="4">Supriya Sahu, Champion of the Earth</a></h3><div class="clearfix"><p class="floatL ttoread">11 min read</p><p class="floatR updated">4 days ago</p></div></div>
+			</div>
+					</div>
+		<div class="col_text">
+									<div class="mnewsrow mnewsrowbm" data-boxno="r3_c3_t1_5" data-track="label=edit_news&c_type=edit_news&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fmaha-ats-detains-several-suspects-in-terror-probe-after-raids-in-20-places%2F20260215.htm"><h3 class="rowh3"><a href="https://www.rediff.com/news/report/maha-ats-detains-several-suspects-in-terror-probe-after-raids-in-20-places/20260215.htm" data-secid="sec4" data-pos="5">Maha ATS detains several suspects in terror probe after raids</a></h3><p class="ttoread">2 min read</p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r3_c3_t2_5" data-track="label=edit_news&c_type=edit_news&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fmissing-indian-student-found-dead-in-california%2F20260215.htm"><h3 class="rowh3"><a href="https://www.rediff.com/news/report/missing-indian-student-found-dead-in-california/20260215.htm" data-secid="sec4" data-pos="6">Missing Indian student found dead in California</a></h3><p class="ttoread">2 min read</p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r3_c3_t3_5" data-track="label=edit_news&c_type=edit_news&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fdebate-vote-on-motion-to-remove-birla-to-be-taken-up-on-march-9-rijiju%2F20260215.htm"><h3 class="rowh3"><a href="https://www.rediff.com/news/report/debate-vote-on-motion-to-remove-birla-to-be-taken-up-on-march-9-rijiju/20260215.htm" data-secid="sec4" data-pos="7">Debate on motion to remove Birla to be taken up on Mar 9</a></h3><p class="ttoread">5 min read</p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r3_c3_t4_5" data-track="label=edit_news&c_type=edit_news&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fwhat-nehru-told-cong-mps-in-1954-speaker-removal-debate%2F20260215.htm"><h3 class="rowh3"><a href="https://www.rediff.com/news/report/what-nehru-told-cong-mps-in-1954-speaker-removal-debate/20260215.htm" data-secid="sec4" data-pos="8">What Nehru told Cong MPs in 1954 Speaker removal debate</a></h3><p class="ttoread">6 min read</p></div>
+												<div class="mnewsrow " data-boxno="r3_c3_t5_5" data-track="label=edit_news&c_type=edit_news&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Findias-mindset-must-change-awami-league-era-over-in-badesh-tarique-aide%2F20260215.htm"><h3 class="rowh3"><a href="https://www.rediff.com/news/report/indias-mindset-must-change-awami-league-era-over-in-badesh-tarique-aide/20260215.htm" data-secid="sec4" data-pos="9">India must adapt to post-Awami League B'desh: Tarique aide</a></h3><p class="ttoread">4 min read</p></div>
+									<p class="alignR"><a href="https://www.rediff.com/news" class="seemore" data-secid="sec4" data-pos="10">See More &gt;</a></p>		</div>
+	</div>
+		<i class="secgap"></i>
+</div>
+<div class="maxwrap">
+		<h2 class="sechd negtop maxwrap mtop "><span class="homesprite secicons news"></span><a href="https://www.rediff.com/news" data-secid="sec5" data-pos="1">NEWS</a></h2>
+	<div class="section darkbord flex maxwrap">
+		<div class="col_big relative rborder1" data-boxno="r4_c1_i1_1" data-track="label=edit_news&c_type=edit_news&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fkim-ju-ae-the-teenager-who-will-rule-north-korea-one-day%2F20260214.htm">
+			<div class="bigimage"><a href="https://www.rediff.com/news/report/kim-ju-ae-the-teenager-who-will-rule-north-korea-one-day/20260214.htm" data-secid="sec5" data-pos="2"><img src="//im.rediff.com/430-250/news/2026/feb/13kim-jong-un1.jpg" width="430" height="250" class="rcorner" alt="The Teenager Who Will Rule North Korea One Day" loading="lazy" /></a></div>
+			<h2 class="fstory"><a href="https://www.rediff.com/news" class="secname" data-secid="sec5" data-pos="2"><span class="homesprite secicons news"></span></a><a href="https://www.rediff.com/news/report/kim-ju-ae-the-teenager-who-will-rule-north-korea-one-day/20260214.htm" data-secid="sec5" data-pos="2">The Teenager Who Will Rule North Korea One Day</a></h2>
+			<p class="ttoread">2 min read</p>		</div>
+		<div class="col_mid relative rborder1">
+						<div class="mnewsrow mnewsrowbm clearfix " data-boxno="r4_c2_i1_2" data-track="label=edit_news&c_type=edit_news&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fpulwama-terror-attack-remembering-the-fallen%2F20260214.htm">
+				<div class="mnewsimg"><a href="https://www.rediff.com/news/report/pulwama-terror-attack-remembering-the-fallen/20260214.htm" data-secid="sec5" data-pos="3"><img src="//im.rediff.com/200-120/news/2026/feb/14tribute1.jpg" width="200" height="120" class="rcorner" alt="Pulwama Terror Attack: Remembering The Fallen" loading="lazy"/></a></div>
+				<div class="mnewscopy"><h3><a href="https://www.rediff.com/news/report/pulwama-terror-attack-remembering-the-fallen/20260214.htm" data-secid="sec5" data-pos="3">Pulwama Terror Attack: Remembering The Fallen</a></h3><div class="clearfix"><p class="floatL ttoread">2 min read</p><p class="floatR updated">1 day ago</p></div></div>
+			</div>
+						<div class="mnewsrow mnewsrowbm clearfix noborder" data-boxno="r4_c2_i2_2" data-track="label=edit_news&c_type=edit_news&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fradio-day-when-india-was-radio-gaga-news-listicle%2F20260213.htm">
+				<div class="mnewsimg"><a href="https://www.rediff.com/news/report/radio-day-when-india-was-radio-gaga-news-listicle/20260213.htm" data-secid="sec5" data-pos="4"><img src="//im.rediff.com/200-120/getahead/2026/feb/11radio-day1.jpg" width="200" height="120" class="rcorner" alt="Radio Day: When India Was Radio Gaga" loading="lazy"/></a></div>
+				<div class="mnewscopy"><h3><a href="https://www.rediff.com/news/report/radio-day-when-india-was-radio-gaga-news-listicle/20260213.htm" data-secid="sec5" data-pos="4">Radio Day: When India Was Radio Gaga</a></h3><div class="clearfix"><p class="floatL ttoread">2 min read</p><p class="floatR updated">2 days ago</p></div></div>
+			</div>
+					</div>
+		<div class="col_text">
+									<div class="mnewsrow mnewsrowbm" data-boxno="r4_c3_t1_5" data-track="label=edit_news&c_type=edit_news&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Fcolumn%2Fmodis-long-game-with-trump-has-paid-off%2F20260214.htm"><h3 class="rowh3"><a href="https://www.rediff.com/news/column/modis-long-game-with-trump-has-paid-off/20260214.htm" data-secid="sec5" data-pos="5">Modi's Long Game With Trump Has Paid Off</a></h3><p class="ttoread">5 min read</p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r4_c3_t2_5" data-track="label=edit_news&c_type=edit_news&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Findia-among-13-nations-to-be-invited-to-tarique-rahmans-swearing-in%2F20260215.htm"><h3 class="rowh3"><a href="https://www.rediff.com/news/report/india-among-13-nations-to-be-invited-to-tarique-rahmans-swearing-in/20260215.htm" data-secid="sec5" data-pos="6">India among 13 nations to be invited to Tarique's swearing-in</a></h3><p class="ttoread">4 min read</p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r4_c3_t3_5" data-track="label=edit_news&c_type=edit_news&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fmodi-invited-to-tarique-rahmans-swearing-in-unlikely-to-attend%2F20260215.htm"><h3 class="rowh3"><a href="https://www.rediff.com/news/report/modi-invited-to-tarique-rahmans-swearing-in-unlikely-to-attend/20260215.htm" data-secid="sec5" data-pos="7">Modi invited to Rahman swearing-in, unlikely to attend</a></h3><p class="ttoread">2 min read</p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r4_c3_t4_5" data-track="label=edit_news&c_type=edit_news&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fai171-crash-govt-refutes-media-report-blaming-pilots%2F20260215.htm"><h3 class="rowh3"><a href="https://www.rediff.com/news/report/ai171-crash-govt-refutes-media-report-blaming-pilots/20260215.htm" data-secid="sec5" data-pos="8">AI171 crash: Govt refutes media report blaming pilots</a></h3><p class="ttoread">2 min read</p></div>
+												<div class="mnewsrow " data-boxno="r4_c3_t5_5" data-track="label=edit_news&c_type=edit_news&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Finterview%2Fraj-verma-indian-army-has-free-hand-to-deal-with-china%2F20260209.htm"><h3 class="rowh3"><a href="https://www.rediff.com/news/interview/raj-verma-indian-army-has-free-hand-to-deal-with-china/20260209.htm" data-secid="sec5" data-pos="9">'Army Has Free Hand To Deal With China'</a></h3><p class="ttoread">7 min read</p></div>
+									<p class="alignR"><a href="https://www.rediff.com/news" class="seemore" data-secid="sec5" data-pos="10">See More &gt;</a></p>		</div>
+	</div>
+</div>
+<div class="advtcontainer maxwrap"><div class="advttext"></div><div class="div_advt_middle"><div id='div-gpt-ad-1742275343016-0' style='min-width:728px;min-height:66px;'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1742275343016-0');});</script></div></div></div>
+<i class="secgap"></i>
+<div class="greysection webstorymaxw">
+	<h2 class="sechd"><a href="https://www.rediff.com/getahead/web-stories" data-secid="sec6" data-pos="1"><span class="homesprite secicons webstory"></span>WEB STORIES</a></h2>
+	<div class="relative maxwrap"><button id="scroll-right" class="rightbtn">&gt;</button><button id="scroll-left" class="leftbtn">&lt;</button></div>
+	<div id="websscroller" class="websscroller">
+				<div class="storycard"  data-boxno="r5_c1_i1_1" data-track="label=edit_webstory&c_type=edit_webstory&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Fslide-show%2Fslide-show-1-9-aphrodisiac-recipes-to-spice-up-your-life%2F20250213.htm"><a href="https://www.rediff.com/getahead/slide-show/slide-show-1-9-aphrodisiac-recipes-to-spice-up-your-life/20250213.htm" data-secid="sec6" data-pos="2"><div class="storyimgcard"><img src="//im.rediff.com/235-325/getahead/2025/feb/13-food-1.png" width="235" height="325" alt="webstory image 1" class="storyimg" loading="lazy"><h3 class="storytitle">9 Aphrodisiac Recipes To Spice Up Your Life</h3></div></a><p class="views">1 day ago</p></div>
+				<div class="storycard"  data-boxno="r5_c2_i1_1" data-track="label=edit_webstory&c_type=edit_webstory&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Fslide-show%2Fslide-show-1-8-questions-to-ask-your-date-8-questions-to-a-v-o-i-d%2F20250213.htm"><a href="https://www.rediff.com/getahead/slide-show/slide-show-1-8-questions-to-ask-your-date-8-questions-to-a-v-o-i-d/20250213.htm" data-secid="sec6" data-pos="3"><div class="storyimgcard"><img src="//im.rediff.com/235-325/getahead/2025/feb/12-first-date-1.png" width="235" height="325" alt="webstory image 2" class="storyimg" loading="lazy"><h3 class="storytitle">8 Questions To Ask Your Date. 8 Questions To A-V-O-I-D</h3></div></a><p class="views">1 day ago</p></div>
+				<div class="storycard"  data-boxno="r5_c3_i1_1" data-track="label=edit_webstory&c_type=edit_webstory&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Fslide-show%2Fslide-show-1-get-fizzical-9-ultimate-cocktail-recipes%2F20250214.htm"><a href="https://www.rediff.com/getahead/slide-show/slide-show-1-get-fizzical-9-ultimate-cocktail-recipes/20250214.htm" data-secid="sec6" data-pos="4"><div class="storyimgcard"><img src="//im.rediff.com/235-325/getahead/2025/feb/13-cocktail-1.png" width="235" height="325" alt="webstory image 3" class="storyimg" loading="lazy"><h3 class="storytitle">Get Fizzical! 9 Ultimate Cocktail Recipes</h3></div></a><p class="views">1 day ago</p></div>
+				<div class="storycard"  data-boxno="r5_c4_i1_1" data-track="label=edit_webstory&c_type=edit_webstory&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Fslide-show%2Fslide-show-1-little-red-hearts-45-min-recipe%2F20250214.htm"><a href="https://www.rediff.com/getahead/slide-show/slide-show-1-little-red-hearts-45-min-recipe/20250214.htm" data-secid="sec6" data-pos="5"><div class="storyimgcard"><img src="//im.rediff.com/235-325/getahead/2025/feb/14food-webstory9.jpg" width="235" height="325" alt="webstory image 4" class="storyimg" loading="lazy"><h3 class="storytitle">Little Red Hearts: 45-Min Recipe</h3></div></a><p class="views">1 day ago</p></div>
+				<div class="storycard"  data-boxno="r5_c5_i1_1" data-track="label=edit_webstory&c_type=edit_webstory&news=https%3A%2F%2Fwww.rediff.com%2Fmovies%2Fslide-show%2Fslide-show-1-himesh-reshammiyas-fave-love-songs%2F20250212.htm"><a href="https://www.rediff.com/movies/slide-show/slide-show-1-himesh-reshammiyas-fave-love-songs/20250212.htm" data-secid="sec6" data-pos="6"><div class="storyimgcard"><img src="//im.rediff.com/235-325/movies/2025/feb/12webstory-himesh1.jpg" width="235" height="325" alt="webstory image 5" class="storyimg" loading="lazy"><h3 class="storytitle">Himesh Reshammiya's Fave Love Songs</h3></div></a><p class="views">2 days ago</p></div>
+				<div class="storycard"  data-boxno="r5_c6_i1_1" data-track="label=edit_webstory&c_type=edit_webstory&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Fslide-show%2Fslide-show-1-9-mouthwatering-chocolate-recipes-for-valentines-day%2F20250210.htm"><a href="https://www.rediff.com/getahead/slide-show/slide-show-1-9-mouthwatering-chocolate-recipes-for-valentines-day/20250210.htm" data-secid="sec6" data-pos="7"><div class="storyimgcard"><img src="//im.rediff.com/235-325/getahead/2025/feb/10-chocolate-1.png" width="235" height="325" alt="webstory image 6" class="storyimg" loading="lazy"><h3 class="storytitle">9 Mouthwatering Chocolate Recipes For Valentine's Day</h3></div></a><p class="views">2 days ago</p></div>
+				<div class="storycard"  data-boxno="r5_c7_i1_1" data-track="label=edit_webstory&c_type=edit_webstory&news=https%3A%2F%2Fwww.rediff.com%2Fmovies%2Fslide-show%2Fslide-show-1-5-top-kishore-kumar-love-songs%2F20250213.htm"><a href="https://www.rediff.com/movies/slide-show/slide-show-1-5-top-kishore-kumar-love-songs/20250213.htm" data-secid="sec6" data-pos="8"><div class="storyimgcard"><img src="//im.rediff.com/235-325/movies/2025/feb/11web-kishores-5-most-romantic-songs-0.jpg" width="235" height="325" alt="webstory image 7" class="storyimg" loading="lazy"><h3 class="storytitle">5 Top Kishore Kumar Love Songs</h3></div></a><p class="views">2 days ago</p></div>
+				<div class="storycard"  data-boxno="r5_c8_i1_1" data-track="label=edit_webstory&c_type=edit_webstory&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Fslide-show%2Fslide-show-1-ganache-for-v-day-15-min-recipe%2F20250212.htm"><a href="https://www.rediff.com/getahead/slide-show/slide-show-1-ganache-for-v-day-15-min-recipe/20250212.htm" data-secid="sec6" data-pos="9"><div class="storyimgcard"><img src="//im.rediff.com/235-325/getahead/2025/feb/12webstory4.jpg" width="235" height="325" alt="webstory image 8" class="storyimg" loading="lazy"><h3 class="storytitle">Ganache For V-Day: 15-Min Recipe </h3></div></a><p class="views">2 days ago</p></div>
+				<div class="storycard"  data-boxno="r5_c9_i1_1" data-track="label=edit_webstory&c_type=edit_webstory&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Fslide-show%2Fslide-show-1-scoop-up-10-desi-flavoured-ice-cream-recipes%2F20250211.htm"><a href="https://www.rediff.com/getahead/slide-show/slide-show-1-scoop-up-10-desi-flavoured-ice-cream-recipes/20250211.htm" data-secid="sec6" data-pos="10"><div class="storyimgcard"><img src="//im.rediff.com/235-325/getahead/2025/feb/11webstory-food-kulfi3.jpg" width="235" height="325" alt="webstory image 9" class="storyimg" loading="lazy"><h3 class="storytitle">Scoop Up! 10 Desi-Flavoured Ice Cream Recipes</h3></div></a><p class="views">2 days ago</p></div>
+				<div class="storycard"  data-boxno="r5_c10_i1_1" data-track="label=edit_webstory&c_type=edit_webstory&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Fslide-show%2Fslide-show-1-8-tips-for-the-most-passionate-sex%2F20250211.htm"><a href="https://www.rediff.com/getahead/slide-show/slide-show-1-8-tips-for-the-most-passionate-sex/20250211.htm" data-secid="sec6" data-pos="11"><div class="storyimgcard"><img src="//im.rediff.com/235-325/getahead/2025/feb/10-romance-1.png" width="235" height="325" alt="webstory image 10" class="storyimg" loading="lazy"><h3 class="storytitle">8 Tips For The Most Passionate Sex</h3></div></a><p class="views">4 days ago</p></div>
+				<div class="storycard"  data-boxno="r5_c11_i1_1" data-track="label=edit_webstory&c_type=edit_webstory&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Fslide-show%2Fslide-show-1-8-healing-powers-of-dark-chocolate%2F20250219.htm"><a href="https://www.rediff.com/getahead/slide-show/slide-show-1-8-healing-powers-of-dark-chocolate/20250219.htm" data-secid="sec6" data-pos="12"><div class="storyimgcard"><img src="//im.rediff.com/235-325/getahead/2025/feb/19-dark-chocolate-1.png" width="235" height="325" alt="webstory image 11" class="storyimg" loading="lazy"><h3 class="storytitle">8 Healing Powers Of Dark Chocolate</h3></div></a><p class="views">4 days ago</p></div>
+				<div class="storycard"  data-boxno="r5_c12_i1_1" data-track="label=edit_webstory&c_type=edit_webstory&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Fslide-show%2Fslide-show-1-valentines-day-chocolate-tarts-30-min-recipe%2F20250211.htm"><a href="https://www.rediff.com/getahead/slide-show/slide-show-1-valentines-day-chocolate-tarts-30-min-recipe/20250211.htm" data-secid="sec6" data-pos="13"><div class="storyimgcard"><img src="//im.rediff.com/235-325/getahead/2025/feb/11webstory-chocolate1.jpg" width="235" height="325" alt="webstory image 12" class="storyimg" loading="lazy"><h3 class="storytitle">V-Day Chocolate Tarts: 30-Min Recipe</h3></div></a><p class="views">4 days ago</p></div>
+				<div class="storycard"  data-boxno="r5_c13_i1_1" data-track="label=edit_webstory&c_type=edit_webstory&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Fslide-show%2Fslide-show-1-12-totally-traditional-delicacies-from-kerala-kitchens%2F20250409.htm"><a href="https://www.rediff.com/getahead/slide-show/slide-show-1-12-totally-traditional-delicacies-from-kerala-kitchens/20250409.htm" data-secid="sec6" data-pos="14"><div class="storyimgcard"><img src="//im.rediff.com/235-325/getahead/2025/apr/09webstory-food6.jpg" width="235" height="325" alt="webstory image 13" class="storyimg" loading="lazy"><h3 class="storytitle">12 Totally Traditional Delicacies From Kerala Kitchens</h3></div></a><p class="views">5 days ago</p></div>
+				<div class="storycard"  data-boxno="r5_c14_i1_1" data-track="label=edit_webstory&c_type=edit_webstory&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Fslide-show%2Fslide-show-1-7-scenic-spots-for-hot-air-balloon-rides-in-india%2F20250409.htm"><a href="https://www.rediff.com/getahead/slide-show/slide-show-1-7-scenic-spots-for-hot-air-balloon-rides-in-india/20250409.htm" data-secid="sec6" data-pos="15"><div class="storyimgcard"><img src="//im.rediff.com/235-325/getahead/2025/apr/7-ballon-1.png" width="235" height="325" alt="webstory image 14" class="storyimg" loading="lazy"><h3 class="storytitle">7 Scenic Spots For Hot Air Balloon Rides In India</h3></div></a><p class="views">5 days ago</p></div>
+				<div class="storycard"  data-boxno="r5_c15_i1_1" data-track="label=edit_webstory&c_type=edit_webstory&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Fslide-show%2Fslide-show-1-10-countries-with-the-largest-indian-diaspora%2F20250409.htm"><a href="https://www.rediff.com/getahead/slide-show/slide-show-1-10-countries-with-the-largest-indian-diaspora/20250409.htm" data-secid="sec6" data-pos="16"><div class="storyimgcard"><img src="//im.rediff.com/235-325/getahead/2025/apr/09diaspora1.jpg" width="235" height="325" alt="webstory image 15" class="storyimg" loading="lazy"><h3 class="storytitle">10 Countries With The Largest Indian Diaspora</h3></div></a><p class="views">5 days ago</p></div>
+			</div>
+	</div>
+					<div class="maxwrap"><h2 class="sechd" ><a href="https://gurus.rediff.com?utm_source=rediff_home&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_pc" onclick="trackGuruURL('https://track.rediff.com/click?url=___https%3A%2F%2Fgurus.rediff.com%3Futm_source%3Drediff_home%26utm_medium%3Dpc%26utm_campaign%3Drediffgurus%26utm_content%3Drediffgurus_rediff_home_pc___&position=2_1-2_M&label=edit_gurus&c_type=edit_gurus&property=hp_in_pc');return false;" data-secid="sec7" data-pos="1"><span class="homesprite secicons gurus"></span>REDIFF GURUS</a></h2></div>
+	<div class="section flex maxwrap">
+		<div class="col_big gboxcontainer">
+									<div class="gurubox rcorner " data-boxno="r6_c1_i1_4" data-track="label=edit_gurus&c_type=edit_gurus&news=https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Fmoney%2Fhello-41-investing-mutual-funds-stocks-past-half-currently-making%2F5248972"><a href="https://gurus.rediff.com/question/qdtl/money/hello-41-investing-mutual-funds-stocks-past-half-currently-making/5248972?utm_source=rediff_home&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_pc" onclick="trackGuruURL('https://track.rediff.com/click?url=___https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Fmoney%2Fhello-41-investing-mutual-funds-stocks-past-half-currently-making%2F5248972%3Futm_source%3Drediff_home%26utm_medium%3Dpc%26utm_campaign%3Drediffgurus%26utm_content%3Drediffgurus_rediff_home_pc___&position=2_1-2_6&label=edit_gurus&c_type=edit_gurus&property=hp_in_pc');return false;" data-secid="sec7" data-pos="2"><img src="https://gurus.rediff.com/rediffguru/pix/answerpix_new/18mf1.jpg" width="100%" height="130" alt="image Money" class="rcorner" loading="lazy" /></a><h2><a href="https://gurus.rediff.com/question/qdtl/money/hello-41-investing-mutual-funds-stocks-past-half-currently-making/5248972?utm_source=rediff_home&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_pc" onclick="trackGuruURL('https://track.rediff.com/click?url=___https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Fmoney%2Fhello-41-investing-mutual-funds-stocks-past-half-currently-making%2F5248972%3Futm_source%3Drediff_home%26utm_medium%3Dpc%26utm_campaign%3Drediffgurus%26utm_content%3Drediffgurus_rediff_home_pc___&position=2_1-2_6&label=edit_gurus&c_type=edit_gurus&property=hp_in_pc');return false;" data-secid="sec7" data-pos="2">Hello Sir, I am 41 years old and have been investing...</a></h2></div>
+									<div class="gurubox rcorner " data-boxno="r6_c1_i2_4" data-track="label=edit_gurus&c_type=edit_gurus&news=https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Fhealth%2Fkomalji-daughter-10-currently-weighs-around-40-kg-parent-unsure%2F5249311"><a href="https://gurus.rediff.com/question/qdtl/health/komalji-daughter-10-currently-weighs-around-40-kg-parent-unsure/5249311?utm_source=rediff_home&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_pc" onclick="trackGuruURL('https://track.rediff.com/click?url=___https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Fhealth%2Fkomalji-daughter-10-currently-weighs-around-40-kg-parent-unsure%2F5249311%3Futm_source%3Drediff_home%26utm_medium%3Dpc%26utm_campaign%3Drediffgurus%26utm_content%3Drediffgurus_rediff_home_pc___&position=2_1-2_6&label=edit_gurus&c_type=edit_gurus&property=hp_in_pc');return false;" data-secid="sec7" data-pos="3"><img src="https://gurus.rediff.com/rediffguru/pix/answerpix_new/17SANDEEP-GOYAL.jpg" width="100%" height="130" alt="image Health" class="rcorner" loading="lazy" /></a><h2><a href="https://gurus.rediff.com/question/qdtl/health/komalji-daughter-10-currently-weighs-around-40-kg-parent-unsure/5249311?utm_source=rediff_home&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_pc" onclick="trackGuruURL('https://track.rediff.com/click?url=___https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Fhealth%2Fkomalji-daughter-10-currently-weighs-around-40-kg-parent-unsure%2F5249311%3Futm_source%3Drediff_home%26utm_medium%3Dpc%26utm_campaign%3Drediffgurus%26utm_content%3Drediffgurus_rediff_home_pc___&position=2_1-2_6&label=edit_gurus&c_type=edit_gurus&property=hp_in_pc');return false;" data-secid="sec7" data-pos="3">Komalji, my daughter is 10 years old and currently...</a></h2></div>
+									<div class="gurubox rcorner noborder" data-boxno="r6_c1_i3_4" data-track="label=edit_gurus&c_type=edit_gurus&news=https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Fhealth%2Fstart-day-tea-empty-stomach-because-feel-helps-wake-up%2F5249139"><a href="https://gurus.rediff.com/question/qdtl/health/start-day-tea-empty-stomach-because-feel-helps-wake-up/5249139?utm_source=rediff_home&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_pc" onclick="trackGuruURL('https://track.rediff.com/click?url=___https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Fhealth%2Fstart-day-tea-empty-stomach-because-feel-helps-wake-up%2F5249139%3Futm_source%3Drediff_home%26utm_medium%3Dpc%26utm_campaign%3Drediffgurus%26utm_content%3Drediffgurus_rediff_home_pc___&position=2_1-2_6&label=edit_gurus&c_type=edit_gurus&property=hp_in_pc');return false;" data-secid="sec7" data-pos="4"><img src="https://gurus.rediff.com/rediffguru/pix/answerpix_new/medical-insurance-o.jpg" width="100%" height="130" alt="image Health" class="rcorner" loading="lazy" /></a><h2><a href="https://gurus.rediff.com/question/qdtl/health/start-day-tea-empty-stomach-because-feel-helps-wake-up/5249139?utm_source=rediff_home&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_pc" onclick="trackGuruURL('https://track.rediff.com/click?url=___https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Fhealth%2Fstart-day-tea-empty-stomach-because-feel-helps-wake-up%2F5249139%3Futm_source%3Drediff_home%26utm_medium%3Dpc%26utm_campaign%3Drediffgurus%26utm_content%3Drediffgurus_rediff_home_pc___&position=2_1-2_6&label=edit_gurus&c_type=edit_gurus&property=hp_in_pc');return false;" data-secid="sec7" data-pos="4">I start my day with tea on an empty stomach because...</a></h2></div>
+									<div class="gurubox rcorner noborder" data-boxno="r6_c1_i4_4" data-track="label=edit_gurus&c_type=edit_gurus&news=https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Frelationship%2Fphysical-relationship-younger-neighbour-told-girlfriend-doesn-039-married-childhood%2F5248399"><a href="https://gurus.rediff.com/question/qdtl/relationship/physical-relationship-younger-neighbour-told-girlfriend-doesn-039-married-childhood/5248399?utm_source=rediff_home&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_pc" onclick="trackGuruURL('https://track.rediff.com/click?url=___https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Frelationship%2Fphysical-relationship-younger-neighbour-told-girlfriend-doesn-039-married-childhood%2F5248399%3Futm_source%3Drediff_home%26utm_medium%3Dpc%26utm_campaign%3Drediffgurus%26utm_content%3Drediffgurus_rediff_home_pc___&position=2_1-2_6&label=edit_gurus&c_type=edit_gurus&property=hp_in_pc');return false;" data-secid="sec7" data-pos="5"><img src="https://gurus.rediff.com/rediffguru/pix/answerpix_new/break-up-o.jpg" width="100%" height="130" alt="image Relationship" class="rcorner" loading="lazy" /></a><h2><a href="https://gurus.rediff.com/question/qdtl/relationship/physical-relationship-younger-neighbour-told-girlfriend-doesn-039-married-childhood/5248399?utm_source=rediff_home&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_pc" onclick="trackGuruURL('https://track.rediff.com/click?url=___https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Frelationship%2Fphysical-relationship-younger-neighbour-told-girlfriend-doesn-039-married-childhood%2F5248399%3Futm_source%3Drediff_home%26utm_medium%3Dpc%26utm_campaign%3Drediffgurus%26utm_content%3Drediffgurus_rediff_home_pc___&position=2_1-2_6&label=edit_gurus&c_type=edit_gurus&property=hp_in_pc');return false;" data-secid="sec7" data-pos="5">I am in a physical relationship with a younger...</a></h2></div>
+				
+		</div>
+		<div class="col_text">
+									<h3 class="hdlines " data-boxno="r6_c2_t1_8" data-track="label=edit_gurus&c_type=edit_gurus&news=https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Fcareer%2Fwanted-ask-done-11-12-india-father-works-gulf-country%2F5248593"><a href="https://gurus.rediff.com/question/qdtl/career/wanted-ask-done-11-12-india-father-works-gulf-country/5248593?utm_source=rediff_home&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_pc" onclick="trackGuruURL('https://track.rediff.com/click?url=___https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Fcareer%2Fwanted-ask-done-11-12-india-father-works-gulf-country%2F5248593%3Futm_source%3Drediff_home%26utm_medium%3Dpc%26utm_campaign%3Drediffgurus%26utm_content%3Drediffgurus_rediff_home_pc___&position=2_1-2_6&label=edit_gurus&c_type=edit_gurus&property=hp_in_pc');return false;" data-secid="sec7" data-pos="6">Sir I wanted to ask if I have done my 11 and 12 only from...</a></h3>
+									<h3 class="hdlines " data-boxno="r6_c2_t2_8" data-track="label=edit_gurus&c_type=edit_gurus&news=https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Fhealth%2Four-daughter-gaining-weight-weighs-between-16-18-kg-4%2F5249185"><a href="https://gurus.rediff.com/question/qdtl/health/our-daughter-gaining-weight-weighs-between-16-18-kg-4/5249185?utm_source=rediff_home&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_pc" onclick="trackGuruURL('https://track.rediff.com/click?url=___https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Fhealth%2Four-daughter-gaining-weight-weighs-between-16-18-kg-4%2F5249185%3Futm_source%3Drediff_home%26utm_medium%3Dpc%26utm_campaign%3Drediffgurus%26utm_content%3Drediffgurus_rediff_home_pc___&position=2_1-2_6&label=edit_gurus&c_type=edit_gurus&property=hp_in_pc');return false;" data-secid="sec7" data-pos="7">Our daughter is not gaining weight. She weighs between 16 to...</a></h3>
+									<h3 class="hdlines " data-boxno="r6_c2_t3_8" data-track="label=edit_gurus&c_type=edit_gurus&news=https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Fcareer%2Factually-submitted-neet-form-today-got-confirmation-page-filled-form%2F5249407"><a href="https://gurus.rediff.com/question/qdtl/career/actually-submitted-neet-form-today-got-confirmation-page-filled-form/5249407?utm_source=rediff_home&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_pc" onclick="trackGuruURL('https://track.rediff.com/click?url=___https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Fcareer%2Factually-submitted-neet-form-today-got-confirmation-page-filled-form%2F5249407%3Futm_source%3Drediff_home%26utm_medium%3Dpc%26utm_campaign%3Drediffgurus%26utm_content%3Drediffgurus_rediff_home_pc___&position=2_1-2_6&label=edit_gurus&c_type=edit_gurus&property=hp_in_pc');return false;" data-secid="sec7" data-pos="8">Hi,so actually I submitted my neet form today got confirmation...</a></h3>
+									<h3 class="hdlines " data-boxno="r6_c2_t4_8" data-track="label=edit_gurus&c_type=edit_gurus&news=https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Fcareer%2Fpcb-k-baad-neet-kitne-ank-chahiye-ki-gen-category%2F5249434"><a href="https://gurus.rediff.com/question/qdtl/career/pcb-k-baad-neet-kitne-ank-chahiye-ki-gen-category/5249434?utm_source=rediff_home&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_pc" onclick="trackGuruURL('https://track.rediff.com/click?url=___https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Fcareer%2Fpcb-k-baad-neet-kitne-ank-chahiye-ki-gen-category%2F5249434%3Futm_source%3Drediff_home%26utm_medium%3Dpc%26utm_campaign%3Drediffgurus%26utm_content%3Drediffgurus_rediff_home_pc___&position=2_1-2_6&label=edit_gurus&c_type=edit_gurus&property=hp_in_pc');return false;" data-secid="sec7" data-pos="9">Pcb k baad neet me kitne ank chahiye ki gen category me bds me...</a></h3>
+									<h3 class="hdlines " data-boxno="r6_c2_t5_8" data-track="label=edit_gurus&c_type=edit_gurus&news=https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Frelationship%2Fjoint-family-better-than-living-separate-boyfriend-gujarati-who-always%2F5248732"><a href="https://gurus.rediff.com/question/qdtl/relationship/joint-family-better-than-living-separate-boyfriend-gujarati-who-always/5248732?utm_source=rediff_home&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_pc" onclick="trackGuruURL('https://track.rediff.com/click?url=___https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Frelationship%2Fjoint-family-better-than-living-separate-boyfriend-gujarati-who-always%2F5248732%3Futm_source%3Drediff_home%26utm_medium%3Dpc%26utm_campaign%3Drediffgurus%26utm_content%3Drediffgurus_rediff_home_pc___&position=2_1-2_6&label=edit_gurus&c_type=edit_gurus&property=hp_in_pc');return false;" data-secid="sec7" data-pos="10">Is a joint family better than living separate?My boyfriend is...</a></h3>
+									<h3 class="hdlines " data-boxno="r6_c2_t6_8" data-track="label=edit_gurus&c_type=edit_gurus&news=https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Fmoney%2Fvivek-43-currently-working-private-organization-having-investment-8-0%2F5248429"><a href="https://gurus.rediff.com/question/qdtl/money/vivek-43-currently-working-private-organization-having-investment-8-0/5248429?utm_source=rediff_home&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_pc" onclick="trackGuruURL('https://track.rediff.com/click?url=___https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Fmoney%2Fvivek-43-currently-working-private-organization-having-investment-8-0%2F5248429%3Futm_source%3Drediff_home%26utm_medium%3Dpc%26utm_campaign%3Drediffgurus%26utm_content%3Drediffgurus_rediff_home_pc___&position=2_1-2_6&label=edit_gurus&c_type=edit_gurus&property=hp_in_pc');return false;" data-secid="sec7" data-pos="11">Hi Vivek,I am 43 year old. I am currently working in private...</a></h3>
+									<h3 class="hdlines " data-boxno="r6_c2_t7_8" data-track="label=edit_gurus&c_type=edit_gurus&news=https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Fmoney%2Finvesting-motilal-oswal-direct-midcap-fund-3-months-three-months%2F5249255"><a href="https://gurus.rediff.com/question/qdtl/money/investing-motilal-oswal-direct-midcap-fund-3-months-three-months/5249255?utm_source=rediff_home&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_pc" onclick="trackGuruURL('https://track.rediff.com/click?url=___https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Fmoney%2Finvesting-motilal-oswal-direct-midcap-fund-3-months-three-months%2F5249255%3Futm_source%3Drediff_home%26utm_medium%3Dpc%26utm_campaign%3Drediffgurus%26utm_content%3Drediffgurus_rediff_home_pc___&position=2_1-2_6&label=edit_gurus&c_type=edit_gurus&property=hp_in_pc');return false;" data-secid="sec7" data-pos="12">I am investing in motilal oswal direct midcap fund from last 3...</a></h3>
+									<h3 class="hdlines noborder" data-boxno="r6_c2_t8_8" data-track="label=edit_gurus&c_type=edit_gurus&news=https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Frelationship%2Fmet-boy-arrange-marriage-meeting-week-ago-said-had-drinking%2F5248498"><a href="https://gurus.rediff.com/question/qdtl/relationship/met-boy-arrange-marriage-meeting-week-ago-said-had-drinking/5248498?utm_source=rediff_home&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_pc" onclick="trackGuruURL('https://track.rediff.com/click?url=___https%3A%2F%2Fgurus.rediff.com%2Fquestion%2Fqdtl%2Frelationship%2Fmet-boy-arrange-marriage-meeting-week-ago-said-had-drinking%2F5248498%3Futm_source%3Drediff_home%26utm_medium%3Dpc%26utm_campaign%3Drediffgurus%26utm_content%3Drediffgurus_rediff_home_pc___&position=2_1-2_6&label=edit_gurus&c_type=edit_gurus&property=hp_in_pc');return false;" data-secid="sec7" data-pos="13">I met a boy in arrange marriage meeting one week ago he said...</a></h3>
+						<p class="alignR seemoretopm"><a href="https://gurus.rediff.com?utm_source=rediff_home&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_pc" onclick="trackGuruURL('https://track.rediff.com/click?url=___https%3A%2F%2Fgurus.rediff.com%3Futm_source%3Drediff_home%26utm_medium%3Dpc%26utm_campaign%3Drediffgurus%26utm_content%3Drediffgurus_rediff_home_pc___&position=2_1-2_M&label=edit_gurus&c_type=edit_gurus&property=hp_in_pc');return false;" class="seemore" data-secid="sec7" data-pos="14">See More &gt;</a></p>
+		</div>
+		<div class="col_mid">
+			<div class="advttext"></div>
+			<div class="adbxo1"><div id='div-gpt-ad-1742276266465-0' style='min-width:300px;min-height:250px;'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1742276266465-0');});</script></div></div>		
+		</div>
+			</div>
+<div class="maxwrap videosection">
+	<h2 class="sechd"><a href="https://ishare.rediff.com" data-secid="sec8" data-pos="1"><span class="homesprite secicons videos"></span> VIDEOS</a></h2>
+	<div class="section flex noborder">
+				<div class="wd23" data-boxno="r7_c1_v1_4" data-track="label=videos&c_type=ishare&c_id=11374920">
+			<div class="imgbox vdbox relative vdicon curhand" data-vdid="11374920" data-vdtitle="'My father would be so proud today': Rahul Dravid"><img src="https://datastore.rediff.com/h180-w295/thumb/53615D675B5B615F706460626D72/ll8k7kxv4wb8g5dt.D.157000.FEB-14E.mp4-0013.png" width="295" height="180" alt="'My father would be so proud today': Rahul Dravid" class="rcorner" loading="lazy" /></div>
+			<h3 class="vdtitle"><a href="https://ishare.rediff.com" class="secname" data-secid="sec8" data-pos="2"><span class="homesprite secicons videos"></span></a><a href="https://ishare.rediff.com/video/others/-my-father-would-be-so-proud-today-rahul-dravid/11374920" data-secid="sec8" data-pos="2">'My father would be so proud today': Rahul Dravid</a></h3>
+			<div class="clearfix"><p class="floatL duration">2:37 <span class="grey">min</span></p><p class="floatR updated">1 day ago</p></div>
+		</div>
+				<div class="wd23" data-boxno="r7_c2_v2_4" data-track="label=videos&c_type=ishare&c_id=11374826">
+			<div class="imgbox vdbox relative vdicon curhand" data-vdid="11374826" data-vdtitle="SPOTTED: Shanaya Kapoor at Mumbai airport "><img src="https://datastore.rediff.com/h180-w295/thumb/53615D675B5B615F706460626D72/sfgwnj2e7eedn1ej.D.87000.Shanaya-Kapoor-spotted-at-Mumbai-airport-in-a-casual-look--seen-in-a-simple-style.mp4-0000.png" width="295" height="180" alt="SPOTTED: Shanaya Kapoor at Mumbai airport " class="rcorner" loading="lazy" /></div>
+			<h3 class="vdtitle"><a href="https://ishare.rediff.com" class="secname" data-secid="sec8" data-pos="3"><span class="homesprite secicons videos"></span></a><a href="https://ishare.rediff.com/video/others/spotted-shanaya-kapoor-at-mumbai-airport-/11374826" data-secid="sec8" data-pos="3">SPOTTED: Shanaya Kapoor at Mumbai airport </a></h3>
+			<div class="clearfix"><p class="floatL duration">1:27 <span class="grey">min</span></p><p class="floatR updated">2 days ago</p></div>
+		</div>
+				<div class="wd23" data-boxno="r7_c3_v3_4" data-track="label=videos&c_type=ishare&c_id=11374907">
+			<div class="imgbox vdbox relative vdicon curhand" data-vdid="11374907" data-vdtitle="IAF's Rafale Roars Skyward from Moran Emergency Strip as Modi Looks On"><img src="https://datastore.rediff.com/h180-w295/thumb/53615D675B5B615F706460626D72/h6b5wp0aniowyst3.D.46000.IAFs-Rafale-majestic-take-off-from-Moran-Bypass--Emergency-Landing-Facility-in-Dibrugarh.mp4-0004.png" width="295" height="180" alt="IAF's Rafale Roars Skyward from Moran Emergency Strip as Modi Looks On" class="rcorner" loading="lazy" /></div>
+			<h3 class="vdtitle"><a href="https://ishare.rediff.com" class="secname" data-secid="sec8" data-pos="4"><span class="homesprite secicons videos"></span></a><a href="https://ishare.rediff.com/video/others/iaf-s-rafale-roars-skyward-from-moran-emergency-strip-as-modi-looks-on/11374907" data-secid="sec8" data-pos="4">IAF's Rafale Roars Skyward from Moran Emergency Strip as Modi Looks On</a></h3>
+			<div class="clearfix"><p class="floatL duration">0:46 <span class="grey">min</span></p><p class="floatR updated">1 day ago</p></div>
+		</div>
+				<div class="wd23" data-boxno="r7_c4_v4_4" data-track="label=videos&c_type=ishare&c_id=11374886">
+			<div class="imgbox vdbox relative vdicon curhand" data-vdid="11374886" data-vdtitle="Ashnoor Kaur Stuns at Glamorous Event, Leaves Fans Mesmerized "><img src="https://datastore.rediff.com/h180-w295/thumb/53615D675B5B615F706460626D72/1pg9r8hq8frj9mjb.D.71000.Ashnoor-Kaur-was-spotted-arriving-for-an-event-and-looked-absolutely-beautiful..mp4-0001.png" width="295" height="180" alt="Ashnoor Kaur Stuns at Glamorous Event, Leaves Fans Mesmerized " class="rcorner" loading="lazy" /></div>
+			<h3 class="vdtitle"><a href="https://ishare.rediff.com" class="secname" data-secid="sec8" data-pos="5"><span class="homesprite secicons videos"></span></a><a href="https://ishare.rediff.com/video/others/ashnoor-kaur-stuns-at-glamorous-event-leaves-fans-mesmerized-/11374886" data-secid="sec8" data-pos="5">Ashnoor Kaur Stuns at Glamorous Event, Leaves Fans Mesmerized </a></h3>
+			<div class="clearfix"><p class="floatL duration">1:11 <span class="grey">min</span></p><p class="floatR updated">1 day ago</p></div>
+		</div>
+			</div>
+		<div class="vdsection flex noborder">
+				<div class="wd23" data-boxno="r8_c1_v1_4" data-track="label=videos&c_type=ishare&c_id=11374898">
+			<div class="imgbox vdbox relative vdicon curhand" data-vdid="11374898" data-vdtitle="Rani celebrates the success of Mardaani"><img src="https://datastore.rediff.com/briefcase/53615D675B5B615F706460626D72/adnzffp9kizmt2hk.D.98000.Rani-celebrates-the-success-of-Mardaani.mp4-0001.png" width="295" height="180" alt="Rani celebrates the success of Mardaani" class="rcorner" loading="lazy" /></div>
+			<h3 class="vdtitle"><a href="https://ishare.rediff.com" class="secname" data-secid="sec8" data-pos="6"><span class="homesprite secicons videos"></span></a><a href="https://ishare.rediff.com/video/others/rani-celebrates-the-success-of-mardaani/11374898" data-secid="sec8" data-pos="6">Rani celebrates the success of Mardaani</a></h3>
+			<div class="clearfix"><p class="floatL duration">1:38 <span class="grey">min</span></p><p class="floatR updated">1 day ago</p></div>
+		</div>
+				<div class="wd23" data-boxno="r8_c2_v2_4" data-track="label=videos&c_type=ishare&c_id=11374800">
+			<div class="imgbox vdbox relative vdicon curhand" data-vdid="11374800" data-vdtitle="Arjun Kapoor makes a stylish appearance at screening of Tu Yaa Main"><img src="https://datastore.rediff.com/h180-w295/thumb/53615D675B5B615F706460626D72/zdk0z9cvjj1os0kk.D.42000.Arjun-Kapoor-makes-a-stylish-appearance-at-screening-of-Tu-Yaa-Main.mp4-0005.png" width="295" height="180" alt="Arjun Kapoor makes a stylish appearance at screening of Tu Yaa Main" class="rcorner" loading="lazy" /></div>
+			<h3 class="vdtitle"><a href="https://ishare.rediff.com" class="secname" data-secid="sec8" data-pos="7"><span class="homesprite secicons videos"></span></a><a href="https://ishare.rediff.com/video/others/arjun-kapoor-makes-a-stylish-appearance-at-screening-of-tu-yaa-main/11374800" data-secid="sec8" data-pos="7">Arjun Kapoor makes a stylish appearance at screening of Tu Yaa Main</a></h3>
+			<div class="clearfix"><p class="floatL duration">0:42 <span class="grey">min</span></p><p class="floatR updated">2 days ago</p></div>
+		</div>
+				<div class="wd23" data-boxno="r8_c3_v3_4" data-track="label=videos&c_type=ishare&c_id=11374805">
+			<div class="imgbox vdbox relative vdicon curhand" data-vdid="11374805" data-vdtitle="Ayesha Khan Looks Stunning!"><img src="https://datastore.rediff.com/h180-w295/thumb/53615D675B5B615F706460626D72/ag4gnwa4qlnfjt96.D.104000.Ayesha-Khan-turns-heads-with-her-casual-and-stylish-look-at-screening-of-Tu-Yaa-Main.mp4-0002.png" width="295" height="180" alt="Ayesha Khan Looks Stunning!" class="rcorner" loading="lazy" /></div>
+			<h3 class="vdtitle"><a href="https://ishare.rediff.com" class="secname" data-secid="sec8" data-pos="8"><span class="homesprite secicons videos"></span></a><a href="https://ishare.rediff.com/video/others/ayesha-khan-looks-stunning-/11374805" data-secid="sec8" data-pos="8">Ayesha Khan Looks Stunning!</a></h3>
+			<div class="clearfix"><p class="floatL duration">1:44 <span class="grey">min</span></p><p class="floatR updated">2 days ago</p></div>
+		</div>
+				<div class="wd23" data-boxno="r8_c4_v4_4" data-track="label=videos&c_type=ishare&c_id=11374908">
+			<div class="imgbox vdbox relative vdicon curhand" data-vdid="11374908" data-vdtitle="PM Modi witnesses IAF's spectacular air show at newly-launched ELF in Assam"><img src="https://datastore.rediff.com/h180-w295/thumb/53615D675B5B615F706460626D72/rdxnqwvxqd8rxu0w.D.1139000.PM-Modi-Witnesses-IAF-Spectacular-Air-Show-at-Dibrugarh-ELF-Featuring-Sukhoi-Su-30MKI---Rafale.mp4-0016.png" width="295" height="180" alt="PM Modi witnesses IAF's spectacular air show at newly-launched ELF in Assam" class="rcorner" loading="lazy" /></div>
+			<h3 class="vdtitle"><a href="https://ishare.rediff.com" class="secname" data-secid="sec8" data-pos="9"><span class="homesprite secicons videos"></span></a><a href="https://ishare.rediff.com/video/others/pm-modi-witnesses-iaf-s-spectacular-air-show-at-newly-launched-elf-in-assam/11374908" data-secid="sec8" data-pos="9">PM Modi witnesses IAF's spectacular air show at newly-launched ELF in Assam</a></h3>
+			<div class="clearfix"><p class="floatL duration">18:59 <span class="grey">min</span></p><p class="floatR updated">1 day ago</p></div>
+		</div>
+			</div>
+		<p class="alignR"><a href="https://ishare.rediff.com" class="seemore" data-secid="sec8" data-pos="10">See More &gt;</a></p>
+</div>
+<div class="photosection maxwrap">
+	<h2 class="photohd"><span class="homesprite secicons photos"></span><a href="https://www.rediff.com/photos" data-secid="sec9"  data-pos="1">PHOTOS</a></h2>
+	<div class="section flex maxwrap">
+		<div data-boxno="r9_c1_i1_1" data-track="label=edit_photos&c_type=edit_photos&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fkashmiri-pandits-celebrate-mahashivratri%2F20260215.htm">
+			<div class="bigphoto rcorner"><a href="https://www.rediff.com/news/report/kashmiri-pandits-celebrate-mahashivratri/20260215.htm" data-secid="sec9" data-pos="2"><img src="//im.rediff.com/670-405/news/2026/feb/15hearth-1.jpg" width="670" height="405" class="rcorner" alt="Kashmiri Pandits Celebrate Mahashivratri" loading="lazy" /></a></div>
+			<h3 class="hd2"><a href="https://www.rediff.com/news/report/kashmiri-pandits-celebrate-mahashivratri/20260215.htm" data-secid="sec9" data-pos="2">Kashmiri Pandits Celebrate Mahashivratri</a></h3>
+		</div>
+		<div>
+			<div class="pboxcontainer">
+												<div class="pbox" data-boxno="r9_c2_i1_2" data-track="label=edit_photos&c_type=edit_photos&news=https%3A%2F%2Fwww.rediff.com%2Fcricket%2Freport%2Fpix-fans-turn-up-heat-ahead-of-india-pakistan-clash-in-colombo%2F20260215.htm">
+					<a href="https://www.rediff.com/cricket/report/pix-fans-turn-up-heat-ahead-of-india-pakistan-clash-in-colombo/20260215.htm" aria-label="photoimage" data-secid="sec9" data-pos="3"><img src="//im.rediff.com/300-180/cricket/2026/feb/15india-fan.jpg" class="rcorner" width="300" height="180" alt="Fans Turn Up Heat Ahead of India-Pakistan Clash in Colombo" loading="lazy" /></a>
+					<h3><a href="https://www.rediff.com/cricket/report/pix-fans-turn-up-heat-ahead-of-india-pakistan-clash-in-colombo/20260215.htm" data-secid="sec9" data-pos="3">Fans Turn Up Heat Ahead of India-Pakistan Clash in Colombo</a></h3>
+				</div>
+												<div class="pbox" data-boxno="r9_c3_i1_2" data-track="label=edit_photos&c_type=edit_photos&news=https%3A%2F%2Fwww.rediff.com%2Fsports%2Freport%2Ffa-cup-man-city-beat-salford-newcastle-knock-out-villa-pix%2F20260215.htm">
+					<a href="https://www.rediff.com/sports/report/fa-cup-man-city-beat-salford-newcastle-knock-out-villa-pix/20260215.htm" aria-label="photoimage" data-secid="sec9" data-pos="4"><img src="//im.rediff.com/300-180/sports/2026/feb/15city.jpg" class="rcorner" width="300" height="180" alt="FA Cup: Man City beat Salford, Newcastle knock out Villa" loading="lazy" /></a>
+					<h3><a href="https://www.rediff.com/sports/report/fa-cup-man-city-beat-salford-newcastle-knock-out-villa-pix/20260215.htm" data-secid="sec9" data-pos="4">FA Cup: Man City beat Salford, Newcastle knock out Villa</a></h3>
+				</div>
+												<div class="pbox" data-boxno="r9_c2_i2_2" data-track="label=edit_photos&c_type=edit_photos&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Fhow-india-celebrates-mahashivratri-travel-listicle%2F20260215.htm">
+					<a href="https://www.rediff.com/getahead/report/how-india-celebrates-mahashivratri-travel-listicle/20260215.htm" aria-label="photoimage" data-secid="sec9" data-pos="5"><img src="//im.rediff.com/300-180/getahead/2026/feb/12-shiva-1.jpg" class="rcorner" width="300" height="180" alt="How India Celebrates Mahashivratri" loading="lazy" /></a>
+					<h3><a href="https://www.rediff.com/getahead/report/how-india-celebrates-mahashivratri-travel-listicle/20260215.htm" data-secid="sec9" data-pos="5">How India Celebrates Mahashivratri</a></h3>
+				</div>
+												<div class="pbox" data-boxno="r9_c3_i2_2" data-track="label=edit_photos&c_type=edit_photos&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fpulwama-terror-attack-remembering-the-fallen%2F20260214.htm">
+					<a href="https://www.rediff.com/news/report/pulwama-terror-attack-remembering-the-fallen/20260214.htm" aria-label="photoimage" data-secid="sec9" data-pos="6"><img src="//im.rediff.com/300-180/news/2026/feb/14tribute1.jpg" class="rcorner" width="300" height="180" alt="Pulwama Terror Attack: Remembering The Fallen" loading="lazy" /></a>
+					<h3><a href="https://www.rediff.com/news/report/pulwama-terror-attack-remembering-the-fallen/20260214.htm" data-secid="sec9" data-pos="6">Pulwama Terror Attack: Remembering The Fallen</a></h3>
+				</div>
+											</div>
+		</div>
+	</div>
+		<div class="section flex maxwrap">
+				<div class="wd18" data-boxno="r10_c1_i1_1" data-track="label=edit_photos&c_type=edit_photos&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fkim-ju-ae-the-teenager-who-will-rule-north-korea-one-day%2F20260214.htm"><div class="imgbox"><a href="https://www.rediff.com/news/report/kim-ju-ae-the-teenager-who-will-rule-north-korea-one-day/20260214.htm" data-secid="sec9" data-pos="7"><img src="//im.rediff.com/240-170/news/2026/feb/13kim-jong-un1.jpg" width="240" height="170" alt="The Teenager Who Will Rule North Korea One Day" loading="lazy" /></a></div><h3 class="hd2"><a href="https://www.rediff.com/news/report/kim-ju-ae-the-teenager-who-will-rule-north-korea-one-day/20260214.htm" data-secid="sec9" data-pos="7">The Teenager Who Will Rule North Korea One Day</a></h3></div>
+				<div class="wd18" data-boxno="r10_c2_i2_1" data-track="label=edit_photos&c_type=edit_photos&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Fwhat-people-give-for-valentines-day-v-day-listicle%2F20260214.htm"><div class="imgbox"><a href="https://www.rediff.com/getahead/report/what-people-give-for-valentines-day-v-day-listicle/20260214.htm" data-secid="sec9" data-pos="8"><img src="//im.rediff.com/240-170/getahead/2026/feb/1-valentine-1.jpg" width="240" height="170" alt="What People Give For Valentine's Day" loading="lazy" /></a></div><h3 class="hd2"><a href="https://www.rediff.com/getahead/report/what-people-give-for-valentines-day-v-day-listicle/20260214.htm" data-secid="sec9" data-pos="8">What People Give For Valentine's Day</a></h3></div>
+				<div class="wd18" data-boxno="r10_c3_i3_1" data-track="label=edit_photos&c_type=edit_photos&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Fjab-we-met-she-called-me-with-an-it-issue%2F20260214.htm"><div class="imgbox"><a href="https://www.rediff.com/getahead/report/jab-we-met-she-called-me-with-an-it-issue/20260214.htm" data-secid="sec9" data-pos="9"><img src="//im.rediff.com/240-170/getahead/2026/feb/13jab-we-met-lead1.jpg" width="240" height="170" alt="Jab We Met: 'She Called Me With An IT Issue' " loading="lazy" /></a></div><h3 class="hd2"><a href="https://www.rediff.com/getahead/report/jab-we-met-she-called-me-with-an-it-issue/20260214.htm" data-secid="sec9" data-pos="9">Jab We Met: 'She Called Me With An IT Issue' </a></h3></div>
+				<div class="wd18" data-boxno="r10_c4_i4_1" data-track="label=edit_photos&c_type=edit_photos&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Fvalentines-day-special-i-proposed-to-her-in-a-movie-theatre%2F20260214.htm"><div class="imgbox"><a href="https://www.rediff.com/getahead/report/valentines-day-special-i-proposed-to-her-in-a-movie-theatre/20260214.htm" data-secid="sec9" data-pos="10"><img src="//im.rediff.com/240-170/getahead/2026/feb/13proposal-lead1.jpg" width="240" height="170" alt="'I Proposed To Her In A Movie Theatre' " loading="lazy" /></a></div><h3 class="hd2"><a href="https://www.rediff.com/getahead/report/valentines-day-special-i-proposed-to-her-in-a-movie-theatre/20260214.htm" data-secid="sec9" data-pos="10">'I Proposed To Her In A Movie Theatre' </a></h3></div>
+				<div class="wd18" data-boxno="r10_c5_i5_1" data-track="label=edit_photos&c_type=edit_photos&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fpix-bangladesh-election-results-bnp-wins-tarique-rahman-set-to-become-pm%2F20260213.htm"><div class="imgbox"><a href="https://www.rediff.com/news/report/pix-bangladesh-election-results-bnp-wins-tarique-rahman-set-to-become-pm/20260213.htm" data-secid="sec9" data-pos="11"><img src="//im.rediff.com/240-170/news/2026/feb/13tarique-rahman1.jpg" width="240" height="170" alt="BNP sweeps Bangladesh polls; Tarique Rahman to be PM" loading="lazy" /></a></div><h3 class="hd2"><a href="https://www.rediff.com/news/report/pix-bangladesh-election-results-bnp-wins-tarique-rahman-set-to-become-pm/20260213.htm" data-secid="sec9" data-pos="11">BNP sweeps Bangladesh polls; Tarique Rahman to be PM</a></h3></div>
+			</div>
+		<p class="alignR"><a href="https://www.rediff.com/photos" class="seemore" data-secid="sec9"  data-pos="12">See More &gt;</a></p>
+</div>
+<div class="maxwrap videosection">
+	<h2 class="sechd"><span>&#x1F4FA;</span> <a href="https://tv.rediff.com" data-secid="redifftv" data-pos="1">REDIFF-TV</a></h2>
+	<div class="section flex noborder">
+		
+									
+								<div class="wd23" data-boxno="r11_c2_v2_4" data-track="label=tvvideos&c_type=redifftv&c_id=370397">
+			<a href="https://tv.rediff.com/news/sc-orders-75yearold-monk-to-vacate-mumbai-temple-gives-4-yeartime/370397" data-secid="redifftv" data-pos="3" class="tvclick">
+			<div class="imgbox vdbox relative vdicon curhand"><img src="https://im.rediff.com/295-180/news/2026/feb/15babulanath-temple.jpg" width="295" height="180" alt="SC orders 75-year-old monk to vacate Mumbai temple, gives 4 year-time" class="rcorner" loading="lazy" /></div>
+			<h3 class="vdtitle">SC orders 75-year-old monk to vacate Mumbai temple, gives 4 year-time</h3>
+			<div class="clearfix"><p class="floatL duration grey">4:10 min</p></div>
+			</a>
+		</div>
+										
+								<div class="wd23" data-boxno="r11_c3_v3_4" data-track="label=tvvideos&c_type=redifftv&c_id=370403">
+			<a href="https://tv.rediff.com/cricket/t20-wc-england-eye-super-8s-as-plucky-italy-beckon/370403" data-secid="redifftv" data-pos="4" class="tvclick">
+			<div class="imgbox vdbox relative vdicon curhand"><img src="https://im.rediff.com/295-180/cricket/2026/feb/14bethell-catch-jones.jpg" width="295" height="180" alt="T20 WC: England eye Super 8s as plucky Italy beckon" class="rcorner" loading="lazy" /></div>
+			<h3 class="vdtitle">T20 WC: England eye Super 8s as plucky Italy beckon</h3>
+			<div class="clearfix"><p class="floatL duration grey">5:29 min</p></div>
+			</a>
+		</div>
+										
+								<div class="wd23" data-boxno="r11_c4_v4_4" data-track="label=tvvideos&c_type=redifftv&c_id=370402">
+			<a href="https://tv.rediff.com/cricket/ranji-trophy-semifinal-sudip-gharamis-century-boosts-bengal-on-day-1-vs-jk/370402" data-secid="redifftv" data-pos="5" class="tvclick">
+			<div class="imgbox vdbox relative vdicon curhand"><img src="https://im.rediff.com/295-180/cricket/2026/feb/15gharami1.jpg" width="295" height="180" alt="Ranji Trophy Semi-final: Sudip Gharami's century boosts Bengal on Day 1 vs J&K" class="rcorner" loading="lazy" /></div>
+			<h3 class="vdtitle">Ranji Trophy Semi-final: Sudip Gharami's century boosts Bengal on Day 1 vs J&K</h3>
+			<div class="clearfix"><p class="floatL duration grey">3:43 min</p></div>
+			</a>
+		</div>
+										
+								<div class="wd23" data-boxno="r11_c5_v5_4" data-track="label=tvvideos&c_type=redifftv&c_id=1715022026">
+			<a href="https://tv.rediff.com/hourly/17-15-hourly_news.mp4_video/1715022026" data-secid="redifftv" data-pos="6" class="tvclick">
+			<div class="imgbox vdbox relative vdicon curhand"><img src="https://im.rediff.com/295-180/news/2026/feb/09om-birla.jpg" width="295" height="180" alt="6 pm News Flash â February 15, 2026" class="rcorner" loading="lazy" /></div>
+			<h3 class="vdtitle">6 pm News Flash â February 15, 2026</h3>
+			<div class="clearfix"><p class="floatL duration grey">0:18 min</p></div>
+			</a>
+		</div>
+																					</div>
+		<p class="alignR"><a href="https://tv.rediff.com" class="seemore" data-secid="redifftv" data-pos="6">See More &gt;</a></p>
+</div>
+			<h2 class="sechd negtop maxwrap mtop "><span class="homesprite secicons cricket"></span><a href="https://www.rediff.com/cricket" data-secid="sec10" data-pos="1">CRICKET</a></h2>
+	<div class="section darkbord flex maxwrap">
+		<div class="col_big relative rborder1" data-boxno="r12_c1_i1_1" data-track="label=edit_cricket&c_type=edit_cricket&news=https%3A%2F%2Fwww.rediff.com%2Fcricket%2Fspecial%2Ft20-world-cup-every-india-pakistan-game-means-more-than-just-cricket%2F20260214.htm">
+			<div class="bigimage"><a href="https://www.rediff.com/cricket/special/t20-world-cup-every-india-pakistan-game-means-more-than-just-cricket/20260214.htm" data-secid="sec10" data-pos="2"><img src="//im.rediff.com/430-250/cricket/2026/feb/14shahid-hashmi.jpg" width="430" height="250" class="rcorner" alt="Every India-Pakistan Game Means More Than Just Cricket" loading="lazy" /></a></div>
+			<h2 class="fstory"><a href="https://www.rediff.com/cricket" class="secname" data-secid="sec10" data-pos="2"><span class="homesprite secicons cricket"></span></a><a href="https://www.rediff.com/cricket/special/t20-world-cup-every-india-pakistan-game-means-more-than-just-cricket/20260214.htm" data-secid="sec10" data-pos="2">Every India-Pakistan Game Means More Than Just Cricket</a></h2>
+			<p class="ttoread">4 min read</p>		</div>
+		<div class="col_mid relative rborder1">
+						<div class="mnewsrow mnewsrowbm clearfix " data-boxno="r12_c2_i1_2" data-track="label=edit_cricket&c_type=edit_cricket&news=https%3A%2F%2Fwww.rediff.com%2Fcricket%2Freport%2Ft20-wc-pakistan-set-for-surprise-change-vs-india%2F20260214.htm">
+				<div class="mnewsimg"><a href="https://www.rediff.com/cricket/report/t20-wc-pakistan-set-for-surprise-change-vs-india/20260214.htm" data-secid="sec10" data-pos="3"><img src="//im.rediff.com/200-120/cricket/2025/feb/19icc-men-champions-trophy22.jpg" width="200" height="120" class="rcorner" alt="Pakistan set for surprise change vs India " loading="lazy"/></a></div>
+				<div class="mnewscopy"><h3><a href="https://www.rediff.com/cricket/report/t20-wc-pakistan-set-for-surprise-change-vs-india/20260214.htm" data-secid="sec10" data-pos="3">Pakistan set for surprise change vs India </a></h3><div class="clearfix"><p class="floatL ttoread">3 min read</p><p class="floatR updated">1 day ago</p></div></div>
+			</div>
+						<div class="mnewsrow mnewsrowbm clearfix noborder" data-boxno="r12_c2_i2_2" data-track="label=edit_cricket&c_type=edit_cricket&news=https%3A%2F%2Fwww.rediff.com%2Fcricket%2Freport%2Fhardik-pandyas-2-am-tattoo-gift-for-mahieka%2F20260215.htm">
+				<div class="mnewsimg"><a href="https://www.rediff.com/cricket/report/hardik-pandyas-2-am-tattoo-gift-for-mahieka/20260215.htm" data-secid="sec10" data-pos="4"><img src="//im.rediff.com/200-120/cricket/2026/feb/14hardik2.jpg" width="200" height="120" class="rcorner" alt="Hardik Pandya's 2 AM gift for partner Mahieka" loading="lazy"/></a></div>
+				<div class="mnewscopy"><h3><a href="https://www.rediff.com/cricket/report/hardik-pandyas-2-am-tattoo-gift-for-mahieka/20260215.htm" data-secid="sec10" data-pos="4">Hardik Pandya's 2 AM gift for partner Mahieka</a></h3><div class="clearfix"><p class="floatL ttoread">2 min read</p><p class="floatR updated">18 hours ago</p></div></div>
+			</div>
+					</div>
+		<div class="col_text">
+									<div class="mnewsrow mnewsrowbm" data-boxno="r12_c3_t1_5" data-track="label=edit_cricket&c_type=edit_cricket&news=https%3A%2F%2Fwww.rediff.com%2Fcricket%2Freport%2Ft20-world-cup-abhishek-blazes-nets-teases-return-vs-pakistan%2F20260214.htm"><h3 class="rowh3"><a href="https://www.rediff.com/cricket/report/t20-world-cup-abhishek-blazes-nets-teases-return-vs-pakistan/20260214.htm" data-secid="sec10" data-pos="5">Abhishek Blazes Nets, Teases Return Vs Pakistan!</a></h3><p class="ttoread">3 min read</p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r12_c3_t2_5" data-track="label=edit_cricket&c_type=edit_cricket&news=https%3A%2F%2Fwww.rediff.com%2Fcricket%2Freport%2Ft20-wc-markram-says-proteas-near-full-potential%2F20260215.htm"><h3 class="rowh3"><a href="https://www.rediff.com/cricket/report/t20-wc-markram-says-proteas-near-full-potential/20260215.htm" data-secid="sec10" data-pos="6">T20 WC: Markram Says Proteas Near Full Potential</a></h3><p class="ttoread">4 min read</p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r12_c3_t3_5" data-track="label=edit_cricket&c_type=edit_cricket&news=https%3A%2F%2Fwww.rediff.com%2Fcricket%2Freport%2Ft20-wc-nz-pacer-ferguson-to-miss-canada-game%2F20260215.htm"><h3 class="rowh3"><a href="https://www.rediff.com/cricket/report/t20-wc-nz-pacer-ferguson-to-miss-canada-game/20260215.htm" data-secid="sec10" data-pos="7">T20 WC: NZ pacer Ferguson to miss Canada game</a></h3><p class="ttoread">2 min read</p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r12_c3_t4_5" data-track="label=edit_cricket&c_type=edit_cricket&news=https%3A%2F%2Fwww.rediff.com%2Fcricket%2Freport%2Ft20-world-cup-india-vs-pak-sky-recreates-tariqs-bowling-action-in-practice%2F20260215.htm"><h3 class="rowh3"><a href="https://www.rediff.com/cricket/report/t20-world-cup-india-vs-pak-sky-recreates-tariqs-bowling-action-in-practice/20260215.htm" data-secid="sec10" data-pos="8">India vs Pak: SKY recreates Tariq's bowling action in practice</a></h3><p class="ttoread">2 min read</p></div>
+												<div class="mnewsrow " data-boxno="r12_c3_t5_5" data-track="label=edit_cricket&c_type=edit_cricket&news=https%3A%2F%2Fwww.rediff.com%2Fcricket%2Freport%2Ft20-world-cup-ganguly-feels-india-will-tackle-usman-tariq-threat%2F20260214.htm"><h3 class="rowh3"><a href="https://www.rediff.com/cricket/report/t20-world-cup-ganguly-feels-india-will-tackle-usman-tariq-threat/20260214.htm" data-secid="sec10" data-pos="9">Usman Tariq just a regular off-spinner: Ganguly</a></h3><p class="ttoread">2 min read</p></div>
+									<p class="alignR"><a href="https://www.rediff.com/cricket" class="seemore" data-secid="sec10" data-pos="10">See More &gt;</a></p>		</div>
+	</div>
+					<h2 class="sechd negtop maxwrap mtop "><span class="homesprite secicons sports"></span><a href="https://www.rediff.com/sports" data-secid="sec11" data-pos="1">CRICKET & SPORTS</a></h2>
+	<div class="section darkbord flex maxwrap">
+		<div class="col_big relative rborder1" data-boxno="r13_c1_i1_1" data-track="label=edit_cricketsports&c_type=edit_sports&news=https%3A%2F%2Fwww.rediff.com%2Fsports%2Freport%2Fvinicius-brace-takes-real-madrid-to-top-of-laliga%2F20260215.htm">
+			<div class="bigimage"><a href="https://www.rediff.com/sports/report/vinicius-brace-takes-real-madrid-to-top-of-laliga/20260215.htm" data-secid="sec11" data-pos="2"><img src="//im.rediff.com/430-250/sports/2026/feb/15real-madrid.jpg" width="430" height="250" class="rcorner" alt="Vinicius brace takes Real Madrid to top of LaLiga" loading="lazy" /></a></div>
+			<h2 class="fstory"><a href="https://www.rediff.com/sports" class="secname" data-secid="sec11" data-pos="2"><span class="homesprite secicons sports"></span></a><a href="https://www.rediff.com/sports/report/vinicius-brace-takes-real-madrid-to-top-of-laliga/20260215.htm" data-secid="sec11" data-pos="2">Vinicius brace takes Real Madrid to top of LaLiga</a></h2>
+			<p class="ttoread">3 min read</p>		</div>
+		<div class="col_mid relative rborder1">
+						<div class="mnewsrow mnewsrowbm clearfix " data-boxno="r13_c2_i1_2" data-track="label=edit_cricketsports&c_type=edit_sports&news=https%3A%2F%2Fwww.rediff.com%2Fsports%2Freport%2Ffa-cup-man-city-beat-salford-newcastle-knock-out-villa-pix%2F20260215.htm">
+				<div class="mnewsimg"><a href="https://www.rediff.com/sports/report/fa-cup-man-city-beat-salford-newcastle-knock-out-villa-pix/20260215.htm" data-secid="sec11" data-pos="3"><img src="//im.rediff.com/200-120/sports/2026/feb/15city.jpg" width="200" height="120" class="rcorner" alt="FA Cup: Man City beat Salford, Newcastle knock out Villa" loading="lazy"/></a></div>
+				<div class="mnewscopy"><h3><a href="https://www.rediff.com/sports/report/fa-cup-man-city-beat-salford-newcastle-knock-out-villa-pix/20260215.htm" data-secid="sec11" data-pos="3">FA Cup: Man City beat Salford, Newcastle knock out Villa</a></h3><div class="clearfix"><p class="floatL ttoread">5 min read</p><p class="floatR updated">9 hours ago</p></div></div>
+			</div>
+						<div class="mnewsrow mnewsrowbm clearfix noborder" data-boxno="r13_c2_i2_2" data-track="label=edit_cricketsports&c_type=edit_cricket&news=https%3A%2F%2Fwww.rediff.com%2Fcricket%2Freport%2Fdaryl-mitchell-on-new-zealands-t20-world-cup-defeat-to-south-africa-powerplays%2F20260215.htm">
+				<div class="mnewsimg"><a href="https://www.rediff.com/cricket/report/daryl-mitchell-on-new-zealands-t20-world-cup-defeat-to-south-africa-powerplays/20260215.htm" data-secid="sec11" data-pos="4"><img src="//im.rediff.com/200-120/cricket/2026/feb/15seifert-allen.jpg" width="200" height="120" class="rcorner" alt="'Kiwis lost the South Africa match in Powerplays': Mitchell" loading="lazy"/></a></div>
+				<div class="mnewscopy"><h3><a href="https://www.rediff.com/cricket/report/daryl-mitchell-on-new-zealands-t20-world-cup-defeat-to-south-africa-powerplays/20260215.htm" data-secid="sec11" data-pos="4">'Kiwis lost the South Africa match in Powerplays': Mitchell</a></h3><div class="clearfix"><p class="floatL ttoread">4 min read</p><p class="floatR updated">7 hours ago</p></div></div>
+			</div>
+					</div>
+		<div class="col_text">
+									<div class="mnewsrow mnewsrowbm" data-boxno="r13_c3_t1_5" data-track="label=edit_cricketsports&c_type=edit_cricket&news=https%3A%2F%2Fwww.rediff.com%2Fcricket%2Freport%2Ft20-world-cup-will-australia-include-steve-smith-for-crucial-sri-lanka-clash%2F20260215.htm"><h3 class="rowh3"><a href="https://www.rediff.com/cricket/report/t20-world-cup-will-australia-include-steve-smith-for-crucial-sri-lanka-clash/20260215.htm" data-secid="sec11" data-pos="5">Will Australia include Steve Smith for crucial Lanka clash?</a></h3><p class="ttoread">4 min read</p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r13_c3_t2_5" data-track="label=edit_cricketsports&c_type=edit_cricket&news=https%3A%2F%2Fwww.rediff.com%2Fcricket%2Freport%2Ft20-world-cup-uae-afghanistan-in-must-win-match-to-stay-alive%2F20260215.htm"><h3 class="rowh3"><a href="https://www.rediff.com/cricket/report/t20-world-cup-uae-afghanistan-in-must-win-match-to-stay-alive/20260215.htm" data-secid="sec11" data-pos="6">UAE, Afghanistan in battle for survival at T20 World Cup</a></h3><p class="ttoread">4 min read</p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r13_c3_t3_5" data-track="label=edit_cricketsports&c_type=edit_sports&news=https%3A%2F%2Fwww.rediff.com%2Fsports%2Freport%2Folympic-athletes-run-out-of-condoms-on-valentines%2F20260214.htm"><h3 class="rowh3"><a href="https://www.rediff.com/sports/report/olympic-athletes-run-out-of-condoms-on-valentines/20260214.htm" data-secid="sec11" data-pos="7">Valentine's chaos: Olympic village condoms all gone!</a></h3><p class="ttoread">3 min read</p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r13_c3_t4_5" data-track="label=edit_cricketsports&c_type=edit_sports&news=https%3A%2F%2Fwww.rediff.com%2Fsports%2Freport%2Fmohun-bagan-kick-off-isl-season-with-win-over-kerala-blasters%2F20260214.htm"><h3 class="rowh3"><a href="https://www.rediff.com/sports/report/mohun-bagan-kick-off-isl-season-with-win-over-kerala-blasters/20260214.htm" data-secid="sec11" data-pos="8">Bagan kick-off ISL season with win over Kerala Blasters</a></h3><p class="ttoread">6 min read</p></div>
+												<div class="mnewsrow " data-boxno="r13_c3_t5_5" data-track="label=edit_cricketsports&c_type=edit_sports&news=https%3A%2F%2Fwww.rediff.com%2Fsports%2Freport%2Ffih-pro-league-belgium-hand-india-third-straight-defeat%2F20260214.htm"><h3 class="rowh3"><a href="https://www.rediff.com/sports/report/fih-pro-league-belgium-hand-india-third-straight-defeat/20260214.htm" data-secid="sec11" data-pos="9">FIH Pro League: Belgium hand India third straight defeat</a></h3><p class="ttoread">4 min read</p></div>
+									<p class="alignR"><a href="https://www.rediff.com/sports" class="seemore" data-secid="sec11" data-pos="10">See More &gt;</a></p>		</div>
+	</div>
+					<h2 class="sechd negtop maxwrap mtop "><span class="homesprite secicons movies"></span><a href="https://www.rediff.com/movies" data-secid="sec12" data-pos="1">MOVIES</a></h2>
+	<div class="section darkbord flex maxwrap">
+		<div class="col_big relative rborder1" data-boxno="r14_c1_i1_1" data-track="label=edit_movies&c_type=edit_movies&news=https%3A%2F%2Fwww.rediff.com%2Fmovies%2Freport%2Ftu-meri-main-tera-main-tera-tu-meri-arrives-on-ott%2F20260213.htm">
+			<div class="bigimage"><a href="https://www.rediff.com/movies/report/tu-meri-main-tera-main-tera-tu-meri-arrives-on-ott/20260213.htm" data-secid="sec12" data-pos="2"><img src="//im.rediff.com/430-250/movies/2026/feb/13ott-bolly-lead2.jpg" width="430" height="250" class="rcorner" alt="Tu Meri Main Tera Main Tera Tu Meri Arrives On OTT" loading="lazy" /></a></div>
+			<h2 class="fstory"><a href="https://www.rediff.com/movies" class="secname" data-secid="sec12" data-pos="2"><span class="homesprite secicons movies"></span></a><a href="https://www.rediff.com/movies/report/tu-meri-main-tera-main-tera-tu-meri-arrives-on-ott/20260213.htm" data-secid="sec12" data-pos="2">Tu Meri Main Tera Main Tera Tu Meri Arrives On OTT</a></h2>
+			<p class="ttoread">4 min read</p>		</div>
+		<div class="col_mid relative rborder1">
+						<div class="mnewsrow mnewsrowbm clearfix " data-boxno="r14_c2_i1_2" data-track="label=edit_movies&c_type=edit_movies&news=https%3A%2F%2Fwww.rediff.com%2Fmovies%2Fspecial%2Fwatch-step-inside-keerthy-sureshs-beautiful-home%2F20260212.htm">
+				<div class="mnewsimg"><a href="https://www.rediff.com/movies/special/watch-step-inside-keerthy-sureshs-beautiful-home/20260212.htm" data-secid="sec12" data-pos="3"><img src="//im.rediff.com/200-120/movies/2026/feb/11house-of-fun-lead1.jpg" width="200" height="120" class="rcorner" alt="WATCH: Step Inside Keerthy Suresh's Beautiful Home" loading="lazy"/></a></div>
+				<div class="mnewscopy"><h3><a href="https://www.rediff.com/movies/special/watch-step-inside-keerthy-sureshs-beautiful-home/20260212.htm" data-secid="sec12" data-pos="3">WATCH: Step Inside Keerthy Suresh's Beautiful Home</a></h3><div class="clearfix"><p class="floatL ttoread">3 min read</p><p class="floatR updated">3 days ago</p></div></div>
+			</div>
+						<div class="mnewsrow mnewsrowbm clearfix noborder" data-boxno="r14_c2_i2_2" data-track="label=edit_movies&c_type=edit_movies&news=https%3A%2F%2Fwww.rediff.com%2Fmovies%2Fspecial%2Fvalentines-day-must-watch-these-films%2F20260212.htm">
+				<div class="mnewsimg"><a href="https://www.rediff.com/movies/special/valentines-day-must-watch-these-films/20260212.htm" data-secid="sec12" data-pos="4"><img src="//im.rediff.com/200-120/movies/2026/feb/12vday-movies-lead1.jpg" width="200" height="120" class="rcorner" alt="Single On Valentine's Day? Must Watch These Films" loading="lazy"/></a></div>
+				<div class="mnewscopy"><h3><a href="https://www.rediff.com/movies/special/valentines-day-must-watch-these-films/20260212.htm" data-secid="sec12" data-pos="4">Single On Valentine's Day? Must Watch These Films</a></h3><div class="clearfix"><p class="floatL ttoread">4 min read</p><p class="floatR updated">3 days ago</p></div></div>
+			</div>
+					</div>
+		<div class="col_text">
+									<div class="mnewsrow mnewsrowbm" data-boxno="r14_c3_t1_5" data-track="label=edit_movies&c_type=edit_movies&news=https%3A%2F%2Fwww.rediff.com%2Fmovies%2Freport%2Fwhy-rekha-karisma-looked-so-gorgeous-in-zubeidaa%2F20260212.htm"><h3 class="rowh3"><a href="https://www.rediff.com/movies/report/why-rekha-karisma-looked-so-gorgeous-in-zubeidaa/20260212.htm" data-secid="sec12" data-pos="5">Why Rekha, Karisma Looked So Gorgeous In Zubeidaa</a></h3><p class="ttoread">9 min read</p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r14_c3_t2_5" data-track="label=edit_movies&c_type=edit_movies&news=https%3A%2F%2Fwww.rediff.com%2Fmovies%2Fspecial%2Franveer-singh-vs-farhan-akhtar-the-don-3-war%2F20260213.htm"><h3 class="rowh3"><a href="https://www.rediff.com/movies/special/ranveer-singh-vs-farhan-akhtar-the-don-3-war/20260213.htm" data-secid="sec12" data-pos="6">Ranveer Singh Vs Farhan Akhtar: The Don 3 War</a></h3><p class="ttoread">5 min read</p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r14_c3_t3_5" data-track="label=edit_movies&c_type=edit_movies&news=https%3A%2F%2Fwww.rediff.com%2Fmovies%2Freport%2Fumesh-mehra-rekha-akshay-kumar-were-very-keen-to-do-sensual-scenes%2F20260210.htm"><h3 class="rowh3"><a href="https://www.rediff.com/movies/report/umesh-mehra-rekha-akshay-kumar-were-very-keen-to-do-sensual-scenes/20260210.htm" data-secid="sec12" data-pos="7">'Rekha-Akshay Were Very Keen To Do Sensual Scenes'</a></h3><p class="ttoread">5 min read</p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r14_c3_t4_5" data-track="label=edit_movies&c_type=edit_movies&news=https%3A%2F%2Fwww.rediff.com%2Fmovies%2Fcolumn%2Fhow-ikkis-reimagines-the-war-hero%2F20260211.htm"><h3 class="rowh3"><a href="https://www.rediff.com/movies/column/how-ikkis-reimagines-the-war-hero/20260211.htm" data-secid="sec12" data-pos="8">How Ikkis Reimagines The War Hero</a></h3><p class="ttoread">12 min read</p></div>
+												<div class="mnewsrow " data-boxno="r14_c3_t5_5" data-track="label=edit_movies&c_type=edit_movies&news=https%3A%2F%2Fwww.rediff.com%2Fmovies%2Fspecial%2Fvalentines-day-special-10-under-rated-romcoms-on-ott%2F20260209.htm"><h3 class="rowh3"><a href="https://www.rediff.com/movies/special/valentines-day-special-10-under-rated-romcoms-on-ott/20260209.htm" data-secid="sec12" data-pos="9">Valentine's Day Special: 10 Under-rated Romcoms On OTT</a></h3><p class="ttoread">5 min read</p></div>
+									<p class="alignR"><a href="https://www.rediff.com/movies" class="seemore" data-secid="sec12" data-pos="10">See More &gt;</a></p>		</div>
+	</div>
+				<div class="advtcontainer maxwrap"><div class="advttext"></div><div id="world_advt_bottom" class="div_advt_bottom"><ins data-revive-zoneid="77" data-revive-source="_blank" data-revive-target="_blank" data-revive-id="4b71f4079fb345c8ac958d0e9f0b56dd" data-zonename="Rediff_Home_728x90_BTF_IN"></ins></div></div>
+				<h2 class="sechd negtop maxwrap mtop "><span class="homesprite secicons getahead"></span><a href="https://www.rediff.com/getahead" data-secid="sec13" data-pos="1">GET AHEAD</a></h2>
+	<div class="section darkbord flex maxwrap">
+		<div class="col_big relative rborder1" data-boxno="r15_c1_i1_1" data-track="label=edit_getahead&c_type=edit_getahead&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Fchocolate-day-janhvi-jiya-get-delicious-during-valentines-week%2F20260209.htm">
+			<div class="bigimage"><a href="https://www.rediff.com/getahead/report/chocolate-day-janhvi-jiya-get-delicious-during-valentines-week/20260209.htm" data-secid="sec13" data-pos="2"><img src="//im.rediff.com/430-250/getahead/2026/feb/09chocolate-brown-lead2.jpg" width="430" height="250" class="rcorner" alt="Janhvi, Jiya Get As Delicious As Chocolate!" loading="lazy" /></a></div>
+			<h2 class="fstory"><a href="https://www.rediff.com/getahead" class="secname" data-secid="sec13" data-pos="2"><span class="homesprite secicons getahead"></span></a><a href="https://www.rediff.com/getahead/report/chocolate-day-janhvi-jiya-get-delicious-during-valentines-week/20260209.htm" data-secid="sec13" data-pos="2">Janhvi, Jiya Get As Delicious As Chocolate!</a></h2>
+			<p class="ttoread">2 min read</p>		</div>
+		<div class="col_mid relative rborder1">
+						<div class="mnewsrow mnewsrowbm clearfix " data-boxno="r15_c2_i1_2" data-track="label=edit_getahead&c_type=edit_getahead&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Fwhat-triptii-dimri-wears-to-date-nights-o-romeo%2F20260212.htm">
+				<div class="mnewsimg"><a href="https://www.rediff.com/getahead/report/what-triptii-dimri-wears-to-date-nights-o-romeo/20260212.htm" data-secid="sec13" data-pos="3"><img src="//im.rediff.com/200-120/getahead/2026/feb/11triptii-dimri-lead1.jpg" width="200" height="120" class="rcorner" alt="What Triptii Dimri Wears To Date Nights... " loading="lazy"/></a></div>
+				<div class="mnewscopy"><h3><a href="https://www.rediff.com/getahead/report/what-triptii-dimri-wears-to-date-nights-o-romeo/20260212.htm" data-secid="sec13" data-pos="3">What Triptii Dimri Wears To Date Nights... </a></h3><div class="clearfix"><p class="floatL ttoread">2 min read</p><p class="floatR updated">3 days ago</p></div></div>
+			</div>
+						<div class="mnewsrow mnewsrowbm clearfix noborder" data-boxno="r15_c2_i2_2" data-track="label=edit_getahead&c_type=edit_getahead&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Fsamsung-galaxy-a07-5g-starts-at-15999-gadgets-and-gaming-listicle%2F20260213.htm">
+				<div class="mnewsimg"><a href="https://www.rediff.com/getahead/report/samsung-galaxy-a07-5g-starts-at-15999-gadgets-and-gaming-listicle/20260213.htm" data-secid="sec13" data-pos="4"><img src="//im.rediff.com/200-120/getahead/2026/feb/6-samsung-1.jpg" width="200" height="120" class="rcorner" alt="Samsung Galaxy A07 5G Starts At &#8377;15,999" loading="lazy"/></a></div>
+				<div class="mnewscopy"><h3><a href="https://www.rediff.com/getahead/report/samsung-galaxy-a07-5g-starts-at-15999-gadgets-and-gaming-listicle/20260213.htm" data-secid="sec13" data-pos="4">Samsung Galaxy A07 5G Starts At &#8377;15,999</a></h3><div class="clearfix"><p class="floatL ttoread">2 min read</p><p class="floatR updated">2 days ago</p></div></div>
+			</div>
+					</div>
+		<div class="col_text">
+									<div class="mnewsrow mnewsrowbm" data-boxno="r15_c3_t1_5" data-track="label=edit_getahead&c_type=edit_getahead&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Fvalentines-day-ask-love-guru-were-busy-and-spend-less-time-with-each-other%2F20260211.htm"><h3 class="rowh3"><a href="https://www.rediff.com/getahead/report/valentines-day-ask-love-guru-were-busy-and-spend-less-time-with-each-other/20260211.htm" data-secid="sec13" data-pos="5">'We're Busy And Spend Less Time With Each Other'</a></h3><p class="ttoread">3 min read</p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r15_c3_t2_5" data-track="label=edit_getahead&c_type=edit_getahead&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2F5-nearby-warm-international-destinations-travel-listicle%2F20260210.htm"><h3 class="rowh3"><a href="https://www.rediff.com/getahead/report/5-nearby-warm-international-destinations-travel-listicle/20260210.htm" data-secid="sec13" data-pos="6">5 Nearby Warm International Destinations</a></h3><p class="ttoread">3 min read</p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r15_c3_t3_5" data-track="label=edit_getahead&c_type=edit_getahead&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Fzero-coupon-bonds-all-you-want-to-know%2F20260212.htm"><h3 class="rowh3"><a href="https://www.rediff.com/getahead/report/zero-coupon-bonds-all-you-want-to-know/20260212.htm" data-secid="sec13" data-pos="7">Zero-Coupon Bonds: All You Want To Know</a></h3><p class="ttoread">4 min read</p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r15_c3_t4_5" data-track="label=edit_getahead&c_type=edit_getahead&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2F7-recipes-by-star-chef-vikas-khanna%2F20260205.htm"><h3 class="rowh3"><a href="https://www.rediff.com/getahead/report/7-recipes-by-star-chef-vikas-khanna/20260205.htm" data-secid="sec13" data-pos="8">7 Recipes By Star Chef Vikas Khanna</a></h3><p class="ttoread">3 min read</p></div>
+												<div class="mnewsrow " data-boxno="r15_c3_t5_5" data-track="label=edit_getahead&c_type=edit_getahead&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Fsimple-habits-to-keep-your-child-healthy-ask-rediffguru-dr-deepa-suvarna%2F20260210.htm"><h3 class="rowh3"><a href="https://www.rediff.com/getahead/report/simple-habits-to-keep-your-child-healthy-ask-rediffguru-dr-deepa-suvarna/20260210.htm" data-secid="sec13" data-pos="9">Simple Habits To Keep Your Child Healthy</a></h3><p class="ttoread">3 min read</p></div>
+									<p class="alignR"><a href="https://www.rediff.com/getahead" class="seemore" data-secid="sec13" data-pos="10">See More &gt;</a></p>		</div>
+	</div>
+					<h2 class="sechd negtop maxwrap mtop "><span class="homesprite secicons business"></span><a href="https://www.rediff.com/business" data-secid="sec14" data-pos="1">BUSINESS</a></h2>
+	<div class="section darkbord flex maxwrap">
+		<div class="col_big relative rborder1" data-boxno="r16_c1_i1_1" data-track="label=edit_business&c_type=edit_business&news=https%3A%2F%2Fwww.rediff.com%2Fbusiness%2Fspecial%2Fmahindra-makes-autos-fly-with-electric-udo%2F20260214.htm">
+			<div class="bigimage"><a href="https://www.rediff.com/business/special/mahindra-makes-autos-fly-with-electric-udo/20260214.htm" data-secid="sec14" data-pos="2"><img src="//im.rediff.com/430-250/money/2026/feb/13mahindra-udo12.jpg" width="430" height="250" class="rcorner" alt="Mahindra Makes Autos Fly With Electric UDO" loading="lazy" /></a></div>
+			<h2 class="fstory"><a href="https://www.rediff.com/business" class="secname" data-secid="sec14" data-pos="2"><span class="homesprite secicons business"></span></a><a href="https://www.rediff.com/business/special/mahindra-makes-autos-fly-with-electric-udo/20260214.htm" data-secid="sec14" data-pos="2">Mahindra Makes Autos Fly With Electric UDO</a></h2>
+			<p class="ttoread">6 min read</p>		</div>
+		<div class="col_mid relative rborder1">
+						<div class="mnewsrow mnewsrowbm clearfix " data-boxno="r16_c2_i1_2" data-track="label=edit_business&c_type=edit_business&news=https%3A%2F%2Fwww.rediff.com%2Fbusiness%2Freport%2F7-priciest-fanciest-cars-of-2026%2F20260212.htm">
+				<div class="mnewsimg"><a href="https://www.rediff.com/business/report/7-priciest-fanciest-cars-of-2026/20260212.htm" data-secid="sec14" data-pos="3"><img src="//im.rediff.com/200-120/getahead/2026/feb/3-expensive-car-1.jpg" width="200" height="120" class="rcorner" alt="7 Priciest, Fanciest Cars Of 2026" loading="lazy"/></a></div>
+				<div class="mnewscopy"><h3><a href="https://www.rediff.com/business/report/7-priciest-fanciest-cars-of-2026/20260212.htm" data-secid="sec14" data-pos="3">7 Priciest, Fanciest Cars Of 2026</a></h3><div class="clearfix"><p class="floatL ttoread">2 min read</p><p class="floatR updated">3 days ago</p></div></div>
+			</div>
+						<div class="mnewsrow mnewsrowbm clearfix noborder" data-boxno="r16_c2_i2_2" data-track="label=edit_business&c_type=edit_business&news=https%3A%2F%2Fwww.rediff.com%2Fbusiness%2Freport%2Fauto-tvs-orbiter-big-on-range-short-on-hill-climb%2F20260212.htm">
+				<div class="mnewsimg"><a href="https://www.rediff.com/business/report/auto-tvs-orbiter-big-on-range-short-on-hill-climb/20260212.htm" data-secid="sec14" data-pos="4"><img src="//im.rediff.com/200-120/money/2026/feb/09tvs-orbitor-1.jpg" width="200" height="120" class="rcorner" alt="When An Electric Scooter Meets The Ghats" loading="lazy"/></a></div>
+				<div class="mnewscopy"><h3><a href="https://www.rediff.com/business/report/auto-tvs-orbiter-big-on-range-short-on-hill-climb/20260212.htm" data-secid="sec14" data-pos="4">When An Electric Scooter Meets The Ghats</a></h3><div class="clearfix"><p class="floatL ttoread">8 min read</p><p class="floatR updated">3 days ago</p></div></div>
+			</div>
+					</div>
+		<div class="col_text">
+									<div class="mnewsrow mnewsrowbm" data-boxno="r16_c3_t1_5" data-track="label=edit_business&c_type=edit_business&news=https%3A%2F%2Fwww.rediff.com%2Fbusiness%2Freport%2Ffriday-the-13th-caps-a-week-of-ai-sparked-horror-in-it-stocks%2F20260214.htm"><h3 class="rowh3"><a href="https://www.rediff.com/business/report/friday-the-13th-caps-a-week-of-ai-sparked-horror-in-it-stocks/20260214.htm" data-secid="sec14" data-pos="5">Friday the 13th caps a week of AI-sparked horror in IT stocks</a></h3><p class="ttoread">4 min read</p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r16_c3_t2_5" data-track="label=edit_business&c_type=edit_business&news=https%3A%2F%2Fwww.rediff.com%2Fbusiness%2Freport%2Fafter-over-3-year-ban-govt-okays-25-mt-wheat-exports%2F20260214.htm"><h3 class="rowh3"><a href="https://www.rediff.com/business/report/after-over-3-year-ban-govt-okays-25-mt-wheat-exports/20260214.htm" data-secid="sec14" data-pos="6">After over 3-year ban, govt okays 2.5 mt wheat exports</a></h3><p class="ttoread">4 min read</p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r16_c3_t3_5" data-track="label=edit_business&c_type=edit_business&news=https%3A%2F%2Fwww.rediff.com%2Fbusiness%2Freport%2Freliance-gets-us-licence-to-directly-buy-venezuela-oil%2F20260214.htm"><h3 class="rowh3"><a href="https://www.rediff.com/business/report/reliance-gets-us-licence-to-directly-buy-venezuela-oil/20260214.htm" data-secid="sec14" data-pos="7">Reliance gets US licence to directly buy Venezuela oil</a></h3><p class="ttoread">3 min read</p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r16_c3_t4_5" data-track="label=edit_business&c_type=edit_business&news=https%3A%2F%2Fwww.rediff.com%2Fbusiness%2Freport%2Findias-forex-reserves-drop-67-bn-to-717-bn%2F20260213.htm"><h3 class="rowh3"><a href="https://www.rediff.com/business/report/indias-forex-reserves-drop-67-bn-to-717-bn/20260213.htm" data-secid="sec14" data-pos="8">India's forex reserves drop $6.7 bn to $717 bn</a></h3><p class="ttoread">2 min read</p></div>
+												<div class="mnewsrow " data-boxno="r16_c3_t5_5" data-track="label=edit_business&c_type=edit_business&news=https%3A%2F%2Fwww.rediff.com%2Fbusiness%2Freport%2Fpassenger-vehicle-dispatches-in-fast-lane-in-jan-as-demand-remains-robust-siam%2F20260213.htm"><h3 class="rowh3"><a href="https://www.rediff.com/business/report/passenger-vehicle-dispatches-in-fast-lane-in-jan-as-demand-remains-robust-siam/20260213.htm" data-secid="sec14" data-pos="9">PV dispatches in fast lane in Jan: SIAM</a></h3><p class="ttoread">3 min read</p></div>
+									<p class="alignR"><a href="https://www.rediff.com/business" class="seemore" data-secid="sec14" data-pos="10">See More &gt;</a></p>		</div>
+	</div>
+					<h2 class="sechd negtop maxwrap mtop "><span class="homesprite secicons getahead"></span>EDITOR'S CHOICE: RECIPES SPECIAL</h2>
+	<div class="section darkbord flex maxwrap">
+		<div class="col_big relative rborder1" data-boxno="r17_c1_i1_1" data-track="label=edit_editorschoice:recipesspecial&c_type=edit_getahead&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Frecipe-cheryls-cake-without-eggs-butter-milk%2F20240712.htm">
+			<div class="bigimage"><a href="https://www.rediff.com/getahead/report/recipe-cheryls-cake-without-eggs-butter-milk/20240712.htm" data-secid="sec15" data-pos="2"><img src="//im.rediff.com/430-250/getahead/2024/jul/12food-chocolate-cake.jpg" width="430" height="250" class="rcorner" alt="Recipe: Cheryl's Cake Without Eggs..." loading="lazy" /></a></div>
+			<h2 class="fstory"><a href="https://www.rediff.com/getahead" class="secname" data-secid="sec15" data-pos="2"><span class="homesprite secicons getahead"></span></a><a href="https://www.rediff.com/getahead/report/recipe-cheryls-cake-without-eggs-butter-milk/20240712.htm" data-secid="sec15" data-pos="2">Recipe: Cheryl's Cake Without Eggs...</a></h2>
+					</div>
+		<div class="col_mid relative rborder1">
+						<div class="mnewsrow mnewsrowbm clearfix " data-boxno="r17_c2_i1_2" data-track="label=edit_editorschoice:recipesspecial&c_type=edit_getahead&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Frecipe-mayurs-phodshi-bhaji%2F20240716.htm">
+				<div class="mnewsimg"><a href="https://www.rediff.com/getahead/report/recipe-mayurs-phodshi-bhaji/20240716.htm" data-secid="sec15" data-pos="3"><img src="//im.rediff.com/200-120/getahead/2024/jul/15ga-lead2.jpg" width="200" height="120" class="rcorner" alt="Recipe: Mayur's Phodshi Bhaji" loading="lazy"/></a></div>
+				<div class="mnewscopy"><h3><a href="https://www.rediff.com/getahead/report/recipe-mayurs-phodshi-bhaji/20240716.htm" data-secid="sec15" data-pos="3">Recipe: Mayur's Phodshi Bhaji</a></h3><div class="clearfix"><p class="floatR updated">1 year ago</p></div></div>
+			</div>
+						<div class="mnewsrow mnewsrowbm clearfix noborder" data-boxno="r17_c2_i2_2" data-track="label=edit_editorschoice:recipesspecial&c_type=edit_getahead&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Frecipe-neena-guptas-vada-pav%2F20240717.htm">
+				<div class="mnewsimg"><a href="https://www.rediff.com/getahead/report/recipe-neena-guptas-vada-pav/20240717.htm" data-secid="sec15" data-pos="4"><img src="//im.rediff.com/200-120/getahead/2019/jun/27food-lead1.jpg" width="200" height="120" class="rcorner" alt="Recipe: Neena Gupta's Vada Pav" loading="lazy"/></a></div>
+				<div class="mnewscopy"><h3><a href="https://www.rediff.com/getahead/report/recipe-neena-guptas-vada-pav/20240717.htm" data-secid="sec15" data-pos="4">Recipe: Neena Gupta's Vada Pav</a></h3><div class="clearfix"><p class="floatR updated">1 year ago</p></div></div>
+			</div>
+					</div>
+		<div class="col_text">
+									<div class="mnewsrow mnewsrowbm" data-boxno="r17_c3_t1_5" data-track="label=edit_editorschoice:recipesspecial&c_type=edit_getahead&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Frecipe-vidhyas-kumaoni-style-spinach%2F20240722.htm"><h3 class="rowh3"><a href="https://www.rediff.com/getahead/report/recipe-vidhyas-kumaoni-style-spinach/20240722.htm" data-secid="sec15" data-pos="5">Recipe: Vidhya's Kumaoni-Style Spinach</a></h3><p class="ttoread"></p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r17_c3_t2_5" data-track="label=edit_editorschoice:recipesspecial&c_type=edit_getahead&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Frecipe-varun-inamdars-kashmiri-doon-ki-chutney%2F20240724.htm"><h3 class="rowh3"><a href="https://www.rediff.com/getahead/report/recipe-varun-inamdars-kashmiri-doon-ki-chutney/20240724.htm" data-secid="sec15" data-pos="6">Recipe: Kashmiri Doon Ki Chutney</a></h3><p class="ttoread"></p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r17_c3_t3_5" data-track="label=edit_editorschoice:recipesspecial&c_type=edit_getahead&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Frecipe-manishas-raw-banana-fry%2F20240725.htm"><h3 class="rowh3"><a href="https://www.rediff.com/getahead/report/recipe-manishas-raw-banana-fry/20240725.htm" data-secid="sec15" data-pos="7">Recipe: Manisha's Raw Banana Fry</a></h3><p class="ttoread"></p></div>
+												<div class="mnewsrow mnewsrowbm" data-boxno="r17_c3_t4_5" data-track="label=edit_editorschoice:recipesspecial&c_type=edit_getahead&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Frecipe-tarunas-rui-poshto%2F20240723.htm"><h3 class="rowh3"><a href="https://www.rediff.com/getahead/report/recipe-tarunas-rui-poshto/20240723.htm" data-secid="sec15" data-pos="8">Recipe: Taruna's Rui Poshto</a></h3><p class="ttoread"></p></div>
+												<div class="mnewsrow " data-boxno="r17_c3_t5_5" data-track="label=edit_editorschoice:recipesspecial&c_type=edit_getahead&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Frecipe-anitas-prawn-curry%2F20240718.htm"><h3 class="rowh3"><a href="https://www.rediff.com/getahead/report/recipe-anitas-prawn-curry/20240718.htm" data-secid="sec15" data-pos="9">Recipe: Anita's Prawn Curry</a></h3><p class="ttoread"></p></div>
+											</div>
+	</div>
+		<i class="secgap"></i>
+<div class="section flex maxwrap">
+			<div class="col_big relative rborder1">
+		<h2 class="sechd"><a href="https://money.rediff.com/news/share-market-news" onclick="clickTrack(this);return false;" data-secid="sec16" data-pos="1"><span class="homesprite secicons marketnews"></span>MARKET NEWS</a></h2>
+		<div data-boxno="r18_c1_i1_1" data-track="label=money_marketnews&c_type=money_marketnews&news=https%3A%2F%2Fmoney.rediff.com%2Fnews%2Fmarket%2Ftea-industry-crisis-rising-costs-labour-shortage%2F42069620260215">
+			<div class="bigimage rcorner"><a href="https://money.rediff.com/news/market/tea-industry-crisis-rising-costs-labour-shortage/42069620260215" onclick="clickTrack(this);return false;" data-secid="sec16" data-pos="2"><img src="https://im.rediff.com/430-250/money/2019/jan/31tea.jpg" width="430" height="250" class="rcorner" alt="Tea Industry Crisis: Rising Costs & Labour Shortage" loading="lazy" /></a></div>
+			<h3 class="fstory"><a href="https://money.rediff.com/news/share-market-news" onclick="clickTrack(this);return false;" class="secname" data-secid="sec16" data-pos="2"><span class="homesprite secicons business"></span></a><a href="https://money.rediff.com/news/market/tea-industry-crisis-rising-costs-labour-shortage/42069620260215" onclick="clickTrack(this);return false;" data-secid="sec16" data-pos="2">Tea Industry Crisis: Rising Costs & Labour Shortage</a></h3>
+			<p class="updated"></p>
+		</div>
+	</div>
+	<div class="col_mid relative rborder1">
+				<div class="mnewsrow mnewsrowbm clearfix " data-boxno="r18_c2_i1_3" data-track="label=money_marketnews&c_type=money_marketnews&news=https%3A%2F%2Fmoney.rediff.com%2Fnews%2Fmarket%2Frural-development-budget-vb-g-ram-g-pmay-g-lead%2F42068420260215">
+			<div class="mnewsimg"><a href="https://money.rediff.com/news/market/rural-development-budget-vb-g-ram-g-pmay-g-lead/42068420260215" onclick="clickTrack(this);return false;" data-secid="sec16" data-pos="3"><img src="https://im.rediff.com/170-110/money/2023/oct/28oct-6g.jpg" width="170" height="110" class="rcorner" alt="Rural Development Budget: VB-G RAM G & PMAY-G Lead" loading="lazy" /></a></div>
+			<div class="mnewscopy"><a href="https://money.rediff.com/news/market/rural-development-budget-vb-g-ram-g-pmay-g-lead/42068420260215" onclick="clickTrack(this);return false;" data-secid="sec16" data-pos="3">Rural Development Budget: VB-G RAM G & PMAY-G Lead</a></div>
+		</div>
+				<div class="mnewsrow mnewsrowbm clearfix " data-boxno="r18_c2_i2_3" data-track="label=money_marketnews&c_type=money_marketnews&news=https%3A%2F%2Fmoney.rediff.com%2Fnews%2Fmarket%2Fdelhi-ncr-housing-prices-grow-6-in-2025-proptiger-report%2F42067920260215">
+			<div class="mnewsimg"><a href="https://money.rediff.com/news/market/delhi-ncr-housing-prices-grow-6-in-2025-proptiger-report/42067920260215" onclick="clickTrack(this);return false;" data-secid="sec16" data-pos="4"><img src="https://im.rediff.com/170-110/money/2020/dec/21housing.jpg" width="170" height="110" class="rcorner" alt="Delhi-NCR Housing Prices Grow 6% in 2025: PropTiger Report" loading="lazy" /></a></div>
+			<div class="mnewscopy"><a href="https://money.rediff.com/news/market/delhi-ncr-housing-prices-grow-6-in-2025-proptiger-report/42067920260215" onclick="clickTrack(this);return false;" data-secid="sec16" data-pos="4">Delhi-NCR Housing Prices Grow 6% in 2025: PropTiger Report</a></div>
+		</div>
+				<div class="mnewsrow mnewsrowbm clearfix noborder" data-boxno="r18_c2_i3_3" data-track="label=money_marketnews&c_type=money_marketnews&news=https%3A%2F%2Fmoney.rediff.com%2Fnews%2Fmarket%2Findia-power-capacity-crosses-50-gw-record%2F42066320260215">
+			<div class="mnewsimg"><a href="https://money.rediff.com/news/market/india-power-capacity-crosses-50-gw-record/42066320260215" onclick="clickTrack(this);return false;" data-secid="sec16" data-pos="5"><img src="https://business.rediff.com/money/2011/sep/20power1.jpg" width="170" height="110" class="rcorner" alt="India Power Capacity Crosses 50 GW Record" loading="lazy" /></a></div>
+			<div class="mnewscopy"><a href="https://money.rediff.com/news/market/india-power-capacity-crosses-50-gw-record/42066320260215" onclick="clickTrack(this);return false;" data-secid="sec16" data-pos="5">India Power Capacity Crosses 50 GW Record</a></div>
+		</div>
+				<p class="alignR"><a href="https://money.rediff.com/news/share-market-news" class="seemore" data-secid="sec16" data-pos="6">See More &gt;</a></p>
+	</div>
+		<div class="col_text"><div id="div_most_pupular" data-rowno="18"></div><div id="div_foryou" class="mnewsrow div_foryou clearfix" data-rowno="18"></div></div>
+	</div>
+<i class="secgap"></i>
+<div class="section noborder maxwrap">
+	<h2 class="sechd">STORIES YOU MAY HAVE MISSED</h2>
+	<div class="missedsection maxwrap clearfix">
+						<div class="missedbox clearfix rtborder" data-boxno="r19_c1_i1_1" data-track="label=edit_misseds&c_type=edit_missed&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Finvestment-advice-mutual-funds-why-flexicaps-make-sense-now%2F20260129.htm">
+			<div class="missedimg rcorner"><a href="https://www.rediff.com/getahead/report/investment-advice-mutual-funds-why-flexicaps-make-sense-now/20260129.htm" data-secid="sec17" data-pos="1"><img src="//im.rediff.com/80-80/getahead/2026/jan/28flexicaps1.jpg" width="80" height="80" class="rcorner" alt="Why Flexicaps Make Sense Now" loading="lazy" /></a></div><h3><a href="https://www.rediff.com/getahead/report/investment-advice-mutual-funds-why-flexicaps-make-sense-now/20260129.htm" data-secid="sec17" data-pos="1">Why Flexicaps Make Sense Now</a></h3>
+			<p class="ttoread">5 min read</p>		</div>
+								<div class="missedbox clearfix rtborder" data-boxno="r19_c2_i2_1" data-track="label=edit_misseds&c_type=edit_missed&news=https%3A%2F%2Fwww.rediff.com%2Fmovies%2Freport%2Fanu-malik-on-arijit-singh-would-have-liked-to-record-songs-with-arijit-singh%2F20260129.htm">
+			<div class="missedimg rcorner"><a href="https://www.rediff.com/movies/report/anu-malik-on-arijit-singh-would-have-liked-to-record-songs-with-arijit-singh/20260129.htm" data-secid="sec17" data-pos="2"><img src="//im.rediff.com/80-80/movies/2026/jan/29aijit-lead1.jpg" width="80" height="80" class="rcorner" alt="'Would Have Liked To Record Songs With Arijit Singh'" loading="lazy" /></a></div><h3><a href="https://www.rediff.com/movies/report/anu-malik-on-arijit-singh-would-have-liked-to-record-songs-with-arijit-singh/20260129.htm" data-secid="sec17" data-pos="2">'Would Have Liked To Record Songs With Arijit Singh'</a></h3>
+			<p class="ttoread">3 min read</p>		</div>
+								<div class="missedbox clearfix rtborder" data-boxno="r19_c3_i3_1" data-track="label=edit_misseds&c_type=edit_missed&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Fspecial%2Fajit-dada-made-everyone-feel-heard%2F20260130.htm">
+			<div class="missedimg rcorner"><a href="https://www.rediff.com/news/special/ajit-dada-made-everyone-feel-heard/20260130.htm" data-secid="sec17" data-pos="3"><img src="//im.rediff.com/80-80/news/2026/jan/28ajit-pawar-1.jpg" width="80" height="80" class="rcorner" alt="'Ajit Dada Made Everyone Feel Heard'" loading="lazy" /></a></div><h3><a href="https://www.rediff.com/news/special/ajit-dada-made-everyone-feel-heard/20260130.htm" data-secid="sec17" data-pos="3">'Ajit Dada Made Everyone Feel Heard'</a></h3>
+			<p class="ttoread">5 min read</p>		</div>
+								<div class="missedbox clearfix rtborder" data-boxno="r19_c4_i4_1" data-track="label=edit_misseds&c_type=edit_missed&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Fspecial%2Fwithout-dada-we-are-nobody%2F20260129.htm">
+			<div class="missedimg rcorner"><a href="https://www.rediff.com/news/special/without-dada-we-are-nobody/20260129.htm" data-secid="sec17" data-pos="4"><img src="//im.rediff.com/80-80/news/2024/dec/23ajit-pawar1.jpg" width="80" height="80" class="rcorner" alt="'Without Dada, We Are Nobody'" loading="lazy" /></a></div><h3><a href="https://www.rediff.com/news/special/without-dada-we-are-nobody/20260129.htm" data-secid="sec17" data-pos="4">'Without Dada, We Are Nobody'</a></h3>
+			<p class="ttoread">5 min read</p>		</div>
+								<div class="missedbox clearfix " data-boxno="r19_c5_i5_1" data-track="label=edit_misseds&c_type=edit_missed&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Finterview%2Fwhy-ugcs-new-equity-rules-finally-have-teeth%2F20260129.htm">
+			<div class="missedimg rcorner"><a href="https://www.rediff.com/news/interview/why-ugcs-new-equity-rules-finally-have-teeth/20260129.htm" data-secid="sec17" data-pos="5"><img src="//im.rediff.com/80-80/news/2026/jan/28b-y-l-nair.jpg" width="80" height="80" class="rcorner" alt="Why UGC's New Equity Rules Finally Have Teeth" loading="lazy" /></a></div><h3><a href="https://www.rediff.com/news/interview/why-ugcs-new-equity-rules-finally-have-teeth/20260129.htm" data-secid="sec17" data-pos="5">Why UGC's New Equity Rules Finally Have Teeth</a></h3>
+			<p class="ttoread">13 min read</p>		</div>
+								<div class="missedbox clearfix rtborder" data-boxno="r20_c1_i1_1" data-track="label=edit_misseds&c_type=edit_missed&news=https%3A%2F%2Fwww.rediff.com%2Fmovies%2Freport%2Falka-yagnik-on-the-padma-bhushan-taal-se-taal-mila-challenged-me%2F20260130.htm">
+			<div class="missedimg rcorner"><a href="https://www.rediff.com/movies/report/alka-yagnik-on-the-padma-bhushan-taal-se-taal-mila-challenged-me/20260130.htm" data-secid="sec17" data-pos="6"><img src="//im.rediff.com/80-80/movies/2026/jan/30alka-lead1.jpg" width="80" height="80" class="rcorner" alt="'Taal Se Taal Mila Challenged Me'" loading="lazy" /></a></div><h3><a href="https://www.rediff.com/movies/report/alka-yagnik-on-the-padma-bhushan-taal-se-taal-mila-challenged-me/20260130.htm" data-secid="sec17" data-pos="6">'Taal Se Taal Mila Challenged Me'</a></h3>
+			<p class="ttoread">3 min read</p>		</div>
+								<div class="missedbox clearfix rtborder" data-boxno="r20_c2_i2_1" data-track="label=edit_misseds&c_type=edit_missed&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Finterview%2Frahul-gandhi-is-deliberately-destroying-the-congress%2F20260130.htm">
+			<div class="missedimg rcorner"><a href="https://www.rediff.com/news/interview/rahul-gandhi-is-deliberately-destroying-the-congress/20260130.htm" data-secid="sec17" data-pos="7"><img src="//im.rediff.com/80-80/news/2026/jan/22rahul-gandhi-mallikarjun-kharge1.jpg" width="80" height="80" class="rcorner" alt="'Rahul Gandhi Is Deliberately Destroying The Congress'" loading="lazy" /></a></div><h3><a href="https://www.rediff.com/news/interview/rahul-gandhi-is-deliberately-destroying-the-congress/20260130.htm" data-secid="sec17" data-pos="7">'Rahul Gandhi Is Deliberately Destroying The Congress'</a></h3>
+			<p class="ttoread">8 min read</p>		</div>
+								<div class="missedbox clearfix rtborder" data-boxno="r20_c3_i3_1" data-track="label=edit_misseds&c_type=edit_missed&news=https%3A%2F%2Fwww.rediff.com%2Fmovies%2Freport%2F9-great-hair-ideas-from-wamiqa-gabbi-sanya-malhotra%2F20260129.htm">
+			<div class="missedimg rcorner"><a href="https://www.rediff.com/movies/report/9-great-hair-ideas-from-wamiqa-gabbi-sanya-malhotra/20260129.htm" data-secid="sec17" data-pos="8"><img src="//im.rediff.com/80-80/movies/2026/jan/28celebs-new-haircut-lead1.jpg" width="80" height="80" class="rcorner" alt="9 Great Hair Ideas From Wamiqa, Sanya..." loading="lazy" /></a></div><h3><a href="https://www.rediff.com/movies/report/9-great-hair-ideas-from-wamiqa-gabbi-sanya-malhotra/20260129.htm" data-secid="sec17" data-pos="8">9 Great Hair Ideas From Wamiqa, Sanya...</a></h3>
+			<p class="ttoread">2 min read</p>		</div>
+								<div class="missedbox clearfix rtborder" data-boxno="r20_c4_i4_1" data-track="label=edit_misseds&c_type=edit_missed&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Findias-mental-health-crisis-most-mental-health-issues-start-before-age-25%2F20260129.htm">
+			<div class="missedimg rcorner"><a href="https://www.rediff.com/getahead/report/indias-mental-health-crisis-most-mental-health-issues-start-before-age-25/20260129.htm" data-secid="sec17" data-pos="9"><img src="//im.rediff.com/80-80/getahead/2026/jan/28mental-illness.jpg" width="80" height="80" class="rcorner" alt="'Most Mental Health Issues Start Before Age 25'" loading="lazy" /></a></div><h3><a href="https://www.rediff.com/getahead/report/indias-mental-health-crisis-most-mental-health-issues-start-before-age-25/20260129.htm" data-secid="sec17" data-pos="9">'Most Mental Health Issues Start Before Age 25'</a></h3>
+			<p class="ttoread">6 min read</p>		</div>
+								<div class="missedbox clearfix " data-boxno="r20_c5_i5_1" data-track="label=edit_misseds&c_type=edit_missed&news=https%3A%2F%2Fwww.rediff.com%2Fgetahead%2Freport%2Fwant-to-ace-the-airport-look-suhana-khan-janhvi-kapoor-have-tips%2F20260129.htm">
+			<div class="missedimg rcorner"><a href="https://www.rediff.com/getahead/report/want-to-ace-the-airport-look-suhana-khan-janhvi-kapoor-have-tips/20260129.htm" data-secid="sec17" data-pos="10"><img src="//im.rediff.com/80-80/getahead/2026/jan/29ga-lead2.jpg" width="80" height="80" class="rcorner" alt="Want To Ace The Airport Look? Suhana, Janhvi Have Tips" loading="lazy" /></a></div><h3><a href="https://www.rediff.com/getahead/report/want-to-ace-the-airport-look-suhana-khan-janhvi-kapoor-have-tips/20260129.htm" data-secid="sec17" data-pos="10">Want To Ace The Airport Look? Suhana, Janhvi Have Tips</a></h3>
+			<p class="ttoread">3 min read</p>		</div>
+							</div>
+</div>
+<div class="section noborder maxwrap">
+	<h2 class="sechd"><a href="https://www.rediff.com/topstories" data-secid="sec18" data-pos="1">THE TIMELESS 100</a></h2>
+	<div class="missedsection maxwrap clearfix">
+						<div class="missedbox clearfix rtborder" data-boxno="r21_c1_i1_1" data-track="label=edit_top100&c_type=edit_top100&news=https%3A%2F%2Fwww.rediff.com%2Fcricket%2Freport%2F5th-t20i-pix-kishan-century-drives-india-to-271-vs-nz%2F20260131.htm">
+			<div class="missedimg rcorner"><a href="https://www.rediff.com/cricket/report/5th-t20i-pix-kishan-century-drives-india-to-271-vs-nz/20260131.htm" data-secid="sec18" data-pos="2"><img src="//im.rediff.com/80-80/cricket/2026/jan/31ind-kishan-100-2.jpg" width="80" height="80" class="rcorner" alt="5th T20I PIX: Kishan, Arshdeep star as India humble NZ" loading="lazy" /></a></div><h3><a href="https://www.rediff.com/cricket/report/5th-t20i-pix-kishan-century-drives-india-to-271-vs-nz/20260131.htm" data-secid="sec18" data-pos="2">5th T20I PIX: Kishan, Arshdeep star as India humble NZ</a></h3>
+			<p class="ttoread">5 min read</p>		</div>
+								<div class="missedbox clearfix rtborder" data-boxno="r21_c2_i2_1" data-track="label=edit_top100&c_type=edit_top100&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fchickens-neck-underground-rail-planned%2F20260203.htm">
+			<div class="missedimg rcorner"><a href="https://www.rediff.com/news/report/chickens-neck-underground-rail-planned/20260203.htm" data-secid="sec18" data-pos="3"><img src="//im.rediff.com/80-80/news/2026/feb/03chickens-neck-rail1.jpg" width="80" height="80" class="rcorner" alt="Chicken's Neck: Underground Rail Planned" loading="lazy" /></a></div><h3><a href="https://www.rediff.com/news/report/chickens-neck-underground-rail-planned/20260203.htm" data-secid="sec18" data-pos="3">Chicken's Neck: Underground Rail Planned</a></h3>
+			<p class="ttoread">3 min read</p>		</div>
+								<div class="missedbox clearfix rtborder" data-boxno="r21_c3_i3_1" data-track="label=edit_top100&c_type=edit_top100&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Findia-rejects-reference-to-pm-modi-in-epstein-files%2F20260131.htm">
+			<div class="missedimg rcorner"><a href="https://www.rediff.com/news/report/india-rejects-reference-to-pm-modi-in-epstein-files/20260131.htm" data-secid="sec18" data-pos="4"><img src="//im.rediff.com/80-80/news/2026/jan/16modi-1.jpg" width="80" height="80" class="rcorner" alt="India rejects reference to PM Modi in Epstein files" loading="lazy" /></a></div><h3><a href="https://www.rediff.com/news/report/india-rejects-reference-to-pm-modi-in-epstein-files/20260131.htm" data-secid="sec18" data-pos="4">India rejects reference to PM Modi in Epstein files</a></h3>
+			<p class="ttoread">2 min read</p>		</div>
+								<div class="missedbox clearfix rtborder" data-boxno="r21_c4_i4_1" data-track="label=edit_top100&c_type=edit_top100&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Ffeel-ashamed-when-munir-and-i-go-around-world-begging-for-money-pak-pm%2F20260131.htm">
+			<div class="missedimg rcorner"><a href="https://www.rediff.com/news/report/feel-ashamed-when-munir-and-i-go-around-world-begging-for-money-pak-pm/20260131.htm" data-secid="sec18" data-pos="5"><img src="//im.rediff.com/80-80/news/2025/sep/30trump-munir-sharif.jpg" width="80" height="80" class="rcorner" alt="Bowed our head, lost self-respect: Pak PM on loans" loading="lazy" /></a></div><h3><a href="https://www.rediff.com/news/report/feel-ashamed-when-munir-and-i-go-around-world-begging-for-money-pak-pm/20260131.htm" data-secid="sec18" data-pos="5">Bowed our head, lost self-respect: Pak PM on loans</a></h3>
+			<p class="ttoread">3 min read</p>		</div>
+								<div class="missedbox clearfix " data-boxno="r21_c5_i5_1" data-track="label=edit_top100&c_type=edit_top100&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Finterview%2Findia-should-not-rush-to-celebrate-trumps-trade-announcement%2F20260203.htm">
+			<div class="missedimg rcorner"><a href="https://www.rediff.com/news/interview/india-should-not-rush-to-celebrate-trumps-trade-announcement/20260203.htm" data-secid="sec18" data-pos="6"><img src="//im.rediff.com/80-80/news/2026/feb/03tariff.gif" width="80" height="80" class="rcorner" alt="'Don't Rush To Celebrate US Trade Deal'" loading="lazy" /></a></div><h3><a href="https://www.rediff.com/news/interview/india-should-not-rush-to-celebrate-trumps-trade-announcement/20260203.htm" data-secid="sec18" data-pos="6">'Don't Rush To Celebrate US Trade Deal'</a></h3>
+			<p class="ttoread">13 min read</p>		</div>
+								<div class="missedbox clearfix rtborder" data-boxno="r22_c1_i1_1" data-track="label=edit_top100&c_type=edit_top100&news=https%3A%2F%2Fwww.rediff.com%2Fbusiness%2Finterview%2Fwhy-the-markets-fell-after-1210-pm%2F20260201.htm">
+			<div class="missedimg rcorner"><a href="https://www.rediff.com/business/interview/why-the-markets-fell-after-1210-pm/20260201.htm" data-secid="sec18" data-pos="7"><img src="//im.rediff.com/80-80/money/2023/mar/20risk-markets-mounting.jpg" width="80" height="80" class="rcorner" alt="Why The Markets Fell After 12.10 PM" loading="lazy" /></a></div><h3><a href="https://www.rediff.com/business/interview/why-the-markets-fell-after-1210-pm/20260201.htm" data-secid="sec18" data-pos="7">Why The Markets Fell After 12.10 PM</a></h3>
+			<p class="ttoread">4 min read</p>		</div>
+								<div class="missedbox clearfix rtborder" data-boxno="r22_c2_i2_1" data-track="label=edit_top100&c_type=edit_top100&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Finterview%2Fno-prime-minister-orders-military-attacks%2F20260203.htm">
+			<div class="missedimg rcorner"><a href="https://www.rediff.com/news/interview/no-prime-minister-orders-military-attacks/20260203.htm" data-secid="sec18" data-pos="8"><img src="//im.rediff.com/80-80/news/2022/jul/29galwan.jpg" width="80" height="80" class="rcorner" alt="'No Prime Minister Orders Military Attacks'" loading="lazy" /></a></div><h3><a href="https://www.rediff.com/news/interview/no-prime-minister-orders-military-attacks/20260203.htm" data-secid="sec18" data-pos="8">'No Prime Minister Orders Military Attacks'</a></h3>
+			<p class="ttoread">10 min read</p>		</div>
+								<div class="missedbox clearfix rtborder" data-boxno="r22_c3_i3_1" data-track="label=edit_top100&c_type=edit_top100&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Fhuge-uproar-in-ls-as-rahul-gandhi-cites-gen-naravane-memoir%2F20260202.htm">
+			<div class="missedimg rcorner"><a href="https://www.rediff.com/news/report/huge-uproar-in-ls-as-rahul-gandhi-cites-gen-naravane-memoir/20260202.htm" data-secid="sec18" data-pos="9"><img src="//im.rediff.com/80-80/news/2026/feb/02rahul-gandhi.jpg" width="80" height="80" class="rcorner" alt="LS erupts as Rahul cites ex-Army chief on China clash" loading="lazy" /></a></div><h3><a href="https://www.rediff.com/news/report/huge-uproar-in-ls-as-rahul-gandhi-cites-gen-naravane-memoir/20260202.htm" data-secid="sec18" data-pos="9">LS erupts as Rahul cites ex-Army chief on China clash</a></h3>
+			<p class="ttoread">6 min read</p>		</div>
+								<div class="missedbox clearfix rtborder" data-boxno="r22_c4_i4_1" data-track="label=edit_top100&c_type=edit_top100&news=https%3A%2F%2Fwww.rediff.com%2Fnews%2Freport%2Ftrump-announces-trade-deal-after-call-with-modi-cuts-tariffs%2F20260202.htm">
+			<div class="missedimg rcorner"><a href="https://www.rediff.com/news/report/trump-announces-trade-deal-after-call-with-modi-cuts-tariffs/20260202.htm" data-secid="sec18" data-pos="10"><img src="//im.rediff.com/80-80/news/2026/feb/02trump.jpg" width="80" height="80" class="rcorner" alt="Trump announces trade deal after call with Modi, cuts tariffs" loading="lazy" /></a></div><h3><a href="https://www.rediff.com/news/report/trump-announces-trade-deal-after-call-with-modi-cuts-tariffs/20260202.htm" data-secid="sec18" data-pos="10">Trump announces trade deal after call with Modi, cuts tariffs</a></h3>
+			<p class="ttoread">4 min read</p>		</div>
+								<div class="missedbox clearfix " data-boxno="r22_c5_i5_1" data-track="label=edit_top100&c_type=edit_top100&news=https%3A%2F%2Fwww.rediff.com%2Fcricket%2Freport%2Ft20-world-cup-rocked-pakistan-to-boycott-india-clash%2F20260201.htm">
+			<div class="missedimg rcorner"><a href="https://www.rediff.com/cricket/report/t20-world-cup-rocked-pakistan-to-boycott-india-clash/20260201.htm" data-secid="sec18" data-pos="11"><img src="//im.rediff.com/80-80/cricket/2025/sep/14sky-handshske.jpg" width="80" height="80" class="rcorner" alt="T20 World Cup rocked! Pakistan to boycott India clash" loading="lazy" /></a></div><h3><a href="https://www.rediff.com/cricket/report/t20-world-cup-rocked-pakistan-to-boycott-india-clash/20260201.htm" data-secid="sec18" data-pos="11">T20 World Cup rocked! Pakistan to boycott India clash</a></h3>
+			<p class="ttoread">4 min read</p>		</div>
+							</div>
+	<div class="relative"><a href="https://www.rediff.com/topstories" class="seemore top100" data-secid="sec18" data-pos="12">See More &gt;</a></div>
+</div>
+<i class="secgap"></i>
+<div class="alignC advtcontainer maxwrap bgwhite"><div class="advttext"></div><div id="world_bottom1" class="div_advt_bottom bgwhite"><ins data-revive-zoneid="79" data-revive-source="_blank" data-revive-target="_blank" data-revive-id="4b71f4079fb345c8ac958d0e9f0b56dd" data-zonename="Rediff_Home_Native_Widget_BTF_IN"></ins></div></div>
+<div id="footerLinks" class="footerlinks wrapper">
+	<a href="https://track.rediff.com/click?url=___https://workmail.rediff.com?sc_cid=footer-biz-email___&cmp=host&lnk=footer-biz-email&nsrv1=host">Rediffmail for Work</a><a href="https://track.rediff.com/click?url=___https://businessemail.rediff.com/domain?sc_cid=footer-domain___&cmp=host&lnk=footer-domain&nsrv1=host">Book a domain</a><a href="https://mail.rediff.com/cgi-bin/login.cgi">Rediffmail</a><a href="https://money.rediff.com">Money</a><a href="https://ishare.rediff.com">Videos</a><a href="https://www.rediff.com/topstories">The Timeless 100</a>
+</div>
+<div class="footer alignC wrapper" data-boxno="footer" data-track="label=footer"><img src="//imworld.rediff.com/worldrediff/pix/rediff-on-net-footer-2.png" width="94" height="40" style="vertical-align:middle" alt="rediff on the net"  /> &#169; 2026 <a href="https://www.rediff.com/" title="Rediff.com">Rediff.com</a> - <a href="https://investor.rediff.com/">Investor Information</a> - <a href="https://clients.rediff.com/rediff_advertisewithus/contact.htm">Advertise with us</a> - <a href="https://www.rediff.com/disclaim.htm">Disclaimer</a> - <a href="https://www.rediff.com/w3c/policy.html">Privacy Policy</a> - <a href="https://www.rediff.com/sitemap.xml" title="Sitemap.xml">Sitemap</a> - <a href="https://mypage.rediff.com/feedback">Feedback</a> - <a href="https://www.rediff.com/aboutus.html">About us</a> - <a href="https://www.rediff.com/terms.html">Terms of use</a> - <a href="https://www.rediff.com/grievances.html">Grievances</a></div><div id="div_rd_vdplayer" class="div_rd_vdplayer"><span id="vdclose" class='vdclose' title="Close Video">Close</span><iframe id='rd_inline_video_frame' name='rd_inline_video_frame' width='100%' title='inline_video' class='inlinevdframe' allowfullscreen></iframe><span id="invdtitle" class='invdtitle'></span></div>
+<div id="div_menu_back" class="div_menu_back"></div>
+<div id="div_menu" class="div_menu">
+	<div class="logobar"><div class="homesprite menuclose" onclick="showHideMenu();"></div><a href="https://www.rediff.com"><img src="//imworld.rediff.com/worldrediff/pix/rediff_newlogo.svg" width="120" height="30" alt="logo" class="menulogo" /></a></div>
+	<form name="newsrchform" onsubmit="return submitNewsSearch()" action="https://www.rediff.com/search" method="POST" class="newsrchform"><input type="text" id="srchquery_tbox" name="srchquery_tbox" value="" class="menusrchbox" autocomplete="off" placeholder="Search news" aria-label="Search news" />
+	<input type="submit" value=" " class="menusrchbtn" title="Search" aria-label="Submit" /></form>
+	<p class="menurow dn">NEWS</p>
+	<ul class="ulmenu">
+		<li><a href="https://www.rediff.com/news/headlines">Headlines</a></li>
+		<li><a href="https://www.rediff.com/news/defence">Defence</a></li>
+		<li><a href="https://www.rediff.com/news/slideshows">Images</a></li>
+		<li><a href="https://www.rediff.com/news/columns">Columns</a></li>
+		<li><a href="https://www.rediff.com/news/interview">Interviews</a></li>
+		<li><a href="https://www.rediff.com/news/specials">Specials</a></li>
+	</ul>
+	<p class="menurow dn">BUSINESS</p>
+	<ul class="ulmenu">
+		<li><a href="https://www.rediff.com/business/headlines">Headlines</a></li>
+		<li><a href="https://www.rediff.com/business/columns">Columns</a></li>
+		<li><a href="https://www.rediff.com/business/specials">Specials</a></li>
+		<li><a href="https://www.rediff.com/business/personal-finance">Personal Finance</a></li>
+		<li><a href="https://www.rediff.com/business/interviews">Interviews</a></li>
+		<li><a href="https://www.rediff.com/business/slideshows">Images</a></li>
+		<li><a href="https://www.rediff.com/business/technology">Technology</a></li>
+		<li><a href="https://www.rediff.com/business/automobiles">Auto</a></li>
+		<li><a href="https://www.rediff.com/business/personal-finance/headlines">Money Tips</a></li>
+		<li><a href="https://www.rediff.com/business/union-budget-2026">UNION BUDGET 2026</a></li>
+	</ul>
+	<p class="menurow dn">MOVIES</p>
+	<ul class="ulmenu">
+		<li><a href="https://www.rediff.com/movies/headlines">Headlines</a></li>
+		<li><a href="https://www.rediff.com/movies/interviews">Interviews</a></li>
+		<li><a href="https://www.rediff.com/movies/reviews">Reviews</a></li>
+		<li><a href="https://www.rediff.com/movies/web-series">Web Series</a></li>
+		<li><a href="https://www.rediff.com/movies/television">Television</a></li>
+		<li><a href="https://www.rediff.com/movies/videos">Videos</a></li>
+		<li><a href="https://www.rediff.com/movies/southernspice">South Cinema</a></li>
+		<li><a href="https://www.rediff.com/movies/spotted">Stars Spotted</a></li>
+	</ul>
+	<p class="menurow dn">CRICKET</p>
+	<ul class="ulmenu">
+		<li><a href="https://www.rediff.com/cricket/headlines">Headlines</a></li>
+		<li><a href="https://www.rediff.com/cricket/slideshows">Images</a></li>
+		<li><a href="https://www.rediff.com/cricket/statistics">Stats</a></li>
+		<li><a href="https://www.rediff.com/cricket/women">Women's Cricket</a></li>
+	</ul>
+	<p class="menurow dn">SPORTS</p>
+	<ul class="ulmenu">
+		<li><a href="https://www.rediff.com/sports/headlines">Headlines</a></li>
+		<li><a href="https://www.rediff.com/sports/formula1">Formula 1</a></li>
+		<li><a href="https://www.rediff.com/sports/football">Football</a></li>
+		<li><a href="https://www.rediff.com/sports/tennis">Tennis</a></li>
+		<li><a href="https://www.rediff.com/sports/othersports">News</a></li>
+	</ul>
+	<p class="menurow dn">GET AHEAD</p>
+	<ul class="ulmenu">
+		<li><a href="https://www.rediff.com/getahead/headlines">Headlines</a></li>
+		<li><a href="https://www.rediff.com/getahead/ugc">Specials</a></li>
+		<li><a href="https://www.rediff.com/getahead/career">Careers</a></li>
+		<li><a href="https://www.rediff.com/getahead/glamour">Glamour</a></li>
+		<li><a href="https://www.rediff.com/getahead/healthandfitness">Health</a></li>
+		<li><a href="https://www.rediff.com/getahead/achievers">Achievers</a></li>
+		<li><a href="https://www.rediff.com/getahead/personalfinance">Finance</a></li>
+		<li><a href="https://www.rediff.com/getahead/travel">Travel</a></li>
+		<li><a href="https://www.rediff.com/getahead/food">Food</a></li>
+		<li><a href="https://www.rediff.com/getahead/videos">Videos</a></li>
+		<li><a href="https://www.rediff.com/getahead/gadgets-n-gaming">Gadgets</a></li>
+		<li><a href="https://www.rediff.com/getahead/biking-and-motoring">Biking</a></li>
+		<li><a href="https://www.rediff.com/getahead/relationships">Relationships</a></li>
+	</ul>
+	<a href="https://money.rediff.com" data-secid="drawer_rediffmoney" data-pos="1"><p class="menurow">REDIFF MONEY</p></a>
+	<a href="https://tv.rediff.com" data-secid="drawer_redifftv" data-pos="1"><p class="menurow">REDIFF-TV</p></a>
+	<a href="https://astrology.rediff.com" data-secid="drawer_rediffastro" data-pos="1"><p class="menurow">REDIFF ASTRO</p></a>
+	<a href="https://pay.rediff.com/webapp/recharge/25a140b3-52a9-42c4-a914-3e4bc088d547?utm_source=rediff_home_drawer&utm_medium=pc&utm_campaign=rediffpay&utm_content=rediffpay_rediff_home_drawer_pc" data-secid="drawer_mobrecharge" data-pos="1"><p class="menurow">MOBILE RECHARGE</p></a>
+	<a href="https://pay.rediff.com/webapp?utm_source=rediff_home_drawer&utm_medium=pc&utm_campaign=rediffpay&utm_content=rediffpay_rediff_home_drawer_pc" data-secid="drawer_billpay" data-pos="1"><p class="menurow">BILL PAYMENTS</p></a>
+</div>
+
+<script>if(document.getElementById('div_moneyframe')){document.getElementById('div_moneyframe').innerHTML="<iframe id='moneyiframe' name='moneyiframe' width='700' height='30' src='https://money.rediff.com/widget/moneywizwidget/rhome' title='Rediff Money Widget' class='moneyiframe'></iframe>";}</script>
+
+<script src="//imworld.rediff.com/worldrediff/js_2_5/newhome_ind_11_min.js" async></script>
+<script async src="//newads.rediff.com/rediffadserver/www/delivery/asyncjs.php"></script>
+<i class="botgap"></i>
+<!-- Rediff_Desktop_ROS_970x50_Sticky_IN -->
+<div id="div_bot_sticky" class="div_bot_sticky"><div id='div-gpt-ad-1754644335779-0' style='min-width:970px;min-height:66px;'><script>googletag.cmd.push(function(){googletag.display('div-gpt-ad-1754644335779-0');});</script></div></div>
+<!-- Google tag (gtag.js) -->
+
+<script defer src="https://www.googletagmanager.com/gtag/js?id=G-3FM4PW27JR"></script> 
+<script> 
+window.dataLayer = window.dataLayer || []; 
+function gtag(){dataLayer.push(arguments);} 
+gtag('js', new Date()); 
+gtag('config', 'G-3FM4PW27JR'); 
+</script>
+
+<!-- End Google tag (gtag.js) -->
+<script>
+function trackSectionClick(sectionId, position){
+	gtag('event', 'section_click', {
+		'event_category' : 'user_engagement',
+		'event_label' : sectionId,
+		'value' : position,
+		'section_id' : sectionId,
+		'position' : position,
+		'device_t' : 'pc'
+	});
+}
+const seclinks = document.querySelectorAll('[data-secid]');
+const tot_seclinks = seclinks.length;
+for(let i=0; i<tot_seclinks; i++){
+	seclinks[i].addEventListener('click', function(e){
+		var datasecid = seclinks[i].getAttribute('data-secid');
+		var datapos = seclinks[i].getAttribute('data-pos');
+		trackSectionClick(datasecid,datapos);
+	});
+}
+</script>
+
+<noscript><div class="msg_noscript">Your browser does not support JavaScript or it may be disabled!</div></noscript>
+</body>
+</html>
