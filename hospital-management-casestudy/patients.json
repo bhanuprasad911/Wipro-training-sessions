@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "name": "John Doe",
+        "age": 35,
+        "disease": "Hypertension",
+        "contact": "555-0199",
+        "doctor_assigned": "Dr. Gregory House",
+        "id": 1
+    },
+    {
+        "name": "John",
+        "age": 30,
+        "disease": "Hypertension",
+        "contact": "555-0199",
+        "doctor_assigned": "Dr. Smith",
+        "id": 2
+    },
+    {
+        "name": "John",
+        "age": 30,
+        "disease": "Hypertension",
+        "contact": "555-0199",
+        "doctor_assigned": "Dr. Smith",
+        "id": 3
+    }
+]
