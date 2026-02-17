@@ -1,8 +1,6 @@
 from flask import Flask, request, jsonify
 
 app = Flask(__name__)
-
-# Simulated Database
 db = {
     "restaurants": {},
     "dishes": {},
@@ -12,7 +10,7 @@ db = {
     "ratings": []
 }
 
-# --- 1. RESTAURANT MODULE ---
+
 
 @app.route('/api/v1/restaurants', methods=['POST'])
 def register_restaurant():
@@ -22,8 +20,8 @@ def register_restaurant():
     
     res_id = len(db["restaurants"]) + 1
     data['id'] = res_id
-    data['status'] = 'pending'  # Requirement 9/10: Admin must approve
-    data['enabled'] = True      # Requirement 3: Can be disabled
+    data['status'] = 'pending' 
+    data['enabled'] = True     
     db["restaurants"][res_id] = data
     return jsonify(data), 201
 
@@ -47,7 +45,6 @@ def view_restaurant(res_id):
     res = db["restaurants"].get(res_id)
     return jsonify(res) if res else (jsonify({"error": "Not Found"}), 404)
 
-# --- 2. DISH MODULE ---
 
 @app.route('/api/v1/restaurants/<int:res_id>/dishes', methods=['POST'])
 def add_dish(res_id):
@@ -57,7 +54,7 @@ def add_dish(res_id):
     dish_id = len(db["dishes"]) + 1
     data['id'] = dish_id
     data['restaurant_id'] = res_id
-    data['enabled'] = True # Requirement 7: For Enable/Disable
+    data['enabled'] = True 
     db["dishes"][dish_id] = data
     return jsonify(data), 201
 
@@ -84,7 +81,6 @@ def delete_dish(dish_id):
         return jsonify({"message": "Dish deleted"}), 200
     return jsonify({"error": "Not Found"}), 404
 
-# --- 3. ADMIN MODULE ---
 
 @app.route('/api/v1/admin/restaurants/<int:restaurant_id>/approve', methods=['PUT'])
 def approve_restaurant(restaurant_id):
@@ -101,7 +97,6 @@ def view_feedback():
 def view_all_orders():
     return jsonify(db["orders"]), 200
 
-# --- 4. USER & SEARCH MODULE ---
 
 @app.route('/api/v1/users/register', methods=['POST'])
 def register_user():
@@ -112,7 +107,6 @@ def register_user():
 
 @app.route('/api/v1/restaurants/search', methods=['GET'])
 def search_restaurants():
-    # Requirement 14: Search by name, location, etc.
     name = request.args.get('name', '').lower()
     location = request.args.get('location', '').lower()
     
@@ -126,11 +120,8 @@ def search_restaurants():
 def give_rating():
     data = request.get_json()
     db["ratings"].append(data)
-    # Also add to feedback for Admin Requirement 11
     db["feedback"].append({"order_id": data['order_id'], "comment": data['comment']})
     return jsonify(data), 201
-
-# --- 5. ORDER MODULE ---
 
 @app.route('/api/v1/orders', methods=['POST'])
 def place_order():
