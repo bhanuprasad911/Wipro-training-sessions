@@ -1,0 +1,28 @@
+2026-02-23 09:13:34,839 - INFO - ========== TEST SUITE STARTED ==========
+2026-02-23 09:13:35,256 - INFO - Reading login data from Excel file: /home/vamshi/bhanu/Wipro/Capstone_Project/tests/../data/data.xlsx
+2026-02-23 09:13:35,268 - INFO - Total test data rows loaded: 3
+2026-02-23 09:13:35,272 - INFO - Reading login data from Excel file: /home/vamshi/bhanu/Wipro/Capstone_Project/tests/../data/data.xlsx
+2026-02-23 09:13:35,282 - INFO - Total test data rows loaded: 2
+2026-02-23 09:13:35,286 - INFO - Reading login data from Excel file: /home/vamshi/bhanu/Wipro/Capstone_Project/tests/../data/data.xlsx
+2026-02-23 09:13:35,299 - INFO - Total test data rows loaded: 2
+2026-02-23 09:13:35,302 - INFO - Reading place order data from Excel file: /home/vamshi/bhanu/Wipro/Capstone_Project/tests/../data/data.xlsx
+2026-02-23 09:13:35,313 - INFO - Total test data rows loaded: 2
+2026-02-23 09:13:35,316 - INFO - Reading registration data from Excel file: /home/vamshi/bhanu/Wipro/Capstone_Project/tests/../data/data.xlsx
+2026-02-23 09:13:35,326 - INFO - Total test data rows loaded: 1
+2026-02-23 09:13:35,331 - INFO - Reading search data from Excel file: /home/vamshi/bhanu/Wipro/Capstone_Project/tests/../data/data.xlsx
+2026-02-23 09:13:35,342 - INFO - Total test data rows loaded: 2
+2026-02-23 09:13:35,345 - INFO - Reading sort data from Excel file: /home/vamshi/bhanu/Wipro/Capstone_Project/tests/../data/data.xlsx
+2026-02-23 09:13:35,356 - INFO - Total test data rows loaded: 6
+2026-02-23 09:13:35,359 - INFO - ------ Test Started: test_user_registration[data0] ------
+2026-02-23 09:13:35,362 - INFO - Browser Setup Started: chrome
+2026-02-23 09:13:35,363 - INFO - ====== WebDriver manager ======
+2026-02-23 09:13:35,516 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-23 09:13:36,202 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-23 09:13:36,974 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-23 09:13:38,204 - INFO - WebDriver version 144.0.7559.133 selected
+2026-02-23 09:13:38,213 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.133/linux64/chromedriver-linux64.zip
+2026-02-23 09:13:38,213 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.133/linux64/chromedriver-linux64.zip
+2026-02-23 09:13:38,559 - INFO - ------ Test Finished: test_user_registration[data0] ------
+
+2026-02-23 09:13:39,147 - INFO - ========== TEST SUITE FINISHED ==========
+2026-02-23 09:13:39,152 - INFO - Total Tests Collected: 22

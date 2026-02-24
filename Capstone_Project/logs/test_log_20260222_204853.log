@@ -1,0 +1,442 @@
+2026-02-22 20:48:53,835 - INFO - ========== TEST SUITE STARTED ==========
+2026-02-22 20:48:54,244 - INFO - Reading login data from Excel file: /home/vamshi/bhanu/Wipro/Capstone_Project/tests/../data/data.xlsx
+2026-02-22 20:48:54,258 - INFO - Total test data rows loaded: 3
+2026-02-22 20:48:54,262 - INFO - Reading login data from Excel file: /home/vamshi/bhanu/Wipro/Capstone_Project/tests/../data/data.xlsx
+2026-02-22 20:48:54,274 - INFO - Total test data rows loaded: 2
+2026-02-22 20:48:54,278 - INFO - Reading login data from Excel file: /home/vamshi/bhanu/Wipro/Capstone_Project/tests/../data/data.xlsx
+2026-02-22 20:48:54,289 - INFO - Total test data rows loaded: 2
+2026-02-22 20:48:54,292 - INFO - Reading place order data from Excel file: /home/vamshi/bhanu/Wipro/Capstone_Project/tests/../data/data.xlsx
+2026-02-22 20:48:54,304 - INFO - Total test data rows loaded: 2
+2026-02-22 20:48:54,307 - INFO - Reading registration data from Excel file: /home/vamshi/bhanu/Wipro/Capstone_Project/tests/../data/data.xlsx
+2026-02-22 20:48:54,318 - INFO - Total test data rows loaded: 1
+2026-02-22 20:48:54,322 - INFO - Reading search data from Excel file: /home/vamshi/bhanu/Wipro/Capstone_Project/tests/../data/data.xlsx
+2026-02-22 20:48:54,334 - INFO - Total test data rows loaded: 2
+2026-02-22 20:48:54,336 - INFO - Reading sort data from Excel file: /home/vamshi/bhanu/Wipro/Capstone_Project/tests/../data/data.xlsx
+2026-02-22 20:48:54,347 - INFO - Total test data rows loaded: 6
+2026-02-22 20:48:54,350 - INFO - ------ Test Started: test_user_registration[data0] ------
+2026-02-22 20:48:54,352 - INFO - Browser Setup Started: chrome
+2026-02-22 20:48:54,353 - INFO - ====== WebDriver manager ======
+2026-02-22 20:48:54,636 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:48:56,511 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:48:57,209 - INFO - Driver [/home/vamshi/.wdm/drivers/chromedriver/linux64/144.0.7559.133/chromedriver-linux64/chromedriver] found in cache
+2026-02-22 20:49:10,952 - INFO - ========== STARTING USER REGISTRATION TEST ==========
+2026-02-22 20:49:10,952 - INFO - Clicking on Sign Up / My Account link
+2026-02-22 20:49:14,259 - INFO - Verifying registration page is loaded
+2026-02-22 20:49:14,330 - INFO - Entering email: Neeraja43@gmail.com
+2026-02-22 20:49:14,607 - INFO - Entering password
+2026-02-22 20:49:25,233 - ERROR - Test Failed: test_user_registration[data0]
+2026-02-22 20:49:25,233 - ERROR - Screenshot saved at: /home/vamshi/bhanu/Wipro/Capstone_Project/screenshots/test_user_registration[data0]_20260222_204925.png
+2026-02-22 20:49:25,234 - INFO - Browser Teardown Started
+2026-02-22 20:49:25,326 - INFO - Browser Closed Successfully
+
+2026-02-22 20:49:25,327 - INFO - ------ Test Finished: test_user_registration[data0] ------
+
+2026-02-22 20:49:25,327 - INFO - ------ Test Started: test_login[data0] ------
+2026-02-22 20:49:25,329 - INFO - Browser Setup Started: chrome
+2026-02-22 20:49:25,330 - INFO - ====== WebDriver manager ======
+2026-02-22 20:49:25,523 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:49:25,959 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:49:26,164 - INFO - Driver [/home/vamshi/.wdm/drivers/chromedriver/linux64/144.0.7559.133/chromedriver-linux64/chromedriver] found in cache
+2026-02-22 20:51:28,194 - INFO - ------ Test Finished: test_login[data0] ------
+
+2026-02-22 20:51:28,195 - INFO - ------ Test Started: test_login[data1] ------
+2026-02-22 20:51:28,196 - INFO - Browser Setup Started: chrome
+2026-02-22 20:51:28,196 - INFO - ====== WebDriver manager ======
+2026-02-22 20:51:28,326 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:51:28,776 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:51:28,914 - INFO - Driver [/home/vamshi/.wdm/drivers/chromedriver/linux64/144.0.7559.133/chromedriver-linux64/chromedriver] found in cache
+2026-02-22 20:51:42,767 - INFO - ========== STARTING LOGIN TEST ==========
+2026-02-22 20:51:42,767 - INFO - Opening My Account page
+2026-02-22 20:51:44,318 - INFO - Entering email: Rani16@gmail.com
+2026-02-22 20:51:44,623 - INFO - Entering password
+2026-02-22 20:51:44,898 - INFO - Clicking checkbox
+2026-02-22 20:51:45,191 - INFO - Clicking login button
+2026-02-22 20:51:46,549 - INFO - Validating logged in username
+2026-02-22 20:51:56,606 - INFO - Invalid login handled correctly
+2026-02-22 20:51:56,606 - INFO - ========== LOGIN TEST PASSED ==========
+2026-02-22 20:51:56,607 - INFO - Browser Teardown Started
+2026-02-22 20:51:56,708 - INFO - Browser Closed Successfully
+
+2026-02-22 20:51:56,709 - INFO - ------ Test Finished: test_login[data1] ------
+
+2026-02-22 20:51:56,709 - INFO - ------ Test Started: test_search_product[data0] ------
+2026-02-22 20:51:56,716 - INFO - Browser Setup Started: chrome
+2026-02-22 20:51:56,717 - INFO - ====== WebDriver manager ======
+2026-02-22 20:51:56,893 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:51:57,557 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:51:57,955 - INFO - Driver [/home/vamshi/.wdm/drivers/chromedriver/linux64/144.0.7559.133/chromedriver-linux64/chromedriver] found in cache
+2026-02-22 20:52:22,257 - INFO - ========== STARTING SEARCH PRODUCT TEST ==========
+2026-02-22 20:52:22,257 - INFO - Navigating to Shop page
+2026-02-22 20:52:30,024 - INFO - Current URL after navigation: https://practice.automationtesting.in/shop/
+2026-02-22 20:52:30,031 - INFO - Searching for product: Selenium Ruby
+2026-02-22 20:52:31,689 - INFO - Search submitted successfully
+2026-02-22 20:52:31,748 - INFO - Validating search results presence
+2026-02-22 20:52:31,840 - INFO - Search results found
+2026-02-22 20:52:33,505 - INFO - ========== SEARCH PRODUCT TEST COMPLETED ==========
+2026-02-22 20:52:33,512 - INFO - Browser Teardown Started
+2026-02-22 20:52:33,609 - INFO - Browser Closed Successfully
+
+2026-02-22 20:52:33,610 - INFO - ------ Test Finished: test_search_product[data0] ------
+
+2026-02-22 20:52:33,611 - INFO - ------ Test Started: test_search_product[data1] ------
+2026-02-22 20:52:33,613 - INFO - Browser Setup Started: chrome
+2026-02-22 20:52:33,614 - INFO - ====== WebDriver manager ======
+2026-02-22 20:52:33,774 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:52:33,885 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:52:34,039 - INFO - Driver [/home/vamshi/.wdm/drivers/chromedriver/linux64/144.0.7559.133/chromedriver-linux64/chromedriver] found in cache
+2026-02-22 20:52:45,672 - INFO - ========== STARTING SEARCH PRODUCT TEST ==========
+2026-02-22 20:52:45,673 - INFO - Navigating to Shop page
+2026-02-22 20:52:52,106 - INFO - Current URL after navigation: https://practice.automationtesting.in/shop/
+2026-02-22 20:52:52,114 - INFO - Searching for product: Robot
+2026-02-22 20:52:53,925 - INFO - Search submitted successfully
+2026-02-22 20:52:53,993 - INFO - Validating search results presence
+2026-02-22 20:53:04,127 - INFO - No products found - Validating negative scenario
+2026-02-22 20:53:04,179 - INFO - ========== SEARCH PRODUCT TEST COMPLETED ==========
+2026-02-22 20:53:04,180 - INFO - Browser Teardown Started
+2026-02-22 20:53:04,290 - INFO - Browser Closed Successfully
+
+2026-02-22 20:53:04,290 - INFO - ------ Test Finished: test_search_product[data1] ------
+
+2026-02-22 20:53:04,291 - INFO - ------ Test Started: test_add_product_to_cart ------
+2026-02-22 20:53:04,293 - INFO - Browser Setup Started: chrome
+2026-02-22 20:53:04,293 - INFO - ====== WebDriver manager ======
+2026-02-22 20:53:04,483 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:53:05,971 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:53:06,974 - INFO - Driver [/home/vamshi/.wdm/drivers/chromedriver/linux64/144.0.7559.133/chromedriver-linux64/chromedriver] found in cache
+2026-02-22 20:53:15,796 - INFO - ========== STARTING ADD PRODUCT TO CART TEST ==========
+2026-02-22 20:53:15,796 - INFO - Navigating to Shop page
+2026-02-22 20:53:17,399 - INFO - Current URL after navigation: https://practice.automationtesting.in/shop/
+2026-02-22 20:53:17,399 - INFO - Adding product to basket
+2026-02-22 20:53:17,540 - INFO - Validating product added to basket (View Basket visible)
+2026-02-22 20:53:17,654 - INFO - View basket button clicked
+2026-02-22 20:53:19,325 - INFO - Validating basket page URL
+2026-02-22 20:53:19,333 - INFO - Validating page title
+2026-02-22 20:53:19,347 - INFO - Page title: Basket – Automation Practice Site
+2026-02-22 20:53:19,355 - INFO - ========== ADD PRODUCT TO CART TEST PASSED ==========
+2026-02-22 20:53:19,356 - INFO - Browser Teardown Started
+2026-02-22 20:53:19,439 - INFO - Browser Closed Successfully
+
+2026-02-22 20:53:19,440 - INFO - ------ Test Finished: test_add_product_to_cart ------
+
+2026-02-22 20:53:19,441 - INFO - ------ Test Started: test_remove_product ------
+2026-02-22 20:53:19,442 - INFO - Browser Setup Started: chrome
+2026-02-22 20:53:19,443 - INFO - ====== WebDriver manager ======
+2026-02-22 20:53:19,580 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:53:19,988 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:53:20,290 - INFO - Driver [/home/vamshi/.wdm/drivers/chromedriver/linux64/144.0.7559.133/chromedriver-linux64/chromedriver] found in cache
+2026-02-22 20:53:41,867 - INFO - ========== STARTING REMOVE PRODUCT TEST ==========
+2026-02-22 20:53:41,868 - INFO - Navigating to Shop page
+2026-02-22 20:53:45,572 - INFO - Current URL after navigation: https://practice.automationtesting.in/shop/
+2026-02-22 20:53:45,581 - INFO - Adding product to basket
+2026-02-22 20:53:45,656 - INFO - Validating View Basket button visibility
+2026-02-22 20:53:46,022 - INFO - Clicking View Basket button
+2026-02-22 20:53:48,811 - INFO - Current URL after clicking View Basket: https://practice.automationtesting.in/basket/
+2026-02-22 20:53:48,819 - INFO - Removing product from cart
+2026-02-22 20:54:00,183 - INFO - Remaining remove buttons count: 0
+2026-02-22 20:54:10,240 - INFO - Final URL after removal: https://practice.automationtesting.in/basket/
+2026-02-22 20:54:10,240 - INFO - ========== REMOVE PRODUCT TEST PASSED ==========
+2026-02-22 20:54:10,241 - INFO - Browser Teardown Started
+2026-02-22 20:54:10,351 - INFO - Browser Closed Successfully
+
+2026-02-22 20:54:10,352 - INFO - ------ Test Finished: test_remove_product ------
+
+2026-02-22 20:54:10,352 - INFO - ------ Test Started: test_place_order_cod[data0] ------
+2026-02-22 20:54:10,353 - INFO - Browser Setup Started: chrome
+2026-02-22 20:54:10,354 - INFO - ====== WebDriver manager ======
+2026-02-22 20:54:10,495 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:54:10,662 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:54:10,764 - INFO - Driver [/home/vamshi/.wdm/drivers/chromedriver/linux64/144.0.7559.133/chromedriver-linux64/chromedriver] found in cache
+2026-02-22 20:54:22,227 - INFO - ========== PLACE ORDER LOGIN TEST ==========
+2026-02-22 20:54:22,227 - INFO - Navigating to Shop page
+2026-02-22 20:54:25,618 - INFO - Current URL after navigation: https://practice.automationtesting.in/shop/
+2026-02-22 20:54:25,618 - INFO - Adding product to basket
+2026-02-22 20:54:25,678 - INFO - Viewing basket
+2026-02-22 20:54:27,606 - INFO - Proceeding to checkout
+2026-02-22 20:54:29,553 - INFO - Filling billing details
+2026-02-22 20:54:30,907 - INFO - Selecting country: IN
+2026-02-22 20:54:30,922 - INFO - Entering address details
+2026-02-22 20:54:31,873 - INFO - Entering order notes
+2026-02-22 20:54:32,066 - INFO - Selecting payment method: cod
+2026-02-22 20:54:32,132 - INFO - Clicking Place Order button
+2026-02-22 20:54:36,457 - INFO - Verifying order success message
+2026-02-22 20:54:36,457 - INFO - Waiting for success message
+2026-02-22 20:54:36,505 - INFO - Success Message Received: Thank you. Your order has been received.
+2026-02-22 20:54:36,505 - INFO - ========== PLACE ORDER TEST PASSED ==========
+2026-02-22 20:54:36,506 - INFO - Browser Teardown Started
+2026-02-22 20:54:36,602 - INFO - Browser Closed Successfully
+
+2026-02-22 20:54:36,603 - INFO - ------ Test Finished: test_place_order_cod[data0] ------
+
+2026-02-22 20:54:36,603 - INFO - ------ Test Started: test_place_order_cod[data1] ------
+2026-02-22 20:54:36,604 - INFO - Browser Setup Started: chrome
+2026-02-22 20:54:36,605 - INFO - ====== WebDriver manager ======
+2026-02-22 20:54:36,744 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:54:36,871 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:54:37,034 - INFO - Driver [/home/vamshi/.wdm/drivers/chromedriver/linux64/144.0.7559.133/chromedriver-linux64/chromedriver] found in cache
+2026-02-22 20:54:45,926 - INFO - ========== PLACE ORDER LOGIN TEST ==========
+2026-02-22 20:54:45,927 - INFO - Navigating to Shop page
+2026-02-22 20:54:47,439 - INFO - Current URL after navigation: https://practice.automationtesting.in/shop/
+2026-02-22 20:54:47,440 - INFO - Adding product to basket
+2026-02-22 20:54:47,502 - INFO - Viewing basket
+2026-02-22 20:54:50,773 - INFO - Proceeding to checkout
+2026-02-22 20:54:53,731 - INFO - Filling billing details
+2026-02-22 20:54:54,590 - INFO - Selecting country: IN
+2026-02-22 20:54:54,603 - INFO - Entering address details
+2026-02-22 20:54:55,442 - INFO - Entering order notes
+2026-02-22 20:54:55,633 - INFO - Selecting payment method: bacs
+2026-02-22 20:54:55,696 - INFO - Clicking Place Order button
+2026-02-22 20:54:58,665 - INFO - Verifying order success message
+2026-02-22 20:54:58,665 - INFO - Waiting for success message
+2026-02-22 20:54:58,711 - INFO - Success Message Received: Thank you. Your order has been received.
+2026-02-22 20:54:58,712 - INFO - ========== PLACE ORDER TEST PASSED ==========
+2026-02-22 20:54:58,712 - INFO - Browser Teardown Started
+2026-02-22 20:54:58,805 - INFO - Browser Closed Successfully
+
+2026-02-22 20:54:58,806 - INFO - ------ Test Finished: test_place_order_cod[data1] ------
+
+2026-02-22 20:54:58,806 - INFO - ------ Test Started: test_sort_products[data0] ------
+2026-02-22 20:54:58,807 - INFO - Browser Setup Started: chrome
+2026-02-22 20:54:58,808 - INFO - ====== WebDriver manager ======
+2026-02-22 20:54:58,945 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:54:59,048 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:54:59,146 - INFO - Driver [/home/vamshi/.wdm/drivers/chromedriver/linux64/144.0.7559.133/chromedriver-linux64/chromedriver] found in cache
+2026-02-22 20:55:07,181 - INFO - ========== STARTING SORT PRODUCTS TEST ==========
+2026-02-22 20:55:07,181 - INFO - Navigating to Shop page
+2026-02-22 20:55:09,133 - INFO - Current URL after navigation: https://practice.automationtesting.in/shop/
+2026-02-22 20:55:09,140 - INFO - Selecting sort option: menu_order
+2026-02-22 20:55:09,224 - INFO - Current URL after sorting: https://practice.automationtesting.in/shop/
+2026-02-22 20:55:09,225 - INFO - Validating default sorting (no orderby parameter expected)
+2026-02-22 20:55:09,225 - INFO - ========== SORT PRODUCTS TEST PASSED ==========
+2026-02-22 20:55:09,226 - INFO - Browser Teardown Started
+2026-02-22 20:55:09,310 - INFO - Browser Closed Successfully
+
+2026-02-22 20:55:09,311 - INFO - ------ Test Finished: test_sort_products[data0] ------
+
+2026-02-22 20:55:09,311 - INFO - ------ Test Started: test_sort_products[data1] ------
+2026-02-22 20:55:09,312 - INFO - Browser Setup Started: chrome
+2026-02-22 20:55:09,313 - INFO - ====== WebDriver manager ======
+2026-02-22 20:55:09,451 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:55:09,960 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:55:10,433 - INFO - Driver [/home/vamshi/.wdm/drivers/chromedriver/linux64/144.0.7559.133/chromedriver-linux64/chromedriver] found in cache
+2026-02-22 20:55:23,092 - INFO - ========== STARTING SORT PRODUCTS TEST ==========
+2026-02-22 20:55:23,092 - INFO - Navigating to Shop page
+2026-02-22 20:55:27,023 - INFO - Current URL after navigation: https://practice.automationtesting.in/shop/
+2026-02-22 20:55:27,030 - INFO - Selecting sort option: popularity
+2026-02-22 20:55:30,099 - INFO - Current URL after sorting: https://practice.automationtesting.in/shop/?orderby=popularity
+2026-02-22 20:55:30,099 - INFO - Validating URL contains parameter: orderby=popularity
+2026-02-22 20:55:30,099 - INFO - ========== SORT PRODUCTS TEST PASSED ==========
+2026-02-22 20:55:30,100 - INFO - Browser Teardown Started
+2026-02-22 20:55:30,187 - INFO - Browser Closed Successfully
+
+2026-02-22 20:55:30,188 - INFO - ------ Test Finished: test_sort_products[data1] ------
+
+2026-02-22 20:55:30,188 - INFO - ------ Test Started: test_sort_products[data2] ------
+2026-02-22 20:55:30,189 - INFO - Browser Setup Started: chrome
+2026-02-22 20:55:30,190 - INFO - ====== WebDriver manager ======
+2026-02-22 20:55:30,331 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:55:30,661 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:55:31,367 - INFO - Driver [/home/vamshi/.wdm/drivers/chromedriver/linux64/144.0.7559.133/chromedriver-linux64/chromedriver] found in cache
+2026-02-22 20:55:56,825 - INFO - ========== STARTING SORT PRODUCTS TEST ==========
+2026-02-22 20:55:56,825 - INFO - Navigating to Shop page
+2026-02-22 20:56:00,399 - INFO - Current URL after navigation: https://practice.automationtesting.in/shop/
+2026-02-22 20:56:00,408 - INFO - Selecting sort option: rating
+2026-02-22 20:56:04,370 - INFO - Current URL after sorting: https://practice.automationtesting.in/shop/?orderby=rating
+2026-02-22 20:56:04,370 - INFO - Validating URL contains parameter: orderby=rating
+2026-02-22 20:56:04,370 - INFO - ========== SORT PRODUCTS TEST PASSED ==========
+2026-02-22 20:56:04,371 - INFO - Browser Teardown Started
+2026-02-22 20:56:04,475 - INFO - Browser Closed Successfully
+
+2026-02-22 20:56:04,476 - INFO - ------ Test Finished: test_sort_products[data2] ------
+
+2026-02-22 20:56:04,477 - INFO - ------ Test Started: test_sort_products[data3] ------
+2026-02-22 20:56:04,478 - INFO - Browser Setup Started: chrome
+2026-02-22 20:56:04,479 - INFO - ====== WebDriver manager ======
+2026-02-22 20:56:04,652 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:56:04,750 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:56:05,368 - INFO - Driver [/home/vamshi/.wdm/drivers/chromedriver/linux64/144.0.7559.133/chromedriver-linux64/chromedriver] found in cache
+2026-02-22 20:56:11,468 - INFO - ========== STARTING SORT PRODUCTS TEST ==========
+2026-02-22 20:56:11,468 - INFO - Navigating to Shop page
+2026-02-22 20:56:13,551 - INFO - Current URL after navigation: https://practice.automationtesting.in/shop/
+2026-02-22 20:56:13,559 - INFO - Selecting sort option: date
+2026-02-22 20:56:15,531 - INFO - Current URL after sorting: https://practice.automationtesting.in/shop/?orderby=date
+2026-02-22 20:56:15,532 - INFO - Validating URL contains parameter: orderby=date
+2026-02-22 20:56:15,532 - INFO - ========== SORT PRODUCTS TEST PASSED ==========
+2026-02-22 20:56:15,533 - INFO - Browser Teardown Started
+2026-02-22 20:56:15,614 - INFO - Browser Closed Successfully
+
+2026-02-22 20:56:15,614 - INFO - ------ Test Finished: test_sort_products[data3] ------
+
+2026-02-22 20:56:15,615 - INFO - ------ Test Started: test_sort_products[data4] ------
+2026-02-22 20:56:15,616 - INFO - Browser Setup Started: chrome
+2026-02-22 20:56:15,617 - INFO - ====== WebDriver manager ======
+2026-02-22 20:56:15,755 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:56:16,028 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:56:16,325 - INFO - Driver [/home/vamshi/.wdm/drivers/chromedriver/linux64/144.0.7559.133/chromedriver-linux64/chromedriver] found in cache
+2026-02-22 20:56:27,151 - INFO - ========== STARTING SORT PRODUCTS TEST ==========
+2026-02-22 20:56:27,151 - INFO - Navigating to Shop page
+2026-02-22 20:56:30,476 - INFO - Current URL after navigation: https://practice.automationtesting.in/shop/
+2026-02-22 20:56:30,483 - INFO - Selecting sort option: price
+2026-02-22 20:56:32,170 - INFO - Current URL after sorting: https://practice.automationtesting.in/shop/?orderby=price
+2026-02-22 20:56:32,170 - INFO - Validating URL contains parameter: orderby=price
+2026-02-22 20:56:32,171 - INFO - ========== SORT PRODUCTS TEST PASSED ==========
+2026-02-22 20:56:32,171 - INFO - Browser Teardown Started
+2026-02-22 20:56:32,263 - INFO - Browser Closed Successfully
+
+2026-02-22 20:56:32,263 - INFO - ------ Test Finished: test_sort_products[data4] ------
+
+2026-02-22 20:56:32,264 - INFO - ------ Test Started: test_sort_products[data5] ------
+2026-02-22 20:56:32,265 - INFO - Browser Setup Started: chrome
+2026-02-22 20:56:32,265 - INFO - ====== WebDriver manager ======
+2026-02-22 20:56:32,405 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:56:32,956 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:56:33,329 - INFO - Driver [/home/vamshi/.wdm/drivers/chromedriver/linux64/144.0.7559.133/chromedriver-linux64/chromedriver] found in cache
+2026-02-22 20:56:39,133 - INFO - ========== STARTING SORT PRODUCTS TEST ==========
+2026-02-22 20:56:39,133 - INFO - Navigating to Shop page
+2026-02-22 20:56:40,607 - INFO - Current URL after navigation: https://practice.automationtesting.in/shop/
+2026-02-22 20:56:40,613 - INFO - Selecting sort option: price-desc
+2026-02-22 20:56:42,612 - INFO - Current URL after sorting: https://practice.automationtesting.in/shop/?orderby=price-desc
+2026-02-22 20:56:42,613 - INFO - Validating URL contains parameter: orderby=price-desc
+2026-02-22 20:56:42,613 - INFO - ========== SORT PRODUCTS TEST PASSED ==========
+2026-02-22 20:56:42,613 - INFO - Browser Teardown Started
+2026-02-22 20:56:42,699 - INFO - Browser Closed Successfully
+
+2026-02-22 20:56:42,700 - INFO - ------ Test Finished: test_sort_products[data5] ------
+
+2026-02-22 20:56:42,700 - INFO - ------ Test Started: test_findOrdersByUser[data0] ------
+2026-02-22 20:56:42,701 - INFO - Browser Setup Started: chrome
+2026-02-22 20:56:42,702 - INFO - ====== WebDriver manager ======
+2026-02-22 20:56:42,841 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:56:43,363 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:56:43,975 - INFO - Driver [/home/vamshi/.wdm/drivers/chromedriver/linux64/144.0.7559.133/chromedriver-linux64/chromedriver] found in cache
+2026-02-22 20:56:55,611 - INFO - ========== STARTING FILTER ORDERS BY USER TEST ==========
+2026-02-22 20:56:55,611 - INFO - Clicking on Login/My Account link
+2026-02-22 20:56:57,047 - INFO - Current URL after clicking login: https://practice.automationtesting.in/my-account/
+2026-02-22 20:56:57,053 - INFO - Entering Email: Rani12@gmail.com
+2026-02-22 20:56:57,217 - INFO - Email entered in field: Rani12@gmail.com
+2026-02-22 20:56:57,217 - INFO - Entering Password
+2026-02-22 20:56:57,347 - INFO - Password entered successfully
+2026-02-22 20:56:57,347 - INFO - Selecting Remember Me checkbox
+2026-02-22 20:56:57,635 - INFO - Checkbox selected status: True
+2026-02-22 20:56:57,635 - INFO - Clicking Login button
+2026-02-22 20:57:00,798 - INFO - URL after login: https://practice.automationtesting.in/my-account/
+2026-02-22 20:57:00,804 - INFO - Checking if Orders table is displayed
+2026-02-22 20:57:00,805 - INFO - Checking if Orders table is displayed
+2026-02-22 20:57:02,492 - INFO - Orders table is visible
+2026-02-22 20:57:02,492 - INFO - ========== FILTER ORDERS BY USER TEST PASSED ==========
+2026-02-22 20:57:02,493 - INFO - Browser Teardown Started
+2026-02-22 20:57:02,578 - INFO - Browser Closed Successfully
+
+2026-02-22 20:57:02,578 - INFO - ------ Test Finished: test_findOrdersByUser[data0] ------
+
+2026-02-22 20:57:02,579 - INFO - ------ Test Started: test_findOrdersByUser[data1] ------
+2026-02-22 20:57:02,580 - INFO - Browser Setup Started: chrome
+2026-02-22 20:57:02,581 - INFO - ====== WebDriver manager ======
+2026-02-22 20:57:02,718 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:57:02,889 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:57:03,193 - INFO - Driver [/home/vamshi/.wdm/drivers/chromedriver/linux64/144.0.7559.133/chromedriver-linux64/chromedriver] found in cache
+2026-02-22 20:57:10,821 - INFO - ========== STARTING FILTER ORDERS BY USER TEST ==========
+2026-02-22 20:57:10,821 - INFO - Clicking on Login/My Account link
+2026-02-22 20:57:12,203 - INFO - Current URL after clicking login: https://practice.automationtesting.in/my-account/
+2026-02-22 20:57:12,210 - INFO - Entering Email: Rani13@gmail.com
+2026-02-22 20:57:12,371 - INFO - Email entered in field: Rani13@gmail.com
+2026-02-22 20:57:12,371 - INFO - Entering Password
+2026-02-22 20:57:12,529 - INFO - Password entered successfully
+2026-02-22 20:57:12,529 - INFO - Selecting Remember Me checkbox
+2026-02-22 20:57:12,884 - INFO - Checkbox selected status: True
+2026-02-22 20:57:12,884 - INFO - Clicking Login button
+2026-02-22 20:57:15,339 - INFO - URL after login: https://practice.automationtesting.in/my-account/
+2026-02-22 20:57:15,348 - INFO - Checking if Orders table is displayed
+2026-02-22 20:57:15,348 - INFO - Checking if Orders table is displayed
+2026-02-22 20:57:28,284 - INFO - No orders / Invalid login - Negative case handled
+2026-02-22 20:57:28,284 - INFO - ========== FILTER ORDERS BY USER TEST PASSED ==========
+2026-02-22 20:57:28,285 - INFO - Browser Teardown Started
+2026-02-22 20:57:28,385 - INFO - Browser Closed Successfully
+
+2026-02-22 20:57:28,390 - INFO - ------ Test Finished: test_findOrdersByUser[data1] ------
+
+2026-02-22 20:57:28,390 - INFO - ------ Test Started: test_filter_product[data0] ------
+2026-02-22 20:57:28,392 - INFO - Browser Setup Started: chrome
+2026-02-22 20:57:28,392 - INFO - ====== WebDriver manager ======
+2026-02-22 20:57:28,583 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:57:28,855 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:57:30,162 - INFO - Driver [/home/vamshi/.wdm/drivers/chromedriver/linux64/144.0.7559.133/chromedriver-linux64/chromedriver] found in cache
+2026-02-22 20:57:53,374 - INFO - ========== STARTING FILTER PRODUCT BY PRICE TEST ==========
+2026-02-22 20:57:53,375 - INFO - Navigating to Shop page
+2026-02-22 20:57:56,287 - INFO - Current URL after navigation: https://practice.automationtesting.in/shop/
+2026-02-22 20:57:56,300 - INFO - Applying price filter -> Min: 150.0, Max: 300.0
+2026-02-22 20:57:58,615 - INFO - Price filter applied successfully
+2026-02-22 20:57:58,633 - INFO - Number of products displayed after filtering: 4
+2026-02-22 20:57:58,640 - INFO - URL after filtering: https://practice.automationtesting.in/shop/?min_price=150.0&max_price=300.0
+2026-02-22 20:57:58,648 - INFO - ========== FILTER PRODUCT TEST PASSED ==========
+2026-02-22 20:57:58,649 - INFO - Browser Teardown Started
+2026-02-22 20:57:58,736 - INFO - Browser Closed Successfully
+
+2026-02-22 20:57:58,737 - INFO - ------ Test Finished: test_filter_product[data0] ------
+
+2026-02-22 20:57:58,737 - INFO - ------ Test Started: test_filter_product[data1] ------
+2026-02-22 20:57:58,738 - INFO - Browser Setup Started: chrome
+2026-02-22 20:57:58,739 - INFO - ====== WebDriver manager ======
+2026-02-22 20:57:58,879 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:57:59,036 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:57:59,550 - INFO - Driver [/home/vamshi/.wdm/drivers/chromedriver/linux64/144.0.7559.133/chromedriver-linux64/chromedriver] found in cache
+2026-02-22 20:58:11,959 - INFO - ========== STARTING FILTER PRODUCT BY PRICE TEST ==========
+2026-02-22 20:58:11,960 - INFO - Navigating to Shop page
+2026-02-22 20:58:14,982 - INFO - Current URL after navigation: https://practice.automationtesting.in/shop/
+2026-02-22 20:58:14,989 - INFO - Applying price filter -> Min: 200.0, Max: 400.0
+2026-02-22 20:58:16,599 - INFO - Price filter applied successfully
+2026-02-22 20:58:16,644 - INFO - Number of products displayed after filtering: 4
+2026-02-22 20:58:16,651 - INFO - URL after filtering: https://practice.automationtesting.in/shop/?min_price=200.0&max_price=400.0
+2026-02-22 20:58:16,657 - INFO - ========== FILTER PRODUCT TEST PASSED ==========
+2026-02-22 20:58:16,658 - INFO - Browser Teardown Started
+2026-02-22 20:58:16,741 - INFO - Browser Closed Successfully
+
+2026-02-22 20:58:16,742 - INFO - ------ Test Finished: test_filter_product[data1] ------
+
+2026-02-22 20:58:16,742 - INFO - ------ Test Started: test_filter_product[data2] ------
+2026-02-22 20:58:16,743 - INFO - Browser Setup Started: chrome
+2026-02-22 20:58:16,744 - INFO - ====== WebDriver manager ======
+2026-02-22 20:58:16,885 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:58:17,145 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:58:17,835 - INFO - Driver [/home/vamshi/.wdm/drivers/chromedriver/linux64/144.0.7559.133/chromedriver-linux64/chromedriver] found in cache
+2026-02-22 20:58:28,588 - INFO - ========== STARTING FILTER PRODUCT BY PRICE TEST ==========
+2026-02-22 20:58:28,588 - INFO - Navigating to Shop page
+2026-02-22 20:58:31,434 - INFO - Current URL after navigation: https://practice.automationtesting.in/shop/
+2026-02-22 20:58:31,440 - INFO - Applying price filter -> Min: 250.0, Max: 500.0
+2026-02-22 20:58:33,353 - INFO - Price filter applied successfully
+2026-02-22 20:58:33,373 - INFO - Number of products displayed after filtering: 6
+2026-02-22 20:58:33,381 - INFO - URL after filtering: https://practice.automationtesting.in/shop/?min_price=250.0&max_price=500.0
+2026-02-22 20:58:33,388 - INFO - ========== FILTER PRODUCT TEST PASSED ==========
+2026-02-22 20:58:33,389 - INFO - Browser Teardown Started
+2026-02-22 20:58:33,471 - INFO - Browser Closed Successfully
+
+2026-02-22 20:58:33,472 - INFO - ------ Test Finished: test_filter_product[data2] ------
+
+2026-02-22 20:58:33,472 - INFO - ------ Test Started: test_logout[data0] ------
+2026-02-22 20:58:33,474 - INFO - Browser Setup Started: chrome
+2026-02-22 20:58:33,474 - INFO - ====== WebDriver manager ======
+2026-02-22 20:58:33,613 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:58:34,116 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:58:35,185 - INFO - Driver [/home/vamshi/.wdm/drivers/chromedriver/linux64/144.0.7559.133/chromedriver-linux64/chromedriver] found in cache
+2026-02-22 20:58:45,975 - INFO - ========== STARTING LOGOUT TEST ==========
+2026-02-22 20:58:45,975 - INFO - Opening My Account page
+2026-02-22 20:58:48,906 - INFO - Performing login before logout
+2026-02-22 20:58:55,681 - INFO - Clicking sign out
+2026-02-22 20:59:06,801 - INFO - ========== LOGOUT TEST PASSED ==========
+2026-02-22 20:59:06,803 - INFO - Browser Teardown Started
+2026-02-22 20:59:06,892 - INFO - Browser Closed Successfully
+
+2026-02-22 20:59:06,892 - INFO - ------ Test Finished: test_logout[data0] ------
+
+2026-02-22 20:59:06,893 - INFO - ------ Test Started: test_open_homepage ------
+2026-02-22 20:59:06,894 - INFO - Browser Setup Started: chrome
+2026-02-22 20:59:06,895 - INFO - ====== WebDriver manager ======
+2026-02-22 20:59:07,032 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:59:07,608 - INFO - Get LATEST chromedriver version for google-chrome
+2026-02-22 20:59:07,959 - INFO - Driver [/home/vamshi/.wdm/drivers/chromedriver/linux64/144.0.7559.133/chromedriver-linux64/chromedriver] found in cache
+2026-02-22 20:59:46,891 - INFO - Browser Teardown Started
+2026-02-22 20:59:46,970 - INFO - Browser Closed Successfully
+
+2026-02-22 20:59:46,970 - INFO - ------ Test Finished: test_open_homepage ------
+
+2026-02-22 20:59:46,976 - INFO - ========== TEST SUITE FINISHED ==========
+2026-02-22 20:59:46,976 - INFO - Total Tests Collected: 22

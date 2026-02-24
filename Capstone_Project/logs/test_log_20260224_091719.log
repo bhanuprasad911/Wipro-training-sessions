@@ -1,0 +1,105 @@
+2026-02-24 09:17:19,165 - INFO - ========== TEST SUITE STARTED ==========
+2026-02-24 09:17:19,353 - INFO - Reading login data from Excel file: /home/vamshi/bhanu/Wipro/Capstone_Project/tests/../data/data.xlsx
+2026-02-24 09:17:19,364 - INFO - Total test data rows loaded: 3
+2026-02-24 09:17:19,366 - INFO - Reading login data from Excel file: /home/vamshi/bhanu/Wipro/Capstone_Project/tests/../data/data.xlsx
+2026-02-24 09:17:19,372 - INFO - Total test data rows loaded: 2
+2026-02-24 09:17:19,374 - INFO - Reading login data from Excel file: /home/vamshi/bhanu/Wipro/Capstone_Project/tests/../data/data.xlsx
+2026-02-24 09:17:19,380 - INFO - Total test data rows loaded: 2
+2026-02-24 09:17:19,382 - INFO - Reading place order data from Excel file: /home/vamshi/bhanu/Wipro/Capstone_Project/tests/../data/data.xlsx
+2026-02-24 09:17:19,388 - INFO - Total test data rows loaded: 2
+2026-02-24 09:17:19,389 - INFO - Reading registration data from Excel file: /home/vamshi/bhanu/Wipro/Capstone_Project/tests/../data/data.xlsx
+2026-02-24 09:17:19,395 - INFO - Total test data rows loaded: 1
+2026-02-24 09:17:19,398 - INFO - Reading search data from Excel file: /home/vamshi/bhanu/Wipro/Capstone_Project/tests/../data/data.xlsx
+2026-02-24 09:17:19,404 - INFO - Total test data rows loaded: 2
+2026-02-24 09:17:19,405 - INFO - Reading sort data from Excel file: /home/vamshi/bhanu/Wipro/Capstone_Project/tests/../data/data.xlsx
+2026-02-24 09:17:19,412 - INFO - Total test data rows loaded: 6
+2026-02-24 09:17:19,413 - INFO - ------ Test Started: test_user_registration[data0] ------
+2026-02-24 09:17:19,415 - INFO - Browser Setup Started: chrome
+2026-02-24 09:17:19,445 - INFO - ------ Test Finished: test_user_registration[data0] ------
+
+2026-02-24 09:17:19,445 - INFO - ------ Test Started: test_login[data0] ------
+2026-02-24 09:17:19,446 - INFO - Browser Setup Started: chrome
+2026-02-24 09:17:19,449 - INFO - ------ Test Finished: test_login[data0] ------
+
+2026-02-24 09:17:19,449 - INFO - ------ Test Started: test_login[data1] ------
+2026-02-24 09:17:19,449 - INFO - Browser Setup Started: chrome
+2026-02-24 09:17:19,452 - INFO - ------ Test Finished: test_login[data1] ------
+
+2026-02-24 09:17:19,452 - INFO - ------ Test Started: test_search_product[data0] ------
+2026-02-24 09:17:19,453 - INFO - Browser Setup Started: chrome
+2026-02-24 09:17:19,455 - INFO - ------ Test Finished: test_search_product[data0] ------
+
+2026-02-24 09:17:19,455 - INFO - ------ Test Started: test_search_product[data1] ------
+2026-02-24 09:17:19,456 - INFO - Browser Setup Started: chrome
+2026-02-24 09:17:19,459 - INFO - ------ Test Finished: test_search_product[data1] ------
+
+2026-02-24 09:17:19,459 - INFO - ------ Test Started: test_add_product_to_cart ------
+2026-02-24 09:17:19,459 - INFO - Browser Setup Started: chrome
+2026-02-24 09:17:19,463 - INFO - ------ Test Finished: test_add_product_to_cart ------
+
+2026-02-24 09:17:19,463 - INFO - ------ Test Started: test_remove_product ------
+2026-02-24 09:17:19,464 - INFO - Browser Setup Started: chrome
+2026-02-24 09:17:19,467 - INFO - ------ Test Finished: test_remove_product ------
+
+2026-02-24 09:17:19,467 - INFO - ------ Test Started: test_place_order_cod[data0] ------
+2026-02-24 09:17:19,468 - INFO - Browser Setup Started: chrome
+2026-02-24 09:17:19,472 - INFO - ------ Test Finished: test_place_order_cod[data0] ------
+
+2026-02-24 09:17:19,472 - INFO - ------ Test Started: test_place_order_cod[data1] ------
+2026-02-24 09:17:19,473 - INFO - Browser Setup Started: chrome
+2026-02-24 09:17:19,476 - INFO - ------ Test Finished: test_place_order_cod[data1] ------
+
+2026-02-24 09:17:19,476 - INFO - ------ Test Started: test_sort_products[data0] ------
+2026-02-24 09:17:19,477 - INFO - Browser Setup Started: chrome
+2026-02-24 09:17:19,480 - INFO - ------ Test Finished: test_sort_products[data0] ------
+
+2026-02-24 09:17:19,480 - INFO - ------ Test Started: test_sort_products[data1] ------
+2026-02-24 09:17:19,481 - INFO - Browser Setup Started: chrome
+2026-02-24 09:17:19,485 - INFO - ------ Test Finished: test_sort_products[data1] ------
+
+2026-02-24 09:17:19,485 - INFO - ------ Test Started: test_sort_products[data2] ------
+2026-02-24 09:17:19,485 - INFO - Browser Setup Started: chrome
+2026-02-24 09:17:19,488 - INFO - ------ Test Finished: test_sort_products[data2] ------
+
+2026-02-24 09:17:19,489 - INFO - ------ Test Started: test_sort_products[data3] ------
+2026-02-24 09:17:19,489 - INFO - Browser Setup Started: chrome
+2026-02-24 09:17:19,493 - INFO - ------ Test Finished: test_sort_products[data3] ------
+
+2026-02-24 09:17:19,493 - INFO - ------ Test Started: test_sort_products[data4] ------
+2026-02-24 09:17:19,494 - INFO - Browser Setup Started: chrome
+2026-02-24 09:17:19,498 - INFO - ------ Test Finished: test_sort_products[data4] ------
+
+2026-02-24 09:17:19,498 - INFO - ------ Test Started: test_sort_products[data5] ------
+2026-02-24 09:17:19,499 - INFO - Browser Setup Started: chrome
+2026-02-24 09:17:19,502 - INFO - ------ Test Finished: test_sort_products[data5] ------
+
+2026-02-24 09:17:19,502 - INFO - ------ Test Started: test_findOrdersByUser[data0] ------
+2026-02-24 09:17:19,503 - INFO - Browser Setup Started: chrome
+2026-02-24 09:17:19,507 - INFO - ------ Test Finished: test_findOrdersByUser[data0] ------
+
+2026-02-24 09:17:19,507 - INFO - ------ Test Started: test_findOrdersByUser[data1] ------
+2026-02-24 09:17:19,507 - INFO - Browser Setup Started: chrome
+2026-02-24 09:17:19,511 - INFO - ------ Test Finished: test_findOrdersByUser[data1] ------
+
+2026-02-24 09:17:19,511 - INFO - ------ Test Started: test_filter_product[data0] ------
+2026-02-24 09:17:19,512 - INFO - Browser Setup Started: chrome
+2026-02-24 09:17:19,515 - INFO - ------ Test Finished: test_filter_product[data0] ------
+
+2026-02-24 09:17:19,515 - INFO - ------ Test Started: test_filter_product[data1] ------
+2026-02-24 09:17:19,516 - INFO - Browser Setup Started: chrome
+2026-02-24 09:17:19,520 - INFO - ------ Test Finished: test_filter_product[data1] ------
+
+2026-02-24 09:17:19,520 - INFO - ------ Test Started: test_filter_product[data2] ------
+2026-02-24 09:17:19,521 - INFO - Browser Setup Started: chrome
+2026-02-24 09:17:19,524 - INFO - ------ Test Finished: test_filter_product[data2] ------
+
+2026-02-24 09:17:19,524 - INFO - ------ Test Started: test_logout[data0] ------
+2026-02-24 09:17:19,525 - INFO - Browser Setup Started: chrome
+2026-02-24 09:17:19,528 - INFO - ------ Test Finished: test_logout[data0] ------
+
+2026-02-24 09:17:19,528 - INFO - ------ Test Started: test_open_homepage ------
+2026-02-24 09:17:19,529 - INFO - Browser Setup Started: chrome
+2026-02-24 09:17:19,533 - INFO - ------ Test Finished: test_open_homepage ------
+
+2026-02-24 09:17:19,534 - INFO - ========== TEST SUITE FINISHED ==========
+2026-02-24 09:17:19,534 - INFO - Total Tests Collected: 22

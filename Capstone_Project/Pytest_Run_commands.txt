@@ -1,0 +1,15 @@
+Test single file
+pytest tests/test_login_page.py
+
+Run Specific Test Method
+pytest tests/test_login_page.py::test_login
+
+Run With Browser
+path-->tests/
+pytest -v --browser chrome
+pytest -v --browser firefox
+
+Generate HTML Report
+path-->tests/
+chrome-->pytest -v --html=reports/report_2026-02-19.html --self-contained-html
+fiefox--->pytest -v --browser firefox --html=reports/firefox_report.html --self-contained-html
